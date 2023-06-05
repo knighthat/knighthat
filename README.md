@@ -37,12 +37,12 @@ cloud services such as AWS, Oracle Clouds, etc.
 # Coding in
 
 <div align="center">
-<img src="https://i.ibb.co/ZWq22Tk/html-58x64.png" alt="-logo" height="48" border="1rem">
-<img src="https://i.ibb.co/Pzct1RR/css-58x64.png" alt="-logo" height="48">
-<img src="https://i.ibb.co/8svPxnd/javascript-logo-58x64.png" alt="-logo" height="48">
+<img src="https://i.ibb.co/ZWq22Tk/html-58x64.png" alt="html-logo" height="48" border="1rem">
+<img src="https://i.ibb.co/Pzct1RR/css-58x64.png" alt="css-logo" height="48">
+<img src="https://i.ibb.co/8svPxnd/javascript-logo-58x64.png" alt="js-logo" height="48">
 </div>
 <div align="center">
-<img src="https://i.ibb.co/jfM0T8Z/java-logo-51x64.png" alt="-logo" height="48">
-<img src="https://i.ibb.co/q5L623s/mysql-logo-64x64.png" alt="-logo" height="48">
-<img src="https://i.ibb.co/dJWHqQm/python-logo-64x64.png" alt="-logo" height="48">
+<img src="https://i.ibb.co/jfM0T8Z/java-logo-51x64.png" alt="java-logo" height="48">
+<img src="https://i.ibb.co/q5L623s/mysql-logo-64x64.png" alt="mysql-logo" height="48">
+<img src="https://i.ibb.co/dJWHqQm/python-logo-64x64.png" alt="python-logo" height="48">
 </div>
