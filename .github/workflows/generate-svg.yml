@@ -40,13 +40,16 @@ jobs:
           # Order
           config_order: "base.header, introduction, base.repositories, isocalendar, habits, activity, languages,"
 
+      - name: "Checkout Python Code"
+        uses: actions/checkout@v2
+
       - name: "Launch Python"
         uses: actions/setup-python@v2
         with:
           python-version: 3.11
 
       - name: "Prettify Raw SVG"
-        run: python $GITHUB_WORKSPACE/main.py $GITHUB_WORKSPACE/draft.svg
+        run: python main.py draft.svg
 
       - name: "Save result"
         run: mv prettified.svg $GITHUB_WORKSPACE/profile.svg
