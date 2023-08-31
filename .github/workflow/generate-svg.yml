@@ -1,0 +1,56 @@
+name: Generate Profile SVG
+
+on:
+  push:
+    branches:
+      - development
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: "Generate Raw SVG"
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: draft.svg
+          base: "header, repositories"
+          config_timezone: America/Chicago
+          # Introduction
+          plugin_introduction: yes
+          # Recent repositories
+          plugin_traffic: yes
+          # Calendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          # Commit habits
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: graph
+          plugin_habits_trim: yes
+          # Recent activity
+          plugin_activity: yes
+          # Most used languages
+          plugin_languages: yes
+          plugin_languages_other: yes
+          plugin_languages_section: most-used
+          plugin_languages_details: "bytes-size, percentage, lines"
+          # Order
+          config_order: "base.header, introduction, base.repositories, isocalendar, habits, activity, languages,"
+  prettify:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: "Launch Python"
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.11
+
+      - name: "Prettify Raw SVG"
+        run: python main.py draft.svg
+
+      - name: "Save result"
+        run: mv prettified.svg $GITHUB_WORKSPACE/profile.svg
