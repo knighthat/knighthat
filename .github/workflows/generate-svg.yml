@@ -3,7 +3,7 @@ name: Generate Profile SVG
 on:
   push:
     branches:
-      - development
+      - main
 
 jobs:
   generate:
@@ -35,21 +35,29 @@ jobs:
           # Most used languages
           plugin_languages: yes
           plugin_languages_other: yes
-          plugin_languages_section: most-used
+          plugin_languages_sections: most-used
           plugin_languages_details: "bytes-size, percentage, lines"
           # Order
           config_order: "base.header, introduction, base.repositories, isocalendar, habits, activity, languages,"
 
       - name: "Checkout Python Code"
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: "Launch Python"
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4.7.0
         with:
           python-version: 3.11
 
       - name: "Prettify Raw SVG"
-        run: python main.py draft.svg
+        run: |
+          python main.py draft.svg
+          mv prettified.svg profile.svg
 
-      - name: "Save result"
-        run: mv prettified.svg $GITHUB_WORKSPACE/profile.svg
+      - name: "Push Final SVG"
+        run: |
+          git config user.name house_keeper
+          git config user.email housekeper@noreply.com
+          git add profile.svg
+          today="$(date +'%B %d, %Y')"
+          git commit -m "update: $today"
+          git push
