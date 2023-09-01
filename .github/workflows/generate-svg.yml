@@ -42,6 +42,8 @@ jobs:
 
       - name: "Checkout Python Code"
         uses: actions/checkout@v3
+        with:
+          ref: 'main'
 
       - name: "Launch Python"
         uses: actions/setup-python@v4.7.0
