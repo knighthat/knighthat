@@ -2,7 +2,7 @@
     <ns0:defs>
         <ns0:style />
     </ns0:defs>
-    <ns0:style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chart{padding:0 8px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .bold,.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</ns0:style>
+    <ns0:style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.label{background-color:#58a6ff30;color:#0366d6;padding:0 10px;font-weight:500;line-height:22px;margin:2px 5px;white-space:nowrap;border-radius:32px;font-size:12px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chart{padding:0 8px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .bold,.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</ns0:style>
     <ns0:style />
     <ns0:foreignObject x="0" y="0" width="100%" height="100%">
         <html:div class="items-wrapper">
@@ -31,17 +31,17 @@
                             <ns0:svg viewBox="0 0 210 11" width="210" height="16">
                                 <ns0:g>
                                     <ns0:rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2" />
-                                    <ns0:rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2" />
-                                    <ns0:rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2" />
-                                    <ns0:rect class="day" x="45" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2" />
-                                    <ns0:rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2" />
+                                    <ns0:rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2" />
+                                    <ns0:rect class="day" x="30" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2" />
+                                    <ns0:rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2" />
+                                    <ns0:rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2" />
                                     <ns0:rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2" />
-                                    <ns0:rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2" />
-                                    <ns0:rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2" />
-                                    <ns0:rect class="day" x="120" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2" />
-                                    <ns0:rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2" />
-                                    <ns0:rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
-                                    <ns0:rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
+                                    <ns0:rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2" />
+                                    <ns0:rect class="day" x="105" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2" />
+                                    <ns0:rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2" />
+                                    <ns0:rect class="day" x="135" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2" />
+                                    <ns0:rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2" />
+                                    <ns0:rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2" />
                                     <ns0:rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
                                     <ns0:rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
                                 </ns0:g>
@@ -103,7 +103,7 @@
                                     <ns0:svg viewBox="0 0 16 16" width="16" height="16">
                                         <ns0:path fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z" />
                                     </ns0:svg>
-                                    12.9 MB used
+                                    13.2 MB used
                                 </html:div>
                             </html:section>
                             <html:section>
@@ -163,7 +163,7 @@
                             <ns0:svg viewBox="0 0 16 16" width="16" height="16">
                                 <ns0:path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z" />
                             </ns0:svg>
-                            Best streak 36 days
+                            Best streak 39 days
                         </html:div>
                         <html:h3 class="field">
                             <ns0:svg viewBox="0 0 16 16" width="16" height="16">
@@ -181,7 +181,7 @@
                             <ns0:svg viewBox="0 0 16 16" width="16" height="16">
                                 <ns0:path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z" />
                             </ns0:svg>
-                            Average per day at ~2.19
+                            Average per day at ~2.25
                         </html:div>
                     </html:section>
                 </html:div>
@@ -2126,22 +2126,27 @@
                             </ns0:g>
                         </ns0:g>
                         <ns0:g transform="translate(88.39999999999999, 52)">
-                            <ns0:g transform="translate(0, 5.6)">
+                            <ns0:g transform="translate(0, 5.333333333333333)">
+                                <ns0:path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z" />
+                                <ns0:path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6666666666666665 0,1.6666666666666665 z" />
+                                <ns0:path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6666666666666665 1.7,2.6666666666666665 z" />
+                            </ns0:g>
+                            <ns0:g transform="translate(-1.7, 5.666666666666667)">
                                 <ns0:path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z" />
-                                <ns0:path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4 0,1.4 z" />
-                                <ns0:path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4 1.7,2.4 z" />
+                                <ns0:path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.333333333333333 0,2.333333333333333 z" />
+                                <ns0:path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.333333333333333 1.7,3.333333333333333 z" />
                             </ns0:g>
-                            <ns0:g transform="translate(-1.7, 7)">
-                                <ns0:path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z" />
-                                <ns0:path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z" />
-                                <ns0:path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z" />
+                            <ns0:g transform="translate(-3.4, 7.733333333333333)">
+                                <ns0:path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z" />
+                                <ns0:path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2666666666666666 0,1.2666666666666666 z" />
+                                <ns0:path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2666666666666666 1.7,2.2666666666666666 z" />
                             </ns0:g>
-                            <ns0:g transform="translate(-3.4, 8)">
-                                <ns0:path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z" />
-                                <ns0:path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z" />
-                                <ns0:path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z" />
+                            <ns0:g transform="translate(-5.1, 7.533333333333333)">
+                                <ns0:path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z" />
+                                <ns0:path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.466666666666667 0,2.466666666666667 z" />
+                                <ns0:path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.466666666666667 1.7,3.466666666666667 z" />
                             </ns0:g>
-                            <ns0:g transform="translate(-5.1, 9)">
+                            <ns0:g transform="translate(-6.8, 10)">
                                 <ns0:path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z" />
                                 <ns0:path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z" />
                                 <ns0:path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z" />
@@ -2156,12 +2161,12 @@
                         <ns0:path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z" />
                     </ns0:svg>
                     Recent coding habits
-                    <html:small class="h-details">(computed from last 8 commits)</html:small>
+                    <html:small class="h-details">(computed from last 11 commits)</html:small>
                 </html:h2>
                 <html:div class="row">
                     <html:ul class="facts">
                         <html:li>Uses spaces for indentation</html:li>
-                        <html:li>Has approximately 37.8 characters per line of code written</html:li>
+                        <html:li>Has approximately 35.4 characters per line of code written</html:li>
                         <html:li>Mostly pushes code around 18:00</html:li>
                         <html:li>Mostly active on Sunday</html:li>
                     </html:ul>
@@ -2291,8 +2296,8 @@
                                     <ns0:text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</ns0:text>
                                 </ns0:g>
                             </ns0:g>
-                            <ns0:path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,81.25L323.043,81.25L342.609,81.25L362.174,10L381.739,105L401.304,105L420.87,105L440.435,81.25L460,105" fill="transparent" stroke="#87ceeb" stroke-width="2" />
-                            <ns0:path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,105L440.435,81.25L420.87,105L401.304,105L381.739,105L362.174,10L342.609,81.25L323.043,81.25L303.478,81.25L283.913,105L264.348,105L244.783,105L225.217,105L205.652,105L186.087,105L166.522,105L146.957,105L127.391,105L107.826,105L88.261,105L68.696,105L49.13,105L29.565,105L10,105Z" fill="rgba(88, 166, 255, .1)" />
+                            <ns0:path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,81.25L323.043,81.25L342.609,81.25L362.174,10L381.739,105L401.304,105L420.87,33.75L440.435,81.25L460,105" fill="transparent" stroke="#87ceeb" stroke-width="2" />
+                            <ns0:path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,105L440.435,81.25L420.87,33.75L401.304,105L381.739,105L362.174,10L342.609,81.25L323.043,81.25L303.478,81.25L283.913,105L264.348,105L244.783,105L225.217,105L205.652,105L186.087,105L166.522,105L146.957,105L127.391,105L107.826,105L88.261,105L68.696,105L49.13,105L29.565,105L10,105Z" fill="rgba(88, 166, 255, .1)" />
                             <ns0:g>
                                 <ns0:circle transform="translate(10,10)" cx="10" cy="105" r="2" fill="#106cbc" />
                                 <ns0:circle transform="translate(10,10)" cx="29.565217391304348" cy="105" r="2" fill="#106cbc" />
@@ -2315,7 +2320,7 @@
                                 <ns0:circle transform="translate(10,10)" cx="362.17391304347825" cy="10" r="2" fill="#106cbc" />
                                 <ns0:circle transform="translate(10,10)" cx="381.7391304347826" cy="105" r="2" fill="#106cbc" />
                                 <ns0:circle transform="translate(10,10)" cx="401.30434782608694" cy="105" r="2" fill="#106cbc" />
-                                <ns0:circle transform="translate(10,10)" cx="420.8695652173913" cy="105" r="2" fill="#106cbc" />
+                                <ns0:circle transform="translate(10,10)" cx="420.8695652173913" cy="33.75" r="2" fill="#106cbc" />
                                 <ns0:circle transform="translate(10,10)" cx="440.4347826086956" cy="81.25" r="2" fill="#106cbc" />
                                 <ns0:circle transform="translate(10,10)" cx="460" cy="105" r="2" fill="#106cbc" />
                             </ns0:g>
@@ -2341,7 +2346,7 @@
                                 <ns0:text transform="translate(10,6)" x="362.17391304347825" y="10" fill="rgba(127, 127, 127, .8)">4</ns0:text>
                                 <ns0:text transform="translate(10,6)" x="381.7391304347826" y="105" fill="rgba(127, 127, 127, .8)" />
                                 <ns0:text transform="translate(10,6)" x="401.30434782608694" y="105" fill="rgba(127, 127, 127, .8)" />
-                                <ns0:text transform="translate(10,6)" x="420.8695652173913" y="105" fill="rgba(127, 127, 127, .8)" />
+                                <ns0:text transform="translate(10,6)" x="420.8695652173913" y="33.75" fill="rgba(127, 127, 127, .8)">3</ns0:text>
                                 <ns0:text transform="translate(10,6)" x="440.4347826086956" y="81.25" fill="rgba(127, 127, 127, .8)">1</ns0:text>
                                 <ns0:text transform="translate(10,6)" x="460" y="105" fill="rgba(127, 127, 127, .8)" />
                             </ns0:g>
@@ -2406,13 +2411,13 @@
                                         <ns0:text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</ns0:text>
                                     </ns0:g>
                                 </ns0:g>
-                                <ns0:path transform="translate(10,10)" d="M10,10L41,33.75L72,105L103,105L134,105L165,105L196,81.25" fill="transparent" stroke="#87ceeb" stroke-width="2" />
-                                <ns0:path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,81.25L165,105L134,105L103,105L72,105L41,33.75L10,10Z" fill="rgba(88, 166, 255, .1)" />
+                                <ns0:path transform="translate(10,10)" d="M10,10L41,33.75L72,105L103,33.75L134,105L165,105L196,81.25" fill="transparent" stroke="#87ceeb" stroke-width="2" />
+                                <ns0:path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,81.25L165,105L134,105L103,33.75L72,105L41,33.75L10,10Z" fill="rgba(88, 166, 255, .1)" />
                                 <ns0:g>
                                     <ns0:circle transform="translate(10,10)" cx="10" cy="10" r="2" fill="#106cbc" />
                                     <ns0:circle transform="translate(10,10)" cx="41" cy="33.75" r="2" fill="#106cbc" />
                                     <ns0:circle transform="translate(10,10)" cx="72" cy="105" r="2" fill="#106cbc" />
-                                    <ns0:circle transform="translate(10,10)" cx="103" cy="105" r="2" fill="#106cbc" />
+                                    <ns0:circle transform="translate(10,10)" cx="103" cy="33.75" r="2" fill="#106cbc" />
                                     <ns0:circle transform="translate(10,10)" cx="134" cy="105" r="2" fill="#106cbc" />
                                     <ns0:circle transform="translate(10,10)" cx="165" cy="105" r="2" fill="#106cbc" />
                                     <ns0:circle transform="translate(10,10)" cx="196" cy="81.25" r="2" fill="#106cbc" />
@@ -2421,7 +2426,7 @@
                                     <ns0:text transform="translate(10,6)" x="10" y="10" fill="rgba(127, 127, 127, .8)">4</ns0:text>
                                     <ns0:text transform="translate(10,6)" x="41" y="33.75" fill="rgba(127, 127, 127, .8)">3</ns0:text>
                                     <ns0:text transform="translate(10,6)" x="72" y="105" fill="rgba(127, 127, 127, .8)" />
-                                    <ns0:text transform="translate(10,6)" x="103" y="105" fill="rgba(127, 127, 127, .8)" />
+                                    <ns0:text transform="translate(10,6)" x="103" y="33.75" fill="rgba(127, 127, 127, .8)">3</ns0:text>
                                     <ns0:text transform="translate(10,6)" x="134" y="105" fill="rgba(127, 127, 127, .8)" />
                                     <ns0:text transform="translate(10,6)" x="165" y="105" fill="rgba(127, 127, 127, .8)" />
                                     <ns0:text transform="translate(10,6)" x="196" y="81.25" fill="rgba(127, 127, 127, .8)">1</ns0:text>
@@ -2434,23 +2439,30 @@
                         <html:div class="margin-bottom">
                             <ns0:svg width="216" height="160">
                                 <ns0:g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <ns0:path fill="#A97BFF" d="M0.5,-79.998A80,80,0,0,1,70.535,37.747L0,0Z">
-                                        <ns0:title>Kotlin
-32.52</ns0:title>
-                                    </ns0:path>
-                                    <ns0:path fill="#b07219" d="M70.057,38.626A80,80,0,1,1,-0.5,-79.998L0,0Z">
+                                    <ns0:path fill="#b07219" d="M0.5,-79.998A80,80,0,1,1,-46.621,65.012L0,0Z">
                                         <ns0:title>Java
-66.47</ns0:title>
+58.32</ns0:title>
+                                    </ns0:path>
+                                    <ns0:path fill="#A97BFF" d="M-47.43,64.424A80,80,0,0,1,-2.479,-79.962L0,0Z">
+                                        <ns0:title>Kotlin
+38.43</ns0:title>
+                                    </ns0:path>
+                                    <ns0:path fill="#3572A5" d="M-1.479,-79.986A80,80,0,0,1,-0.5,-79.998L0,0Z">
+                                        <ns0:title>Python
+0.19</ns0:title>
                                     </ns0:path>
                                 </ns0:g>
                                 <ns0:g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <ns0:text transform="translate(34.37841963234072,-20.448087039688822)">
-                                        <ns0:tspan x="0" y="0em" font-weight="bold">Kotlin</ns0:tspan>
-                                        <ns0:tspan x="0" y="1.1em">32.52</ns0:tspan>
-                                    </ns0:text>
-                                    <ns0:text transform="translate(-34.37841963234074,20.4480870396888)">
+                                    <ns0:text transform="translate(38.04194652805649,12.361646506695244)">
                                         <ns0:tspan x="0" y="0em" font-weight="bold">Java</ns0:tspan>
-                                        <ns0:tspan x="0" y="1.1em">66.47</ns0:tspan>
+                                        <ns0:tspan x="0" y="1.1em">58.32</ns0:tspan>
+                                    </ns0:text>
+                                    <ns0:text transform="translate(-38.191953957553004,-11.890107354610013)">
+                                        <ns0:tspan x="0" y="0em" font-weight="bold">Kotlin</ns0:tspan>
+                                        <ns0:tspan x="0" y="1.1em">38.43</ns0:tspan>
+                                    </ns0:text>
+                                    <ns0:text transform="translate(-0.49481515065813053,-39.99693935748933)">
+                                        <ns0:tspan x="0" y="0em" font-weight="bold">Python</ns0:tspan>
                                     </ns0:text>
                                 </ns0:g>
                             </ns0:svg>
@@ -2472,9 +2484,9 @@
                         <ns0:rect x="0" y="0" width="460" height="8" fill="white" rx="5" />
                     </ns0:mask>
                     <ns0:rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da" />
-                    <ns0:rect mask="url(#languages-bar)" x="0" y="0" width="397.3594215247811" height="8" fill="#b07219" />
-                    <ns0:rect mask="url(#languages-bar)" x="397.3594215247811" y="0" width="49.326889434211054" height="8" fill="#A97BFF" />
-                    <ns0:rect mask="url(#languages-bar)" x="446.6863109589921" y="0" width="13.313689041007857" height="8" fill="#3572A5" />
+                    <ns0:rect mask="url(#languages-bar)" x="0" y="0" width="397.4523561805263" height="8" fill="#b07219" />
+                    <ns0:rect mask="url(#languages-bar)" x="397.4523561805263" y="0" width="48.890376914482935" height="8" fill="#A97BFF" />
+                    <ns0:rect mask="url(#languages-bar)" x="446.34273309500924" y="0" width="13.657266904990767" height="8" fill="#3572A5" />
                 </ns0:svg>
                 <html:div class="row fill-width">
                     <html:section>
@@ -2486,8 +2498,8 @@
                                 Java
                             </html:div>
                             <html:small>
-                                <html:div>725 kB</html:div>
-                                <html:div>86.38%</html:div>
+                                <html:div>720 kB</html:div>
+                                <html:div>86.4%</html:div>
                             </html:small>
                         </html:div>
                         <html:div class="field language details">
@@ -2498,8 +2510,8 @@
                                 Python
                             </html:div>
                             <html:small>
-                                <html:div>24.3 kB</html:div>
-                                <html:div>2.89%</html:div>
+                                <html:div>24.7 kB</html:div>
+                                <html:div>2.97%</html:div>
                             </html:small>
                         </html:div>
                     </html:section>
@@ -2512,8 +2524,8 @@
                                 Kotlin
                             </html:div>
                             <html:small>
-                                <html:div>90.1 kB</html:div>
-                                <html:div>10.72%</html:div>
+                                <html:div>88.5 kB</html:div>
+                                <html:div>10.63%</html:div>
                             </html:small>
                         </html:div>
                     </html:section>
@@ -2529,6 +2541,154 @@
                 </html:h2>
                 <html:div class="row">
                     <html:section>
+                        <html:div class="row fill-width">
+                            <html:section class="activity">
+                                <html:div class="field">
+                                    <ns0:svg viewBox="0 0 16 16" width="16" height="16">
+                                        <ns0:path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z" />
+                                    </ns0:svg>
+                                    <html:div class="content">
+                                        Pushed 20 commits in
+                                        <html:span class="repo">knighthat/interactivedeck-lib</html:span>
+                                    </html:div>
+                                </html:div>
+                                <html:div class="details">
+                                    <html:div>on branch <html:span class="code">development</html:span></html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#5d74195</html:div>
+                                        <html:div class="message">updated test</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#0274a47</html:div>
+                                        <html:div class="message">fixed converter convented JsonArray to String instead of content of JsonArray to String</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#f1609a6</html:div>
+                                        <html:div class="message">made hexColor &amp; label public</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#6ef0a07</html:div>
+                                        <html:div class="message">new format</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#bcac55f</html:div>
+                                        <html:div class="message">updated to newest TargetedRequest &amp; UpdateRequest, added function to verify request integrity</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#2fc1c3e</html:div>
+                                        <html:div class="message">removed uuid, implemented new method to verify request integrity before processing</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#cf23026</html:div>
+                                        <html:div class="message">made uuid required only on UpdateRequest &amp; added fromJson to parse json</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#6683154</html:div>
+                                        <html:div class="message">tests worked</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#8347bba</html:div>
+                                        <html:div class="message">updated params</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#86e8b95</html:div>
+                                        <html:div class="message">added documents</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#9765d3a</html:div>
+                                        <html:div class="message">only notifies watchers when value is changed</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#52d5470</html:div>
+                                        <html:div class="message">shortened json key&amp;value lookup</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#b4dd71d</html:div>
+                                        <html:div class="message">fixed error level not printed in stderr</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#8dba432</html:div>
+                                        <html:div class="message">adjusted @NotNull annotation</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#ffdfbb9</html:div>
+                                        <html:div class="message">added @FunctionalInterface</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#ac58e33</html:div>
+                                        <html:div class="message">split fromJson()</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#63c73f9</html:div>
+                                        <html:div class="message">updated return type for payload of Request</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#e4918b7</html:div>
+                                        <html:div class="message">fixed return type of serialize()</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#21aa52f</html:div>
+                                        <html:div class="message">adjusted code to compile to Java 7</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#003e106</html:div>
+                                        <html:div class="message">reduced version to 1.9.10 for stability</html:div>
+                                    </html:div>
+                                </html:div>
+                            </html:section>
+                        </html:div>
+                        <html:div class="row fill-width">
+                            <html:section class="activity">
+                                <html:div class="field">
+                                    <ns0:svg viewBox="0 0 16 16" width="16" height="16">
+                                        <ns0:path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z" />
+                                    </ns0:svg>
+                                    <html:div class="content">
+                                        Pushed 3 commits in
+                                        <html:span class="repo">knighthat/InteractiveDeck-Desktop</html:span>
+                                    </html:div>
+                                </html:div>
+                                <html:div class="details">
+                                    <html:div>on branch <html:span class="code">development</html:span></html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#17a158e</html:div>
+                                        <html:div class="message">updated to the latest Connection class from lib</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#43bd190</html:div>
+                                        <html:div class="message">updated to latest Request format from lib</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#cdce28d</html:div>
+                                        <html:div class="message">removed null task &amp; wrapped copyright notice</html:div>
+                                    </html:div>
+                                </html:div>
+                            </html:section>
+                        </html:div>
+                        <html:div class="row fill-width">
+                            <html:section class="activity">
+                                <html:div class="field">
+                                    <ns0:svg viewBox="0 0 16 16" width="16" height="16">
+                                        <ns0:path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z" />
+                                    </ns0:svg>
+                                    <html:div class="content">
+                                        Pushed 2 commits in
+                                        <html:span class="repo">knighthat/InteractiveDeck-Android</html:span>
+                                    </html:div>
+                                </html:div>
+                                <html:div class="details">
+                                    <html:div>on branch <html:span class="code">development</html:span></html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#1c33a32</html:div>
+                                        <html:div class="message">updated to latest Connection format from lib</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#139fb22</html:div>
+                                        <html:div class="message">updated to new request format in lib</html:div>
+                                    </html:div>
+                                </html:div>
+                            </html:section>
+                        </html:div>
                         <html:div class="row fill-width">
                             <html:section class="activity">
                                 <html:div class="field">
@@ -2617,154 +2777,6 @@
                                     <html:div class="commit">
                                         <html:div class="sha">#d1ecf1f</html:div>
                                         <html:div class="message">reworked on constructor</html:div>
-                                    </html:div>
-                                </html:div>
-                            </html:section>
-                        </html:div>
-                        <html:div class="row fill-width">
-                            <html:section class="activity">
-                                <html:div class="field">
-                                    <ns0:svg viewBox="0 0 16 16" width="16" height="16">
-                                        <ns0:path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z" />
-                                    </ns0:svg>
-                                    <html:div class="content">
-                                        Pushed 16 commits in
-                                        <html:span class="repo">knighthat/InteractiveDeck-Android</html:span>
-                                    </html:div>
-                                </html:div>
-                                <html:div class="details">
-                                    <html:div>on branch <html:span class="code">development</html:span></html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#117193e</html:div>
-                                        <html:div class="message">free all profiles &amp; buttons when disconnect from PC</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#5a498da</html:div>
-                                        <html:div class="message">moved back press handler to separate function</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#4d6dd7f</html:div>
-                                        <html:div class="message">fixed client refused to disconnect when exit app</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#0535758</html:div>
-                                        <html:div class="message">removed unused</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#4409de9</html:div>
-                                        <html:div class="message">parse task from JsonObject</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#0edc4ae</html:div>
-                                        <html:div class="message">factored fields, log update on changes</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#d217375</html:div>
-                                        <html:div class="message">merged update0 to update</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#c3ac6c9</html:div>
-                                        <html:div class="message">moved to Persistent class</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#4fc70e0</html:div>
-                                        <html:div class="message">re-arranged code</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#a540771</html:div>
-                                        <html:div class="message">merged methods</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#46ba97d</html:div>
-                                        <html:div class="message">renamed variables to fix accidental override error</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#624c757</html:div>
-                                        <html:div class="message">minor changes to return values</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#42917a7</html:div>
-                                        <html:div class="message">adjusted values to library</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#5c000dd</html:div>
-                                        <html:div class="message">implemented AbstractProfile from lib</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#b426635</html:div>
-                                        <html:div class="message">implemented InteractiveButton from lib</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#c7d4a57</html:div>
-                                        <html:div class="message">updated param from lib</html:div>
-                                    </html:div>
-                                </html:div>
-                            </html:section>
-                        </html:div>
-                        <html:div class="row fill-width">
-                            <html:section class="activity">
-                                <html:div class="field">
-                                    <ns0:svg viewBox="0 0 16 16" width="16" height="16">
-                                        <ns0:path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z" />
-                                    </ns0:svg>
-                                    <html:div class="content">
-                                        Pushed 1 commit in
-                                        <html:span class="repo">knighthat/InteractiveDeck-Desktop</html:span>
-                                    </html:div>
-                                </html:div>
-                                <html:div class="details">
-                                    <html:div>on branch <html:span class="code">development</html:span></html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#a1b2530</html:div>
-                                        <html:div class="message">fixed zero buttons on newly created profile</html:div>
-                                    </html:div>
-                                </html:div>
-                            </html:section>
-                        </html:div>
-                        <html:div class="row fill-width">
-                            <html:section class="activity">
-                                <html:div class="field">
-                                    <ns0:svg viewBox="0 0 16 16" width="16" height="16">
-                                        <ns0:path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z" />
-                                    </ns0:svg>
-                                    <html:div class="content">
-                                        Pushed 8 commits in
-                                        <html:span class="repo">knighthat/interactivedeck-lib</html:span>
-                                    </html:div>
-                                </html:div>
-                                <html:div class="details">
-                                    <html:div>on branch <html:span class="code">development</html:span></html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#8fc557f</html:div>
-                                        <html:div class="message">added Persistent class to hold global data</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#8a09e42</html:div>
-                                        <html:div class="message">added AbstractProfile</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#3bc45e8</html:div>
-                                        <html:div class="message">allowed null value to logUpdate</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#2febbd0</html:div>
-                                        <html:div class="message">added jetbrain's annotation</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#6535a2c</html:div>
-                                        <html:div class="message">added more functional interfaces</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#5254705</html:div>
-                                        <html:div class="message">shortens UUID to its last five digits</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#f331ffd</html:div>
-                                        <html:div class="message">moved back to Java class</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#39627c5</html:div>
-                                        <html:div class="message">added observable object</html:div>
                                     </html:div>
                                 </html:div>
                             </html:section>
