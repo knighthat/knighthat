@@ -2,7 +2,7 @@
     <ns0:defs>
         <ns0:style />
     </ns0:defs>
-    <ns0:style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chart{padding:0 8px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .bold,.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</ns0:style>
+    <ns0:style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chart{padding:0 8px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .bold,.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</ns0:style>
     <ns0:style />
     <ns0:foreignObject x="0" y="0" width="100%" height="100%">
         <html:div class="items-wrapper">
@@ -33,8 +33,8 @@
                                     <ns0:rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
                                     <ns0:rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
                                     <ns0:rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
-                                    <ns0:rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
-                                    <ns0:rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2" />
+                                    <ns0:rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2" />
+                                    <ns0:rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
                                     <ns0:rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
                                     <ns0:rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
                                     <ns0:rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
@@ -103,7 +103,7 @@
                                     <ns0:svg viewBox="0 0 16 16" width="16" height="16">
                                         <ns0:path fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z" />
                                     </ns0:svg>
-                                    16.5 MB used
+                                    17.1 MB used
                                 </html:div>
                             </html:section>
                             <html:section>
@@ -2146,6 +2146,11 @@
                                 <ns0:path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z" />
                                 <ns0:path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z" />
                             </ns0:g>
+                            <ns0:g transform="translate(-6.8, 10)">
+                                <ns0:path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z" />
+                                <ns0:path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z" />
+                                <ns0:path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z" />
+                            </ns0:g>
                         </ns0:g>
                     </ns0:g>
                 </ns0:svg>
@@ -2156,14 +2161,14 @@
                         <ns0:path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z" />
                     </ns0:svg>
                     Recent coding habits
-                    <html:small class="h-details">(computed from last 4 commits)</html:small>
+                    <html:small class="h-details">(computed from last 8 commits)</html:small>
                 </html:h2>
                 <html:div class="row">
                     <html:ul class="facts">
                         <html:li>Uses spaces for indentation</html:li>
                         <html:li>Has approximately 38.8 characters per line of code written</html:li>
-                        <html:li>Mostly pushes code around 17:00</html:li>
-                        <html:li>Mostly active on Tuesday</html:li>
+                        <html:li>Mostly pushes code around 19:00</html:li>
+                        <html:li>Mostly active on Wednesday</html:li>
                     </html:ul>
                 </html:div>
             <html:div class="column chart largeable">
@@ -2272,27 +2277,23 @@
                             <ns0:g transform="translate(10,10)" fill="none" font-size="10" font-family="sans-serif" text-anchor="start">
                                 <ns0:g class="tick" opacity="1" transform="translate(0,10.5)">
                                     <ns0:line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2" />
-                                    <ns0:text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">2.0</ns0:text>
+                                    <ns0:text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">3</ns0:text>
                                 </ns0:g>
-                                <ns0:g class="tick" opacity="1" transform="translate(0,34.25)">
+                                <ns0:g class="tick" opacity="1" transform="translate(0,42.16666666666667)">
                                     <ns0:line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2" />
-                                    <ns0:text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">1.5</ns0:text>
+                                    <ns0:text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">2</ns0:text>
                                 </ns0:g>
-                                <ns0:g class="tick" opacity="1" transform="translate(0,58)">
+                                <ns0:g class="tick" opacity="1" transform="translate(0,73.83333333333334)">
                                     <ns0:line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2" />
-                                    <ns0:text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">1.0</ns0:text>
-                                </ns0:g>
-                                <ns0:g class="tick" opacity="1" transform="translate(0,81.75)">
-                                    <ns0:line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2" />
-                                    <ns0:text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0.5</ns0:text>
+                                    <ns0:text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">1</ns0:text>
                                 </ns0:g>
                                 <ns0:g class="tick" opacity="1" transform="translate(0,105.5)">
                                     <ns0:line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2" />
-                                    <ns0:text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0.0</ns0:text>
+                                    <ns0:text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</ns0:text>
                                 </ns0:g>
                             </ns0:g>
-                            <ns0:path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,10L362.174,105L381.739,105L401.304,105L420.87,105L440.435,57.5L460,57.5" fill="transparent" stroke="#87ceeb" stroke-width="2" />
-                            <ns0:path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,57.5L440.435,57.5L420.87,105L401.304,105L381.739,105L362.174,105L342.609,10L323.043,105L303.478,105L283.913,105L264.348,105L244.783,105L225.217,105L205.652,105L186.087,105L166.522,105L146.957,105L127.391,105L107.826,105L88.261,105L68.696,105L49.13,105L29.565,105L10,105Z" fill="rgba(88, 166, 255, .1)" />
+                            <ns0:path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,41.667L362.174,105L381.739,10L401.304,105L420.87,73.333L440.435,73.333L460,73.333" fill="transparent" stroke="#87ceeb" stroke-width="2" />
+                            <ns0:path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,73.333L440.435,73.333L420.87,73.333L401.304,105L381.739,10L362.174,105L342.609,41.667L323.043,105L303.478,105L283.913,105L264.348,105L244.783,105L225.217,105L205.652,105L186.087,105L166.522,105L146.957,105L127.391,105L107.826,105L88.261,105L68.696,105L49.13,105L29.565,105L10,105Z" fill="rgba(88, 166, 255, .1)" />
                             <ns0:g>
                                 <ns0:circle transform="translate(10,10)" cx="10" cy="105" r="2" fill="#106cbc" />
                                 <ns0:circle transform="translate(10,10)" cx="29.565217391304348" cy="105" r="2" fill="#106cbc" />
@@ -2311,13 +2312,13 @@
                                 <ns0:circle transform="translate(10,10)" cx="283.9130434782609" cy="105" r="2" fill="#106cbc" />
                                 <ns0:circle transform="translate(10,10)" cx="303.4782608695652" cy="105" r="2" fill="#106cbc" />
                                 <ns0:circle transform="translate(10,10)" cx="323.04347826086956" cy="105" r="2" fill="#106cbc" />
-                                <ns0:circle transform="translate(10,10)" cx="342.60869565217394" cy="10" r="2" fill="#106cbc" />
+                                <ns0:circle transform="translate(10,10)" cx="342.60869565217394" cy="41.66666666666667" r="2" fill="#106cbc" />
                                 <ns0:circle transform="translate(10,10)" cx="362.17391304347825" cy="105" r="2" fill="#106cbc" />
-                                <ns0:circle transform="translate(10,10)" cx="381.7391304347826" cy="105" r="2" fill="#106cbc" />
+                                <ns0:circle transform="translate(10,10)" cx="381.7391304347826" cy="10" r="2" fill="#106cbc" />
                                 <ns0:circle transform="translate(10,10)" cx="401.30434782608694" cy="105" r="2" fill="#106cbc" />
-                                <ns0:circle transform="translate(10,10)" cx="420.8695652173913" cy="105" r="2" fill="#106cbc" />
-                                <ns0:circle transform="translate(10,10)" cx="440.4347826086956" cy="57.5" r="2" fill="#106cbc" />
-                                <ns0:circle transform="translate(10,10)" cx="460" cy="57.5" r="2" fill="#106cbc" />
+                                <ns0:circle transform="translate(10,10)" cx="420.8695652173913" cy="73.33333333333334" r="2" fill="#106cbc" />
+                                <ns0:circle transform="translate(10,10)" cx="440.4347826086956" cy="73.33333333333334" r="2" fill="#106cbc" />
+                                <ns0:circle transform="translate(10,10)" cx="460" cy="73.33333333333334" r="2" fill="#106cbc" />
                             </ns0:g>
                             <ns0:g fill="currentColor" text-anchor="middle" font-family="sans-serif" font-size="10" stroke="rgba(88, 166, 255, .05)" stroke-linejoin="round" stroke-width="4" paint-order="stroke fill">
                                 <ns0:text transform="translate(10,6)" x="10" y="105" fill="rgba(127, 127, 127, .8)" />
@@ -2337,13 +2338,13 @@
                                 <ns0:text transform="translate(10,6)" x="283.9130434782609" y="105" fill="rgba(127, 127, 127, .8)" />
                                 <ns0:text transform="translate(10,6)" x="303.4782608695652" y="105" fill="rgba(127, 127, 127, .8)" />
                                 <ns0:text transform="translate(10,6)" x="323.04347826086956" y="105" fill="rgba(127, 127, 127, .8)" />
-                                <ns0:text transform="translate(10,6)" x="342.60869565217394" y="10" fill="rgba(127, 127, 127, .8)">2</ns0:text>
+                                <ns0:text transform="translate(10,6)" x="342.60869565217394" y="41.66666666666667" fill="rgba(127, 127, 127, .8)">2</ns0:text>
                                 <ns0:text transform="translate(10,6)" x="362.17391304347825" y="105" fill="rgba(127, 127, 127, .8)" />
-                                <ns0:text transform="translate(10,6)" x="381.7391304347826" y="105" fill="rgba(127, 127, 127, .8)" />
+                                <ns0:text transform="translate(10,6)" x="381.7391304347826" y="10" fill="rgba(127, 127, 127, .8)">3</ns0:text>
                                 <ns0:text transform="translate(10,6)" x="401.30434782608694" y="105" fill="rgba(127, 127, 127, .8)" />
-                                <ns0:text transform="translate(10,6)" x="420.8695652173913" y="105" fill="rgba(127, 127, 127, .8)" />
-                                <ns0:text transform="translate(10,6)" x="440.4347826086956" y="57.5" fill="rgba(127, 127, 127, .8)">1</ns0:text>
-                                <ns0:text transform="translate(10,6)" x="460" y="57.5" fill="rgba(127, 127, 127, .8)">1</ns0:text>
+                                <ns0:text transform="translate(10,6)" x="420.8695652173913" y="73.33333333333334" fill="rgba(127, 127, 127, .8)">1</ns0:text>
+                                <ns0:text transform="translate(10,6)" x="440.4347826086956" y="73.33333333333334" fill="rgba(127, 127, 127, .8)">1</ns0:text>
+                                <ns0:text transform="translate(10,6)" x="460" y="73.33333333333334" fill="rgba(127, 127, 127, .8)">1</ns0:text>
                             </ns0:g>
                         </ns0:svg>
                     </html:div>
@@ -2385,38 +2386,38 @@
                                     </ns0:g>
                                 </ns0:g>
                                 <ns0:g transform="translate(10,10)" fill="none" font-size="10" font-family="sans-serif" text-anchor="start">
-                                    <ns0:g class="tick" opacity="1" transform="translate(0,10.5)">
+                                    <ns0:g class="tick" opacity="1" transform="translate(0,29.499999999999996)">
                                         <ns0:line stroke="currentColor" x2="196" stroke-opacity="0.5" stroke-dasharray="2,2" />
-                                        <ns0:text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">1.0</ns0:text>
+                                        <ns0:text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">4</ns0:text>
                                     </ns0:g>
-                                    <ns0:g class="tick" opacity="1" transform="translate(0,58)">
+                                    <ns0:g class="tick" opacity="1" transform="translate(0,67.5)">
                                         <ns0:line stroke="currentColor" x2="196" stroke-opacity="0.5" stroke-dasharray="2,2" />
-                                        <ns0:text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0.5</ns0:text>
+                                        <ns0:text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">2</ns0:text>
                                     </ns0:g>
                                     <ns0:g class="tick" opacity="1" transform="translate(0,105.5)">
                                         <ns0:line stroke="currentColor" x2="196" stroke-opacity="0.5" stroke-dasharray="2,2" />
-                                        <ns0:text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0.0</ns0:text>
+                                        <ns0:text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</ns0:text>
                                     </ns0:g>
                                 </ns0:g>
-                                <ns0:path transform="translate(10,10)" d="M10,105L41,105L72,10L103,10L134,10L165,105L196,10" fill="transparent" stroke="#87ceeb" stroke-width="2" />
-                                <ns0:path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,10L165,105L134,10L103,10L72,10L41,105L10,105Z" fill="rgba(88, 166, 255, .1)" />
+                                <ns0:path transform="translate(10,10)" d="M10,105L41,105L72,86L103,10L134,86L165,105L196,86" fill="transparent" stroke="#87ceeb" stroke-width="2" />
+                                <ns0:path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,86L165,105L134,86L103,10L72,86L41,105L10,105Z" fill="rgba(88, 166, 255, .1)" />
                                 <ns0:g>
                                     <ns0:circle transform="translate(10,10)" cx="10" cy="105" r="2" fill="#106cbc" />
                                     <ns0:circle transform="translate(10,10)" cx="41" cy="105" r="2" fill="#106cbc" />
-                                    <ns0:circle transform="translate(10,10)" cx="72" cy="10" r="2" fill="#106cbc" />
+                                    <ns0:circle transform="translate(10,10)" cx="72" cy="86" r="2" fill="#106cbc" />
                                     <ns0:circle transform="translate(10,10)" cx="103" cy="10" r="2" fill="#106cbc" />
-                                    <ns0:circle transform="translate(10,10)" cx="134" cy="10" r="2" fill="#106cbc" />
+                                    <ns0:circle transform="translate(10,10)" cx="134" cy="86" r="2" fill="#106cbc" />
                                     <ns0:circle transform="translate(10,10)" cx="165" cy="105" r="2" fill="#106cbc" />
-                                    <ns0:circle transform="translate(10,10)" cx="196" cy="10" r="2" fill="#106cbc" />
+                                    <ns0:circle transform="translate(10,10)" cx="196" cy="86" r="2" fill="#106cbc" />
                                 </ns0:g>
                                 <ns0:g fill="currentColor" text-anchor="middle" font-family="sans-serif" font-size="10" stroke="rgba(88, 166, 255, .05)" stroke-linejoin="round" stroke-width="4" paint-order="stroke fill">
                                     <ns0:text transform="translate(10,6)" x="10" y="105" fill="rgba(127, 127, 127, .8)" />
                                     <ns0:text transform="translate(10,6)" x="41" y="105" fill="rgba(127, 127, 127, .8)" />
-                                    <ns0:text transform="translate(10,6)" x="72" y="10" fill="rgba(127, 127, 127, .8)">1</ns0:text>
-                                    <ns0:text transform="translate(10,6)" x="103" y="10" fill="rgba(127, 127, 127, .8)">1</ns0:text>
-                                    <ns0:text transform="translate(10,6)" x="134" y="10" fill="rgba(127, 127, 127, .8)">1</ns0:text>
+                                    <ns0:text transform="translate(10,6)" x="72" y="86" fill="rgba(127, 127, 127, .8)">1</ns0:text>
+                                    <ns0:text transform="translate(10,6)" x="103" y="10" fill="rgba(127, 127, 127, .8)">5</ns0:text>
+                                    <ns0:text transform="translate(10,6)" x="134" y="86" fill="rgba(127, 127, 127, .8)">1</ns0:text>
                                     <ns0:text transform="translate(10,6)" x="165" y="105" fill="rgba(127, 127, 127, .8)" />
-                                    <ns0:text transform="translate(10,6)" x="196" y="10" fill="rgba(127, 127, 127, .8)">1</ns0:text>
+                                    <ns0:text transform="translate(10,6)" x="196" y="86" fill="rgba(127, 127, 127, .8)">1</ns0:text>
                                 </ns0:g>
                             </ns0:svg>
                         </html:div>
@@ -2426,22 +2427,15 @@
                         <html:div class="margin-bottom">
                             <ns0:svg width="216" height="160">
                                 <ns0:g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <ns0:path fill="#b07219" d="M0.5,-79.998A80,80,0,1,1,-9.292,-79.459L0,0Z">
+                                    <ns0:path fill="#b07219" d="M0,-80A80,80,0,1,1,0,80A80,80,0,1,1,0,-80Z">
                                         <ns0:title>Java
-88.31</ns0:title>
-                                    </ns0:path>
-                                    <ns0:path fill="#f34b7d" d="M-8.298,-79.568A80,80,0,0,1,-0.5,-79.998L0,0Z">
-                                        <ns0:title>C++
-1.40</ns0:title>
+89.33</ns0:title>
                                     </ns0:path>
                                 </ns0:g>
                                 <ns0:g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <ns0:text transform="translate(2.202170928976553,39.9393345362635)">
+                                    <ns0:text transform="translate(2.4492935982947065e-15,40)">
                                         <ns0:tspan x="0" y="0em" font-weight="bold">Java</ns0:tspan>
-                                        <ns0:tspan x="0" y="1.1em">88.31</ns0:tspan>
-                                    </ns0:text>
-                                    <ns0:text transform="translate(-2.2021709289765754,-39.9393345362635)">
-                                        <ns0:tspan x="0" y="0em" font-weight="bold">C++</ns0:tspan>
+                                        <ns0:tspan x="0" y="1.1em">89.33</ns0:tspan>
                                     </ns0:text>
                                 </ns0:g>
                             </ns0:svg>
@@ -2566,19 +2560,43 @@
                                         <ns0:path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z" />
                                     </ns0:svg>
                                     <html:div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 1 commit in
                                         <html:span class="repo">knighthat/ExpBottle</html:span>
                                     </html:div>
                                 </html:div>
                                 <html:div class="details">
                                     <html:div>on branch <html:span class="code">master</html:span></html:div>
                                     <html:div class="commit">
-                                        <html:div class="sha">#f696a90</html:div>
-                                        <html:div class="message">added balance command</html:div>
+                                        <html:div class="sha">#823243f</html:div>
+                                        <html:div class="message">increased java version from 11 to 17</html:div>
+                                    </html:div>
+                                </html:div>
+                            </html:section>
+                        </html:div>
+                        <html:div class="row fill-width">
+                            <html:section class="activity">
+                                <html:div class="field">
+                                    <ns0:svg viewBox="0 0 16 16" width="16" height="16">
+                                        <ns0:path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z" />
+                                    </ns0:svg>
+                                    <html:div class="content">
+                                        Pushed 3 commits in
+                                        <html:span class="repo">knighthat/ExpBottle</html:span>
+                                    </html:div>
+                                </html:div>
+                                <html:div class="details">
+                                    <html:div>on branch <html:span class="code">master</html:span></html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#45bdcb0</html:div>
+                                        <html:div class="message">removed unused</html:div>
                                     </html:div>
                                     <html:div class="commit">
-                                        <html:div class="sha">#35151a0</html:div>
-                                        <html:div class="message">added help command</html:div>
+                                        <html:div class="sha">#430d5c7</html:div>
+                                        <html:div class="message">removed unrelated test &amp; re-formatted/re-arrange code</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#d502851</html:div>
+                                        <html:div class="message">removed deprecated event handlers</html:div>
                                     </html:div>
                                 </html:div>
                             </html:section>
@@ -2592,7 +2610,7 @@
                                     <html:div class="content">
                                         Created new
                       tag
-                                        <html:span class="code">1.2.0</html:span>
+                                        <html:span class="code">1.3.0</html:span>
                                         in
                                         <html:span class="repo">knighthat/ExpBottle</html:span>
                                     </html:div>
@@ -2607,7 +2625,7 @@
                                     </ns0:svg>
                                     <html:div class="content">
                                         Released
-                                        <html:span class="bold">v1.2.0</html:span>
+                                        <html:span class="bold">v1.3.0</html:span>
                                         of
                                         <html:span class="repo">knighthat/ExpBottle</html:span>
                                     </html:div>
@@ -2618,182 +2636,14 @@
                             <html:section class="activity">
                                 <html:div class="field">
                                     <ns0:svg viewBox="0 0 16 16" width="16" height="16">
-                                        <ns0:path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z" />
+                                        <ns0:path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z" />
                                     </ns0:svg>
                                     <html:div class="content">
-                                        Pushed 18 commits in
+                                        Deleted
+                      tag
+                                        <html:span class="code">1.3.0</html:span>
+                                        in
                                         <html:span class="repo">knighthat/ExpBottle</html:span>
-                                    </html:div>
-                                </html:div>
-                                <html:div class="details">
-                                    <html:div>on branch <html:span class="code">master</html:span></html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#d5c0b0c</html:div>
-                                        <html:div class="message">updated to 1.2.0</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#8da8893</html:div>
-                                        <html:div class="message">removed unrelated line</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#7160d42</html:div>
-                                        <html:div class="message">removed unused placeholder</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#64f7c8c</html:div>
-                                        <html:div class="message">fixed 'give' executes even when no player found</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#82b8ac4</html:div>
-                                        <html:div class="message">fixed duplicated messages when 'give' to self</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#fcd6aa0</html:div>
-                                        <html:div class="message">updated to new send method</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#36c8b07</html:div>
-                                        <html:div class="message">updated getName() for usage message query</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#9e222d1</html:div>
-                                        <html:div class="message">print help when no arg provided</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#f0c4eec</html:div>
-                                        <html:div class="message">added method to replace tax placeholder &amp; implemented it to send method</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#9c0ca91</html:div>
-                                        <html:div class="message">added more placeholders replace methods</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#0c3e9cd</html:div>
-                                        <html:div class="message">removed unused</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#5ecf37a</html:div>
-                                        <html:div class="message">adjusted args to comply with the new usage format from messages.yml</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#d13c00d</html:div>
-                                        <html:div class="message">default max value to 9999</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#02744ba</html:div>
-                                        <html:div class="message">added a new message path</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#64756d9</html:div>
-                                        <html:div class="message">more placeholders, help menu, usage for each subcommand</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#b3de4b6</html:div>
-                                        <html:div class="message">added 'player_only' string path</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#d47d57d</html:div>
-                                        <html:div class="message">removed unused</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#6c93cb2</html:div>
-                                        <html:div class="message">beautified</html:div>
-                                    </html:div>
-                                </html:div>
-                            </html:section>
-                        </html:div>
-                        <html:div class="row fill-width">
-                            <html:section class="activity">
-                                <html:div class="field">
-                                    <ns0:svg viewBox="0 0 16 16" width="16" height="16">
-                                        <ns0:path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z" />
-                                    </ns0:svg>
-                                    <html:div class="content">
-                                        Pushed 37 commits in
-                                        <html:span class="repo">knighthat/ExpBottle</html:span>
-                                    </html:div>
-                                </html:div>
-                                <html:div class="details">
-                                    <html:div>on branch <html:span class="code">master</html:span></html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#589f84d</html:div>
-                                        <html:div class="message">fixed sub-command aliases didn't work</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#4bf6dc0</html:div>
-                                        <html:div class="message">changed plugin visibility and to ExpBottle class</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#923c3be</html:div>
-                                        <html:div class="message">added message file to handle messages</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#57d4761</html:div>
-                                        <html:div class="message">introduced PluginFile for file managing</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#625d22c</html:div>
-                                        <html:div class="message">split sub-commands into multiple parts</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#f048ce9</html:div>
-                                        <html:div class="message">moved to new method</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#da8d6c2</html:div>
-                                        <html:div class="message">extract exp from persistent data</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#59bff27</html:div>
-                                        <html:div class="message">added persistent data to store xp</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#d96743a</html:div>
-                                        <html:div class="message">moved class to command directory</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#6da4bd0</html:div>
-                                        <html:div class="message">factored common codes</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#2c8b2ed</html:div>
-                                        <html:div class="message">added new way to replace placeholders</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#7a74cc5</html:div>
-                                        <html:div class="message">reformatted &amp; rearranged</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#bba8e63</html:div>
-                                        <html:div class="message">de-nesting code, added comments, extracted some common codes</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#ccfdbda</html:div>
-                                        <html:div class="message">migrated to ExpCalculator</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#89a9755</html:div>
-                                        <html:div class="message">overhauled Experience with ExpCalculator for more advancing algorithm and readability</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#f0a1506</html:div>
-                                        <html:div class="message">replaced name with placeholder for filtering, added author name</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#d02763d</html:div>
-                                        <html:div class="message">added test engine</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#adbd389</html:div>
-                                        <html:div class="message">updated API version to 1.20.4</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#a1c791e</html:div>
-                                        <html:div class="message">added jar plugin for custom output directory</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#8c2b1af</html:div>
-                                        <html:div class="message">updated java version to 11 for compiler</html:div>
                                     </html:div>
                                 </html:div>
                             </html:section>
