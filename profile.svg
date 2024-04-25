@@ -2,7 +2,7 @@
     <ns0:defs>
         <ns0:style />
     </ns0:defs>
-    <ns0:style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chart{padding:0 8px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .bold,.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</ns0:style>
+    <ns0:style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chart{padding:0 8px}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .bold,.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</ns0:style>
     <ns0:style />
     <ns0:foreignObject x="0" y="0" width="100%" height="100%">
         <html:div class="items-wrapper">
@@ -30,19 +30,19 @@
                         <html:div class="field calendar">
                             <ns0:svg viewBox="0 0 210 11" width="210" height="16">
                                 <ns0:g>
-                                    <ns0:rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2" />
-                                    <ns0:rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2" />
-                                    <ns0:rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2" />
-                                    <ns0:rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2" />
+                                    <ns0:rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2" />
+                                    <ns0:rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2" />
+                                    <ns0:rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2" />
+                                    <ns0:rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
                                     <ns0:rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
                                     <ns0:rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
                                     <ns0:rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
-                                    <ns0:rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
-                                    <ns0:rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
-                                    <ns0:rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
+                                    <ns0:rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2" />
+                                    <ns0:rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2" />
+                                    <ns0:rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2" />
                                     <ns0:rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
                                     <ns0:rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
-                                    <ns0:rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
+                                    <ns0:rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2" />
                                     <ns0:rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
                                 </ns0:g>
                             </ns0:svg>
@@ -51,7 +51,7 @@
                             <ns0:svg viewBox="0 0 16 16" width="16" height="16">
                                 <ns0:path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z" />
                             </ns0:svg>
-                            Contributed to 24 repositories
+                            Contributed to 25 repositories
                         </html:div>
                     </html:section>
                 </html:div>
@@ -77,7 +77,7 @@
                             <ns0:svg viewBox="0 0 16 16" width="16" height="16">
                                 <ns0:path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z" />
                             </ns0:svg>
-                            30 Repositories
+                            31 Repositories
                         </html:h2>
                         <html:div class="row">
                             <html:section>
@@ -103,7 +103,7 @@
                                     <ns0:svg viewBox="0 0 16 16" width="16" height="16">
                                         <ns0:path fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z" />
                                     </ns0:svg>
-                                    143 MB used
+                                    144 MB used
                                 </html:div>
                             </html:section>
                             <html:section>
@@ -129,7 +129,7 @@
                                     <ns0:svg viewBox="0 0 16 16" width="16" height="16">
                                         <ns0:path fill-rule="evenodd" d="M1.679 7.932c.412-.621 1.242-1.75 2.366-2.717C5.175 4.242 6.527 3.5 8 3.5c1.473 0 2.824.742 3.955 1.715 1.124.967 1.954 2.096 2.366 2.717a.119.119 0 010 .136c-.412.621-1.242 1.75-2.366 2.717C10.825 11.758 9.473 12.5 8 12.5c-1.473 0-2.824-.742-3.955-1.715C2.92 9.818 2.09 8.69 1.679 8.068a.119.119 0 010-.136zM8 2c-1.981 0-3.67.992-4.933 2.078C1.797 5.169.88 6.423.43 7.1a1.619 1.619 0 000 1.798c.45.678 1.367 1.932 2.637 3.024C4.329 13.008 6.019 14 8 14c1.981 0 3.67-.992 4.933-2.078 1.27-1.091 2.187-2.345 2.637-3.023a1.619 1.619 0 000-1.798c-.45-.678-1.367-1.932-2.637-3.023C11.671 2.992 9.981 2 8 2zm0 8a2 2 0 100-4 2 2 0 000 4z" />
                                     </ns0:svg>
-                                    20 Watchers
+                                    21 Watchers
                                 </html:div>
                                 <html:div class="field ">
                                     <ns0:svg viewBox="0 0 16 16" width="16" height="16">
@@ -161,6 +161,12 @@
                         </html:h3>
                         <html:div class="field">
                             <ns0:svg viewBox="0 0 16 16" width="16" height="16">
+                                <ns0:path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z" />
+                            </ns0:svg>
+                            Current streak 1 day
+                        </html:div>
+                        <html:div class="field">
+                            <ns0:svg viewBox="0 0 16 16" width="16" height="16">
                                 <ns0:path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z" />
                             </ns0:svg>
                             Best streak 42 days
@@ -181,7 +187,7 @@
                             <ns0:svg viewBox="0 0 16 16" width="16" height="16">
                                 <ns0:path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z" />
                             </ns0:svg>
-                            Average per day at ~3.75
+                            Average per day at ~3.79
                         </html:div>
                     </html:section>
                 </html:div>
@@ -2114,22 +2120,22 @@
                                 <ns0:path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z" />
                                 <ns0:path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z" />
                             </ns0:g>
-                            <ns0:g transform="translate(-8.5, 11)">
-                                <ns0:path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z" />
-                                <ns0:path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z" />
-                                <ns0:path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z" />
+                            <ns0:g transform="translate(-8.5, 10.333333333333332)">
+                                <ns0:path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z" />
+                                <ns0:path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.6666666666666665 0,1.6666666666666665 z" />
+                                <ns0:path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6666666666666665 1.7,2.6666666666666665 z" />
                             </ns0:g>
-                            <ns0:g transform="translate(-10.2, 12)">
-                                <ns0:path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z" />
-                                <ns0:path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z" />
-                                <ns0:path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z" />
+                            <ns0:g transform="translate(-10.2, 10.266666666666666)">
+                                <ns0:path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z" />
+                                <ns0:path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.7333333333333334 0,2.7333333333333334 z" />
+                                <ns0:path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.7333333333333334 1.7,3.7333333333333334 z" />
                             </ns0:g>
                         </ns0:g>
                         <ns0:g transform="translate(88.39999999999999, 52)">
-                            <ns0:g transform="translate(0, 6)">
-                                <ns0:path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z" />
-                                <ns0:path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z" />
-                                <ns0:path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z" />
+                            <ns0:g transform="translate(0, 5.866666666666666)">
+                                <ns0:path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z" />
+                                <ns0:path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1333333333333333 0,1.1333333333333333 z" />
+                                <ns0:path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1333333333333333 1.7,2.1333333333333333 z" />
                             </ns0:g>
                             <ns0:g transform="translate(-1.7, 7)">
                                 <ns0:path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z" />
@@ -2140,6 +2146,11 @@
                                 <ns0:path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z" />
                                 <ns0:path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z" />
                                 <ns0:path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z" />
+                            </ns0:g>
+                            <ns0:g transform="translate(-5.1, 8.866666666666667)">
+                                <ns0:path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z" />
+                                <ns0:path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1333333333333333 0,1.1333333333333333 z" />
+                                <ns0:path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1333333333333333 1.7,2.1333333333333333 z" />
                             </ns0:g>
                         </ns0:g>
                     </ns0:g>
@@ -2156,7 +2167,7 @@
                 <html:div class="row">
                     <html:ul class="facts">
                         <html:li>Uses spaces for indentation</html:li>
-                        <html:li>Has approximately 29.0 characters per line of code written</html:li>
+                        <html:li>Has approximately 33.6 characters per line of code written</html:li>
                         <html:li>Mostly pushes code around 22:00</html:li>
                         <html:li>Mostly active on Sunday</html:li>
                     </html:ul>
@@ -2286,8 +2297,8 @@
                                     <ns0:text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</ns0:text>
                                 </ns0:g>
                             </ns0:g>
-                            <ns0:path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,81.25L244.783,105L264.348,81.25L283.913,105L303.478,81.25L323.043,57.5L342.609,105L362.174,105L381.739,105L401.304,81.25L420.87,81.25L440.435,10L460,105" fill="transparent" stroke="#87ceeb" stroke-width="2" />
-                            <ns0:path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,105L440.435,10L420.87,81.25L401.304,81.25L381.739,105L362.174,105L342.609,105L323.043,57.5L303.478,81.25L283.913,105L264.348,81.25L244.783,105L225.217,81.25L205.652,105L186.087,105L166.522,105L146.957,105L127.391,105L107.826,105L88.261,105L68.696,105L49.13,105L29.565,105L10,105Z" fill="rgba(88, 166, 255, .1)" />
+                            <ns0:path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,81.25L244.783,81.25L264.348,81.25L283.913,105L303.478,81.25L323.043,57.5L342.609,105L362.174,105L381.739,105L401.304,105L420.87,81.25L440.435,10L460,105" fill="transparent" stroke="#87ceeb" stroke-width="2" />
+                            <ns0:path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,105L440.435,10L420.87,81.25L401.304,105L381.739,105L362.174,105L342.609,105L323.043,57.5L303.478,81.25L283.913,105L264.348,81.25L244.783,81.25L225.217,81.25L205.652,105L186.087,105L166.522,105L146.957,105L127.391,105L107.826,105L88.261,105L68.696,105L49.13,105L29.565,105L10,105Z" fill="rgba(88, 166, 255, .1)" />
                             <ns0:g>
                                 <ns0:circle transform="translate(10,10)" cx="10" cy="105" r="2" fill="#106cbc" />
                                 <ns0:circle transform="translate(10,10)" cx="29.565217391304348" cy="105" r="2" fill="#106cbc" />
@@ -2301,7 +2312,7 @@
                                 <ns0:circle transform="translate(10,10)" cx="186.08695652173913" cy="105" r="2" fill="#106cbc" />
                                 <ns0:circle transform="translate(10,10)" cx="205.65217391304347" cy="105" r="2" fill="#106cbc" />
                                 <ns0:circle transform="translate(10,10)" cx="225.2173913043478" cy="81.25" r="2" fill="#106cbc" />
-                                <ns0:circle transform="translate(10,10)" cx="244.7826086956522" cy="105" r="2" fill="#106cbc" />
+                                <ns0:circle transform="translate(10,10)" cx="244.7826086956522" cy="81.25" r="2" fill="#106cbc" />
                                 <ns0:circle transform="translate(10,10)" cx="264.3478260869565" cy="81.25" r="2" fill="#106cbc" />
                                 <ns0:circle transform="translate(10,10)" cx="283.9130434782609" cy="105" r="2" fill="#106cbc" />
                                 <ns0:circle transform="translate(10,10)" cx="303.4782608695652" cy="81.25" r="2" fill="#106cbc" />
@@ -2309,7 +2320,7 @@
                                 <ns0:circle transform="translate(10,10)" cx="342.60869565217394" cy="105" r="2" fill="#106cbc" />
                                 <ns0:circle transform="translate(10,10)" cx="362.17391304347825" cy="105" r="2" fill="#106cbc" />
                                 <ns0:circle transform="translate(10,10)" cx="381.7391304347826" cy="105" r="2" fill="#106cbc" />
-                                <ns0:circle transform="translate(10,10)" cx="401.30434782608694" cy="81.25" r="2" fill="#106cbc" />
+                                <ns0:circle transform="translate(10,10)" cx="401.30434782608694" cy="105" r="2" fill="#106cbc" />
                                 <ns0:circle transform="translate(10,10)" cx="420.8695652173913" cy="81.25" r="2" fill="#106cbc" />
                                 <ns0:circle transform="translate(10,10)" cx="440.4347826086956" cy="10" r="2" fill="#106cbc" />
                                 <ns0:circle transform="translate(10,10)" cx="460" cy="105" r="2" fill="#106cbc" />
@@ -2327,7 +2338,7 @@
                                 <ns0:text transform="translate(10,6)" x="186.08695652173913" y="105" fill="rgba(127, 127, 127, .8)" />
                                 <ns0:text transform="translate(10,6)" x="205.65217391304347" y="105" fill="rgba(127, 127, 127, .8)" />
                                 <ns0:text transform="translate(10,6)" x="225.2173913043478" y="81.25" fill="rgba(127, 127, 127, .8)">1</ns0:text>
-                                <ns0:text transform="translate(10,6)" x="244.7826086956522" y="105" fill="rgba(127, 127, 127, .8)" />
+                                <ns0:text transform="translate(10,6)" x="244.7826086956522" y="81.25" fill="rgba(127, 127, 127, .8)">1</ns0:text>
                                 <ns0:text transform="translate(10,6)" x="264.3478260869565" y="81.25" fill="rgba(127, 127, 127, .8)">1</ns0:text>
                                 <ns0:text transform="translate(10,6)" x="283.9130434782609" y="105" fill="rgba(127, 127, 127, .8)" />
                                 <ns0:text transform="translate(10,6)" x="303.4782608695652" y="81.25" fill="rgba(127, 127, 127, .8)">1</ns0:text>
@@ -2335,7 +2346,7 @@
                                 <ns0:text transform="translate(10,6)" x="342.60869565217394" y="105" fill="rgba(127, 127, 127, .8)" />
                                 <ns0:text transform="translate(10,6)" x="362.17391304347825" y="105" fill="rgba(127, 127, 127, .8)" />
                                 <ns0:text transform="translate(10,6)" x="381.7391304347826" y="105" fill="rgba(127, 127, 127, .8)" />
-                                <ns0:text transform="translate(10,6)" x="401.30434782608694" y="81.25" fill="rgba(127, 127, 127, .8)">1</ns0:text>
+                                <ns0:text transform="translate(10,6)" x="401.30434782608694" y="105" fill="rgba(127, 127, 127, .8)" />
                                 <ns0:text transform="translate(10,6)" x="420.8695652173913" y="81.25" fill="rgba(127, 127, 127, .8)">1</ns0:text>
                                 <ns0:text transform="translate(10,6)" x="440.4347826086956" y="10" fill="rgba(127, 127, 127, .8)">4</ns0:text>
                                 <ns0:text transform="translate(10,6)" x="460" y="105" fill="rgba(127, 127, 127, .8)" />
@@ -2397,13 +2408,13 @@
                                         <ns0:text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</ns0:text>
                                     </ns0:g>
                                 </ns0:g>
-                                <ns0:path transform="translate(10,10)" d="M10,10L41,105L72,89.167L103,105L134,105L165,89.167L196,57.5" fill="transparent" stroke="#87ceeb" stroke-width="2" />
-                                <ns0:path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,57.5L165,89.167L134,105L103,105L72,89.167L41,105L10,10Z" fill="rgba(88, 166, 255, .1)" />
+                                <ns0:path transform="translate(10,10)" d="M10,10L41,105L72,105L103,89.167L134,105L165,89.167L196,57.5" fill="transparent" stroke="#87ceeb" stroke-width="2" />
+                                <ns0:path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,57.5L165,89.167L134,105L103,89.167L72,105L41,105L10,10Z" fill="rgba(88, 166, 255, .1)" />
                                 <ns0:g>
                                     <ns0:circle transform="translate(10,10)" cx="10" cy="10" r="2" fill="#106cbc" />
                                     <ns0:circle transform="translate(10,10)" cx="41" cy="105" r="2" fill="#106cbc" />
-                                    <ns0:circle transform="translate(10,10)" cx="72" cy="89.16666666666667" r="2" fill="#106cbc" />
-                                    <ns0:circle transform="translate(10,10)" cx="103" cy="105" r="2" fill="#106cbc" />
+                                    <ns0:circle transform="translate(10,10)" cx="72" cy="105" r="2" fill="#106cbc" />
+                                    <ns0:circle transform="translate(10,10)" cx="103" cy="89.16666666666667" r="2" fill="#106cbc" />
                                     <ns0:circle transform="translate(10,10)" cx="134" cy="105" r="2" fill="#106cbc" />
                                     <ns0:circle transform="translate(10,10)" cx="165" cy="89.16666666666667" r="2" fill="#106cbc" />
                                     <ns0:circle transform="translate(10,10)" cx="196" cy="57.5" r="2" fill="#106cbc" />
@@ -2411,8 +2422,8 @@
                                 <ns0:g fill="currentColor" text-anchor="middle" font-family="sans-serif" font-size="10" stroke="rgba(88, 166, 255, .05)" stroke-linejoin="round" stroke-width="4" paint-order="stroke fill">
                                     <ns0:text transform="translate(10,6)" x="10" y="10" fill="rgba(127, 127, 127, .8)">6</ns0:text>
                                     <ns0:text transform="translate(10,6)" x="41" y="105" fill="rgba(127, 127, 127, .8)" />
-                                    <ns0:text transform="translate(10,6)" x="72" y="89.16666666666667" fill="rgba(127, 127, 127, .8)">1</ns0:text>
-                                    <ns0:text transform="translate(10,6)" x="103" y="105" fill="rgba(127, 127, 127, .8)" />
+                                    <ns0:text transform="translate(10,6)" x="72" y="105" fill="rgba(127, 127, 127, .8)" />
+                                    <ns0:text transform="translate(10,6)" x="103" y="89.16666666666667" fill="rgba(127, 127, 127, .8)">1</ns0:text>
                                     <ns0:text transform="translate(10,6)" x="134" y="105" fill="rgba(127, 127, 127, .8)" />
                                     <ns0:text transform="translate(10,6)" x="165" y="89.16666666666667" fill="rgba(127, 127, 127, .8)">1</ns0:text>
                                     <ns0:text transform="translate(10,6)" x="196" y="57.5" fill="rgba(127, 127, 127, .8)">3</ns0:text>
@@ -2425,61 +2436,52 @@
                         <html:div class="margin-bottom">
                             <ns0:svg width="216" height="160">
                                 <ns0:g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <ns0:path fill="#3178c6" d="M0.5,-79.998A80,80,0,0,1,72.262,-34.325L0,0Z">
-                                        <ns0:title>TypeScript
-16.98</ns0:title>
-                                    </ns0:path>
-                                    <ns0:path fill="#b07219" d="M72.685,-33.419A80,80,0,1,1,-77.837,18.477L0,0Z">
+                                    <ns0:path fill="#b07219" d="M0.5,-79.998A80,80,0,1,1,-72.599,-33.607L0,0Z">
                                         <ns0:title>Java
-50.58</ns0:title>
+80.33</ns0:title>
                                     </ns0:path>
-                                    <ns0:path fill="#384d54" d="M-78.062,17.502A80,80,0,0,1,-78.275,16.522L0,0Z">
+                                    <ns0:path fill="#3178c6" d="M-72.173,-34.512A80,80,0,0,1,-39.492,-69.573L0,0Z">
+                                        <ns0:title>TypeScript
+9.51</ns0:title>
+                                    </ns0:path>
+                                    <ns0:path fill="#384d54" d="M-38.619,-70.061A80,80,0,0,1,-37.72,-70.55L0,0Z">
                                         <ns0:title>Dockerfile
-0.19</ns0:title>
+0.20</ns0:title>
                                     </ns0:path>
-                                    <ns0:path fill="#3178c6" d="M-78.476,15.542A80,80,0,0,1,-78.896,-13.242L0,0Z">
+                                    <ns0:path fill="#3178c6" d="M-36.835,-71.015A80,80,0,0,1,-14.55,-78.666L0,0Z">
                                         <ns0:title>TSX
-5.48</ns0:title>
+4.62</ns0:title>
                                     </ns0:path>
-                                    <ns0:path fill="#c6538c" d="M-78.725,-14.227A80,80,0,0,1,-31.905,-73.362L0,0Z">
+                                    <ns0:path fill="#c6538c" d="M-13.565,-78.842A80,80,0,0,1,-2.165,-79.971L0,0Z">
                                         <ns0:title>SCSS
-14.87</ns0:title>
+2.24</ns0:title>
                                     </ns0:path>
-                                    <ns0:path fill="#e34c26" d="M-30.986,-73.755A80,80,0,0,1,-30.352,-74.019L0,0Z">
+                                    <ns0:path fill="#e34c26" d="M-1.165,-79.992A80,80,0,0,1,-0.5,-79.998L0,0Z">
                                         <ns0:title>HTML
 0.13</ns0:title>
                                     </ns0:path>
-                                    <ns0:path fill="#563d7c" d="M-29.424,-74.392A80,80,0,0,1,-0.5,-79.998L0,0Z">
-                                        <ns0:title>CSS
-5.61</ns0:title>
-                                    </ns0:path>
                                 </ns0:g>
                                 <ns0:g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <ns0:text transform="translate(21.477176801242823,-33.74508670381745)">
-                                        <ns0:tspan x="0" y="0em" font-weight="bold">TypeScript</ns0:tspan>
-                                        <ns0:tspan x="0" y="1.1em">16.98</ns0:tspan>
-                                    </ns0:text>
-                                    <ns0:text transform="translate(13.03780436939601,37.81554782394879)">
+                                    <ns0:text transform="translate(21.433546034868645,33.77281605627766)">
                                         <ns0:tspan x="0" y="0em" font-weight="bold">Java</ns0:tspan>
-                                        <ns0:tspan x="0" y="1.1em">50.58</ns0:tspan>
+                                        <ns0:tspan x="0" y="1.1em">80.33</ns0:tspan>
                                     </ns0:text>
-                                    <ns0:text transform="translate(-39.08510327509653,8.506156709997688)">
+                                    <ns0:text transform="translate(-29.259922571967294,-27.273740687380577)">
+                                        <ns0:tspan x="0" y="0em" font-weight="bold">TypeScript</ns0:tspan>
+                                        <ns0:tspan x="0" y="1.1em">9.51</ns0:tspan>
+                                    </ns0:text>
+                                    <ns0:text transform="translate(-19.085099274082417,-35.153363789236714)">
                                         <ns0:tspan x="0" y="0em" font-weight="bold">Dockerfile</ns0:tspan>
                                     </ns0:text>
-                                    <ns0:text transform="translate(-39.99572964999444,0.5844739211939292)">
+                                    <ns0:text transform="translate(-12.987690024309703,-37.832788792692064)">
                                         <ns0:tspan x="0" y="0em" font-weight="bold">TSX</ns0:tspan>
-                                        <ns0:tspan x="0" y="1.1em">5.48</ns0:tspan>
+                                        <ns0:tspan x="0" y="1.1em">4.62</ns0:tspan>
                                     </ns0:text>
-                                    <ns0:text transform="translate(-31.36078661318743,-24.829439441963327)">
+                                    <ns0:text transform="translate(-3.9426938095882784,-39.80521530558319)">
                                         <ns0:tspan x="0" y="0em" font-weight="bold">SCSS</ns0:tspan>
-                                        <ns0:tspan x="0" y="1.1em">14.87</ns0:tspan>
                                     </ns0:text>
-                                    <ns0:text transform="translate(-15.334558163513366,-36.94389429837934)">
+                                    <ns0:text transform="translate(-0.41634599926797666,-39.997833141420216)">
                                         <ns0:tspan x="0" y="0em" font-weight="bold">HTML</ns0:tspan>
-                                    </ns0:text>
-                                    <ns0:text transform="translate(-7.611190797917033,-39.26919625657881)">
-                                        <ns0:tspan x="0" y="0em" font-weight="bold">CSS</ns0:tspan>
-                                        <ns0:tspan x="0" y="1.1em">5.61</ns0:tspan>
                                     </ns0:text>
                                 </ns0:g>
                             </ns0:svg>
@@ -2501,14 +2503,14 @@
                         <ns0:rect x="0" y="0" width="460" height="8" fill="white" rx="5" />
                     </ns0:mask>
                     <ns0:rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da" />
-                    <ns0:rect mask="url(#languages-bar)" x="0" y="0" width="333.1117295652297" height="8" fill="#b07219" />
-                    <ns0:rect mask="url(#languages-bar)" x="333.1117295652297" y="0" width="36.276042557130786" height="8" fill="#A97BFF" />
-                    <ns0:rect mask="url(#languages-bar)" x="369.3877721223605" y="0" width="33.79045191723093" height="8" fill="#3572A5" />
-                    <ns0:rect mask="url(#languages-bar)" x="403.17822403959144" y="0" width="23.865353067894752" height="8" fill="#3178c6" />
-                    <ns0:rect mask="url(#languages-bar)" x="427.0435771074862" y="0" width="10.341729723688896" height="8" fill="#c6538c" />
-                    <ns0:rect mask="url(#languages-bar)" x="437.3853068311751" y="0" width="7.636698144443046" height="8" fill="#f1e05a" />
-                    <ns0:rect mask="url(#languages-bar)" x="445.02200497561813" y="0" width="7.028631905171356" height="8" fill="#f34b7d" />
-                    <ns0:rect mask="url(#languages-bar)" x="452.05063688078945" y="0" width="7.949363119210505" height="8" fill="#ededed" />
+                    <ns0:rect mask="url(#languages-bar)" x="0" y="0" width="336.21551168648585" height="8" fill="#b07219" />
+                    <ns0:rect mask="url(#languages-bar)" x="336.21551168648585" y="0" width="35.388703389113445" height="8" fill="#A97BFF" />
+                    <ns0:rect mask="url(#languages-bar)" x="371.6042150755993" y="0" width="32.96391215772037" height="8" fill="#3572A5" />
+                    <ns0:rect mask="url(#languages-bar)" x="404.5681272333197" y="0" width="23.28158865912952" height="8" fill="#3178c6" />
+                    <ns0:rect mask="url(#languages-bar)" x="427.8497158924492" y="0" width="10.088763269742708" height="8" fill="#c6538c" />
+                    <ns0:rect mask="url(#languages-bar)" x="437.93847916219187" y="0" width="7.44989878871901" height="8" fill="#f1e05a" />
+                    <ns0:rect mask="url(#languages-bar)" x="445.38837795091086" y="0" width="6.8567063050397365" height="8" fill="#f34b7d" />
+                    <ns0:rect mask="url(#languages-bar)" x="452.2450842559506" y="0" width="7.754915744049363" height="8" fill="#ededed" />
                 </ns0:svg>
                 <html:div class="row fill-width">
                     <html:section>
@@ -2520,8 +2522,8 @@
                                 Java
                             </html:div>
                             <html:small>
-                                <html:div>868 kB</html:div>
-                                <html:div>72.42%</html:div>
+                                <html:div>898 kB</html:div>
+                                <html:div>73.09%</html:div>
                             </html:small>
                         </html:div>
                         <html:div class="field language details">
@@ -2533,7 +2535,7 @@
                             </html:div>
                             <html:small>
                                 <html:div>88 kB</html:div>
-                                <html:div>7.35%</html:div>
+                                <html:div>7.17%</html:div>
                             </html:small>
                         </html:div>
                         <html:div class="field language details">
@@ -2545,7 +2547,7 @@
                             </html:div>
                             <html:small>
                                 <html:div>26.9 kB</html:div>
-                                <html:div>2.25%</html:div>
+                                <html:div>2.19%</html:div>
                             </html:small>
                         </html:div>
                         <html:div class="field language details">
@@ -2557,7 +2559,7 @@
                             </html:div>
                             <html:small>
                                 <html:div>18.3 kB</html:div>
-                                <html:div>1.53%</html:div>
+                                <html:div>1.49%</html:div>
                             </html:small>
                         </html:div>
                     </html:section>
@@ -2571,7 +2573,7 @@
                             </html:div>
                             <html:small>
                                 <html:div>94.5 kB</html:div>
-                                <html:div>7.89%</html:div>
+                                <html:div>7.69%</html:div>
                             </html:small>
                         </html:div>
                         <html:div class="field language details">
@@ -2583,7 +2585,7 @@
                             </html:div>
                             <html:small>
                                 <html:div>62.2 kB</html:div>
-                                <html:div>5.19%</html:div>
+                                <html:div>5.06%</html:div>
                             </html:small>
                         </html:div>
                         <html:div class="field language details">
@@ -2595,7 +2597,7 @@
                             </html:div>
                             <html:small>
                                 <html:div>19.9 kB</html:div>
-                                <html:div>1.66%</html:div>
+                                <html:div>1.62%</html:div>
                             </html:small>
                         </html:div>
                         <html:div class="field language details">
@@ -2607,7 +2609,7 @@
                             </html:div>
                             <html:small>
                                 <html:div>20.7 kB</html:div>
-                                <html:div>1.73%</html:div>
+                                <html:div>1.69%</html:div>
                             </html:small>
                         </html:div>
                     </html:section>
@@ -2623,6 +2625,128 @@
                 </html:h2>
                 <html:div class="row">
                     <html:section>
+                        <html:div class="row fill-width">
+                            <html:section class="activity">
+                                <html:div class="field">
+                                    <ns0:svg viewBox="0 0 16 16" width="16" height="16">
+                                        <ns0:path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z" />
+                                    </ns0:svg>
+                                    <html:div class="content">
+                                        Pushed 19 commits in
+                                        <html:span class="repo">knighthat/youtube-dl</html:span>
+                                    </html:div>
+                                </html:div>
+                                <html:div class="details">
+                                    <html:div>on branch <html:span class="code">dev</html:span></html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#5bd3789</html:div>
+                                        <html:div class="message">changed scope of GSON</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#e1ed160</html:div>
+                                        <html:div class="message">renamed encoder to codec</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#3046432</html:div>
+                                        <html:div class="message">added @NotNull annotation</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#eb613f8</html:div>
+                                        <html:div class="message">changed visibility</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#34b1bfa</html:div>
+                                        <html:div class="message">added GSon library</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#2048985</html:div>
+                                        <html:div class="message">retrieve thumbnail feature</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#f341c41</html:div>
+                                        <html:div class="message">removed main</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#2280c48</html:div>
+                                        <html:div class="message">switched to Builder instead of Getter/Setter</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#40fd219</html:div>
+                                        <html:div class="message">use generic type instead of everything</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#4a071f1</html:div>
+                                        <html:div class="message">extracted to individual classes</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#f33e749</html:div>
+                                        <html:div class="message">interfaces represent response from youtube-dl</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#663031e</html:div>
+                                        <html:div class="message">basic flags/arguments for general purposes</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#84d1209</html:div>
+                                        <html:div class="message">use default message</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#3aa0b97</html:div>
+                                        <html:div class="message">flipped condition</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#d0ef97d</html:div>
+                                        <html:div class="message">main class</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#b3646bb</html:div>
+                                        <html:div class="message">format class represents return value when query for formats of a video</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#ca8d4d6</html:div>
+                                        <html:div class="message">added few exceptions for pattern matching</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#99ef58b</html:div>
+                                        <html:div class="message">execute command &amp; return outputs as a list of string</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#97d74eb</html:div>
+                                        <html:div class="message">init commit</html:div>
+                                    </html:div>
+                                </html:div>
+                            </html:section>
+                        </html:div>
+                        <html:div class="row fill-width">
+                            <html:section class="activity">
+                                <html:div class="field">
+                                    <ns0:svg viewBox="0 0 16 16" width="16" height="16">
+                                        <ns0:path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z" />
+                                    </ns0:svg>
+                                    <html:div class="content">
+                                        Created new
+                      branch
+                                        <html:span class="code">dev</html:span>
+                                        in
+                                        <html:span class="repo">knighthat/youtube-dl</html:span>
+                                    </html:div>
+                                </html:div>
+                            </html:section>
+                        </html:div>
+                        <html:div class="row fill-width">
+                            <html:section class="activity">
+                                <html:div class="field">
+                                    <ns0:svg viewBox="0 0 16 16" width="16" height="16">
+                                        <ns0:path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z" />
+                                    </ns0:svg>
+                                    <html:div class="content">
+                                        Created new
+                      repository
+                                        <html:span class="repo">knighthat/youtube-dl</html:span>
+                                    </html:div>
+                                </html:div>
+                            </html:section>
+                        </html:div>
                         <html:div class="row fill-width">
                             <html:section class="activity">
                                 <html:div class="field">
@@ -2663,74 +2787,6 @@
                                     <html:div class="commit">
                                         <html:div class="sha">#f4d0843</html:div>
                                         <html:div class="message">fixed typo</html:div>
-                                    </html:div>
-                                </html:div>
-                            </html:section>
-                        </html:div>
-                        <html:div class="row fill-width">
-                            <html:section class="activity">
-                                <html:div class="field">
-                                    <ns0:svg viewBox="0 0 16 16" width="16" height="16">
-                                        <ns0:path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z" />
-                                    </ns0:svg>
-                                    <html:div class="content">
-                                        Pushed 1 commit in
-                                        <html:span class="repo">knighthat/ytf-frontend</html:span>
-                                    </html:div>
-                                </html:div>
-                                <html:div class="details">
-                                    <html:div>on branch <html:span class="code">dev</html:span></html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#16110d4</html:div>
-                                        <html:div class="message">adjusted query to match backend</html:div>
-                                    </html:div>
-                                </html:div>
-                            </html:section>
-                        </html:div>
-                        <html:div class="row fill-width">
-                            <html:section class="activity">
-                                <html:div class="field">
-                                    <ns0:svg viewBox="0 0 16 16" width="16" height="16">
-                                        <ns0:path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z" />
-                                    </ns0:svg>
-                                    <html:div class="content">
-                                        Pushed 2 commits in
-                                        <html:span class="repo">knighthat/yt-api-caller</html:span>
-                                    </html:div>
-                                </html:div>
-                                <html:div class="details">
-                                    <html:div>on branch <html:span class="code">dev</html:span></html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#1772273</html:div>
-                                        <html:div class="message">switched to dual arrays instead of fixed amount of objects and names</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#aa17f93</html:div>
-                                        <html:div class="message">adjusted messages to better explain the situation</html:div>
-                                    </html:div>
-                                </html:div>
-                            </html:section>
-                        </html:div>
-                        <html:div class="row fill-width">
-                            <html:section class="activity">
-                                <html:div class="field">
-                                    <ns0:svg viewBox="0 0 16 16" width="16" height="16">
-                                        <ns0:path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z" />
-                                    </ns0:svg>
-                                    <html:div class="content">
-                                        Pushed 2 commits in
-                                        <html:span class="repo">knighthat/yt-api-caller</html:span>
-                                    </html:div>
-                                </html:div>
-                                <html:div class="details">
-                                    <html:div>on branch <html:span class="code">dev</html:span></html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#d15082d</html:div>
-                                        <html:div class="message">added env var that overrides system's country code</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#92afdd2</html:div>
-                                        <html:div class="message">made VariableNames public adn implemented get() that return value of env or default value</html:div>
                                     </html:div>
                                 </html:div>
                             </html:section>
