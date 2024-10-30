@@ -3,9 +3,6 @@ name: Generate Profile SVG
 on:
   schedule:
     - cron: '0 0 * * *' 
-  push:
-    branches:
-      - main
   # Allow manual trigger
   workflow_dispatch:
 
