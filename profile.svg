@@ -134,7 +134,7 @@
                                     <ns0:svg viewBox="0 0 16 16" width="16" height="16">
                                         <ns0:path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z" />
                                     </ns0:svg>
-                                    1 view in last two weeks
+                                    3 views in last two weeks
                                 </html:div>
                             </html:section>
                         </html:div>
@@ -180,7 +180,7 @@
                             <ns0:svg viewBox="0 0 16 16" width="16" height="16">
                                 <ns0:path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z" />
                             </ns0:svg>
-                            Average per day at ~3.35
+                            Average per day at ~3.34
                         </html:div>
                     </html:section>
                 </html:div>
@@ -2145,6 +2145,11 @@
                                 <ns0:path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z" />
                                 <ns0:path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z" />
                             </ns0:g>
+                            <ns0:g transform="translate(-6.8, 10)">
+                                <ns0:path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z" />
+                                <ns0:path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z" />
+                                <ns0:path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z" />
+                            </ns0:g>
                         </ns0:g>
                     </ns0:g>
                 </ns0:svg>
@@ -2155,7 +2160,7 @@
                         <ns0:path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z" />
                     </ns0:svg>
                     Recent coding habits
-                    <html:small class="h-details">(computed from last 7 commits)</html:small>
+                    <html:small class="h-details">(computed from last 8 commits)</html:small>
                 </html:h2>
                 <html:div class="row">
                     <html:ul class="facts">
@@ -2286,8 +2291,8 @@
                                     <ns0:text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</ns0:text>
                                 </ns0:g>
                             </ns0:g>
-                            <ns0:path transform="translate(10,10)" d="M10,105L29.565,73.333L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,41.667L244.783,105L264.348,73.333L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,10L420.87,105L440.435,105L460,105" fill="transparent" stroke="#87ceeb" stroke-width="2" />
-                            <ns0:path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,105L440.435,105L420.87,105L401.304,10L381.739,105L362.174,105L342.609,105L323.043,105L303.478,105L283.913,105L264.348,73.333L244.783,105L225.217,41.667L205.652,105L186.087,105L166.522,105L146.957,105L127.391,105L107.826,105L88.261,105L68.696,105L49.13,105L29.565,73.333L10,105Z" fill="rgba(88, 166, 255, .1)" />
+                            <ns0:path transform="translate(10,10)" d="M10,105L29.565,73.333L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,41.667L244.783,105L264.348,41.667L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,10L420.87,105L440.435,105L460,105" fill="transparent" stroke="#87ceeb" stroke-width="2" />
+                            <ns0:path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,105L440.435,105L420.87,105L401.304,10L381.739,105L362.174,105L342.609,105L323.043,105L303.478,105L283.913,105L264.348,41.667L244.783,105L225.217,41.667L205.652,105L186.087,105L166.522,105L146.957,105L127.391,105L107.826,105L88.261,105L68.696,105L49.13,105L29.565,73.333L10,105Z" fill="rgba(88, 166, 255, .1)" />
                             <ns0:g>
                                 <ns0:circle transform="translate(10,10)" cx="10" cy="105" r="2" fill="#106cbc" />
                                 <ns0:circle transform="translate(10,10)" cx="29.565217391304348" cy="73.33333333333334" r="2" fill="#106cbc" />
@@ -2302,7 +2307,7 @@
                                 <ns0:circle transform="translate(10,10)" cx="205.65217391304347" cy="105" r="2" fill="#106cbc" />
                                 <ns0:circle transform="translate(10,10)" cx="225.2173913043478" cy="41.66666666666667" r="2" fill="#106cbc" />
                                 <ns0:circle transform="translate(10,10)" cx="244.7826086956522" cy="105" r="2" fill="#106cbc" />
-                                <ns0:circle transform="translate(10,10)" cx="264.3478260869565" cy="73.33333333333334" r="2" fill="#106cbc" />
+                                <ns0:circle transform="translate(10,10)" cx="264.3478260869565" cy="41.66666666666667" r="2" fill="#106cbc" />
                                 <ns0:circle transform="translate(10,10)" cx="283.9130434782609" cy="105" r="2" fill="#106cbc" />
                                 <ns0:circle transform="translate(10,10)" cx="303.4782608695652" cy="105" r="2" fill="#106cbc" />
                                 <ns0:circle transform="translate(10,10)" cx="323.04347826086956" cy="105" r="2" fill="#106cbc" />
@@ -2328,7 +2333,7 @@
                                 <ns0:text transform="translate(10,6)" x="205.65217391304347" y="105" fill="rgba(127, 127, 127, .8)" />
                                 <ns0:text transform="translate(10,6)" x="225.2173913043478" y="41.66666666666667" fill="rgba(127, 127, 127, .8)">2</ns0:text>
                                 <ns0:text transform="translate(10,6)" x="244.7826086956522" y="105" fill="rgba(127, 127, 127, .8)" />
-                                <ns0:text transform="translate(10,6)" x="264.3478260869565" y="73.33333333333334" fill="rgba(127, 127, 127, .8)">1</ns0:text>
+                                <ns0:text transform="translate(10,6)" x="264.3478260869565" y="41.66666666666667" fill="rgba(127, 127, 127, .8)">2</ns0:text>
                                 <ns0:text transform="translate(10,6)" x="283.9130434782609" y="105" fill="rgba(127, 127, 127, .8)" />
                                 <ns0:text transform="translate(10,6)" x="303.4782608695652" y="105" fill="rgba(127, 127, 127, .8)" />
                                 <ns0:text transform="translate(10,6)" x="323.04347826086956" y="105" fill="rgba(127, 127, 127, .8)" />
@@ -2397,13 +2402,13 @@
                                         <ns0:text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</ns0:text>
                                     </ns0:g>
                                 </ns0:g>
-                                <ns0:path transform="translate(10,10)" d="M10,41.667L41,105L72,10L103,105L134,105L165,41.667L196,105" fill="transparent" stroke="#87ceeb" stroke-width="2" />
-                                <ns0:path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,105L165,41.667L134,105L103,105L72,10L41,105L10,41.667Z" fill="rgba(88, 166, 255, .1)" />
+                                <ns0:path transform="translate(10,10)" d="M10,41.667L41,105L72,10L103,73.333L134,105L165,41.667L196,105" fill="transparent" stroke="#87ceeb" stroke-width="2" />
+                                <ns0:path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,105L165,41.667L134,105L103,73.333L72,10L41,105L10,41.667Z" fill="rgba(88, 166, 255, .1)" />
                                 <ns0:g>
                                     <ns0:circle transform="translate(10,10)" cx="10" cy="41.66666666666667" r="2" fill="#106cbc" />
                                     <ns0:circle transform="translate(10,10)" cx="41" cy="105" r="2" fill="#106cbc" />
                                     <ns0:circle transform="translate(10,10)" cx="72" cy="10" r="2" fill="#106cbc" />
-                                    <ns0:circle transform="translate(10,10)" cx="103" cy="105" r="2" fill="#106cbc" />
+                                    <ns0:circle transform="translate(10,10)" cx="103" cy="73.33333333333334" r="2" fill="#106cbc" />
                                     <ns0:circle transform="translate(10,10)" cx="134" cy="105" r="2" fill="#106cbc" />
                                     <ns0:circle transform="translate(10,10)" cx="165" cy="41.66666666666667" r="2" fill="#106cbc" />
                                     <ns0:circle transform="translate(10,10)" cx="196" cy="105" r="2" fill="#106cbc" />
@@ -2412,7 +2417,7 @@
                                     <ns0:text transform="translate(10,6)" x="10" y="41.66666666666667" fill="rgba(127, 127, 127, .8)">2</ns0:text>
                                     <ns0:text transform="translate(10,6)" x="41" y="105" fill="rgba(127, 127, 127, .8)" />
                                     <ns0:text transform="translate(10,6)" x="72" y="10" fill="rgba(127, 127, 127, .8)">3</ns0:text>
-                                    <ns0:text transform="translate(10,6)" x="103" y="105" fill="rgba(127, 127, 127, .8)" />
+                                    <ns0:text transform="translate(10,6)" x="103" y="73.33333333333334" fill="rgba(127, 127, 127, .8)">1</ns0:text>
                                     <ns0:text transform="translate(10,6)" x="134" y="105" fill="rgba(127, 127, 127, .8)" />
                                     <ns0:text transform="translate(10,6)" x="165" y="41.66666666666667" fill="rgba(127, 127, 127, .8)">2</ns0:text>
                                     <ns0:text transform="translate(10,6)" x="196" y="105" fill="rgba(127, 127, 127, .8)" />
@@ -2427,13 +2432,13 @@
                                 <ns0:g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
                                     <ns0:path fill="#A97BFF" d="M0,-80A80,80,0,1,1,0,80A80,80,0,1,1,0,-80Z">
                                         <ns0:title>Kotlin
-96.56</ns0:title>
+96.68</ns0:title>
                                     </ns0:path>
                                 </ns0:g>
                                 <ns0:g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
                                     <ns0:text transform="translate(2.4492935982947065e-15,40)">
                                         <ns0:tspan x="0" y="0em" font-weight="bold">Kotlin</ns0:tspan>
-                                        <ns0:tspan x="0" y="1.1em">96.56</ns0:tspan>
+                                        <ns0:tspan x="0" y="1.1em">96.68</ns0:tspan>
                                     </ns0:text>
                                 </ns0:g>
                             </ns0:svg>
@@ -2577,6 +2582,102 @@
                 </html:h2>
                 <html:div class="row">
                     <html:section>
+                        <html:div class="row fill-width">
+                            <html:section class="activity">
+                                <html:div class="field">
+                                    <ns0:svg viewBox="0 0 16 16" width="16" height="16">
+                                        <ns0:path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z" />
+                                    </ns0:svg>
+                                    <html:div class="content">
+                                        Pushed 55 commits in
+                                        <html:span class="repo">knighthat/RiMusic</html:span>
+                                    </html:div>
+                                </html:div>
+                                <html:div class="details">
+                                    <html:div>on branch <html:span class="code">upstream</html:span></html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#03052dc</html:div>
+                                        <html:div class="message">Added a dialog box which shows the live progress of songs deletion.</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#2a2758e</html:div>
+                                        <html:div class="message">Merge branch 'fast4x:master' into delete-disliked-songs-from-radio</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#700db66</html:div>
+                                        <html:div class="message">added an option to delete songs which are not in the library</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#3b95d35</html:div>
+                                        <html:div class="message">added an option to delete songs which are not in the library</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#f9a7ff1</html:div>
+                                        <html:div class="message">fixed button rotation in controls</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#f62af10</html:div>
+                                        <html:div class="message">fixed only for landscape condition</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#e54913c</html:div>
+                                        <html:div class="message">added control buttons in new lyrics layout for landscape mode</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#799de98</html:div>
+                                        <html:div class="message">added control buttons in new lyrics layout for landscape mode</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#a954150</html:div>
+                                        <html:div class="message">added an option to disable swipe in modern player</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#5788c10</html:div>
+                                        <html:div class="message">stops mesh gradient when app is put on background and restarts when the app is opened. should improve the battery consumption</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#a6e942a</html:div>
+                                        <html:div class="message">fixed dislike filter for radio button</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#178411e</html:div>
+                                        <html:div class="message">fixed shuffle for floating shuffle button</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#5637813</html:div>
+                                        <html:div class="message">fixed some minot bugs about dislike filters and modern landscape player page spacing</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#2513784</html:div>
+                                        <html:div class="message">online playlists dislike filter</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#5078113</html:div>
+                                        <html:div class="message">added messages when collection exist in disliked</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#fc0f2ca</html:div>
+                                        <html:div class="message">added messages for disliked songs</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#599be9a</html:div>
+                                        <html:div class="message">fixing playnext in home songs</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#f289218</html:div>
+                                        <html:div class="message">home songs dislike filter</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#da8c55a</html:div>
+                                        <html:div class="message">local playlist dislike filter</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#f188151</html:div>
+                                        <html:div class="message">album dislike filter</html:div>
+                                    </html:div>
+                                </html:div>
+                            </html:section>
+                        </html:div>
                         <html:div class="row fill-width">
                             <html:section class="activity">
                                 <html:div class="field">
@@ -2776,112 +2877,6 @@ New Crowdin updates</html:div>
                                         <html:div class="message">implemented sort by "relative play time"
 
 - the play time relative to the song length</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#5beba14</html:div>
-                                        <html:div class="message">Merge remote-tracking branch 'origin/master'</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#759eaa1</html:div>
-                                        <html:div class="message">Implemented identification of yt/ytm playlists and login improvements</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#26308d0</html:div>
-                                        <html:div class="message">General improvements</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#530531c</html:div>
-                                        <html:div class="message">General improvements</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#00dcba3</html:div>
-                                        <html:div class="message">Merge remote-tracking branch 'origin/master'
-
-# Conflicts:
-#	composeApp/src/androidMain/kotlin/it/fast4x/rimusic/ui/screens/localplaylist/LocalPlaylistSongsModern.kt
-#	extensions/innertube/src/main/kotlin/it/fast4x/innertube/Innertube.kt</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#6b97e46</html:div>
-                                        <html:div class="message">General improvements</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#167dc00</html:div>
-                                        <html:div class="message">General improvements</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#177a1cd</html:div>
-                                        <html:div class="message">General improvements</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#db4e7d6</html:div>
-                                        <html:div class="message">Merge remote-tracking branch 'origin/master'</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#343dd4a</html:div>
-                                        <html:div class="message">General improvements</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#3103b62</html:div>
-                                        <html:div class="message">General improvements</html:div>
-                                    </html:div>
-                                </html:div>
-                            </html:section>
-                        </html:div>
-                        <html:div class="row fill-width">
-                            <html:section class="activity">
-                                <html:div class="field">
-                                    <ns0:svg viewBox="0 0 16 16" width="16" height="16">
-                                        <ns0:path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z" />
-                                    </ns0:svg>
-                                    <html:div class="content">
-                                        Pushed 236 commits in
-                                        <html:span class="repo">knighthat/RiMusic</html:span>
-                                    </html:div>
-                                </html:div>
-                                <html:div class="details">
-                                    <html:div>on branch <html:span class="code">upstream</html:span></html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#a06d0cf</html:div>
-                                        <html:div class="message">Merge remote-tracking branch 'origin/master'
-
-# Conflicts:
-#	composeApp/src/androidMain/kotlin/it/fast4x/rimusic/ui/screens/localplaylist/LocalPlaylistSongsModern.kt</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#4f722dc</html:div>
-                                        <html:div class="message">Merge remote-tracking branch 'origin/master'</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#2d5fa4c</html:div>
-                                        <html:div class="message">Merge remote-tracking branch 'origin/master'
-
-# Conflicts:
-#	composeApp/src/androidMain/res/values/strings.xml</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#54d6bd1</html:div>
-                                        <html:div class="message">General improvements</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#3502c1e</html:div>
-                                        <html:div class="message">General improvements</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#8f5542b</html:div>
-                                        <html:div class="message">General improvements</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#62febe5</html:div>
-                                        <html:div class="message">General improvements</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#ce5b75a</html:div>
-                                        <html:div class="message">Simplify invidious api</html:div>
-                                    </html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#7506da0</html:div>
-                                        <html:div class="message">Implemented add song to yt/ytm playlist</html:div>
                                     </html:div>
                                     <html:div class="commit">
                                         <html:div class="sha">#5beba14</html:div>
