@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1711" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2903" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chart{padding:0 8px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .bold{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chart{padding:0 8px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .bold{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}.contributors{display:flex;flex-wrap:wrap;margin-left:6px}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 5 users
+                            Followed by 6 users
                         </div>
                     </section>
                     <section>
@@ -134,7 +134,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    19 views in last two weeks
+                                    21 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -180,7 +180,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~3.34
+                            Average per day at ~3.33
                         </div>
                     </section>
                 </div>
@@ -2155,6 +2155,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-10.2, 12)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2165,14 +2170,14 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 12 commits)</small>
+                    <small class="h-details">(computed from last 17 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 44.1 characters per line of code written</li>
-                        <li>Mostly pushes code around 11:00</li>
-                        <li>Mostly active on Thursday</li>
+                        <li>Has approximately 44.2 characters per line of code written</li>
+                        <li>Mostly pushes code around 20:00</li>
+                        <li>Mostly active on Friday</li>
                     </ul>
                 </div>
             </section>
@@ -2283,30 +2288,26 @@
                             <g transform="translate(10,10)" fill="none" font-size="10" font-family="sans-serif" text-anchor="start">
                                 <g class="tick" opacity="1" transform="translate(0,10.5)">
                                     <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
+                                    <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">6</text>
+                                </g>
+                                <g class="tick" opacity="1" transform="translate(0,42.16666666666667)">
+                                    <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
                                     <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">4</text>
                                 </g>
-                                <g class="tick" opacity="1" transform="translate(0,34.25)">
-                                    <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
-                                    <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">3</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(0,58)">
+                                <g class="tick" opacity="1" transform="translate(0,73.83333333333334)">
                                     <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
                                     <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">2</text>
-                                </g>
-                                <g class="tick" opacity="1" transform="translate(0,81.75)">
-                                    <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
-                                    <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">1</text>
                                 </g>
                                 <g class="tick" opacity="1" transform="translate(0,105.5)">
                                     <line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2"/>
                                     <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</text>
                                 </g>
                             </g>
-                            <path transform="translate(10,10)" d="M10,105L29.565,81.25L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,81.25L205.652,105L225.217,10L244.783,105L264.348,33.75L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,33.75L420.87,105L440.435,105L460,105" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
-                            <path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,105L440.435,105L420.87,105L401.304,33.75L381.739,105L362.174,105L342.609,105L323.043,105L303.478,105L283.913,105L264.348,33.75L244.783,105L225.217,10L205.652,105L186.087,81.25L166.522,105L146.957,105L127.391,105L107.826,105L88.261,105L68.696,105L49.13,105L29.565,81.25L10,105Z" fill="rgba(88, 166, 255, .1)"/>
+                            <path transform="translate(10,10)" d="M10,105L29.565,89.167L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,73.333L205.652,105L225.217,41.667L244.783,105L264.348,57.5L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,89.167L401.304,10L420.87,105L440.435,105L460,105" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
+                            <path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,105L440.435,105L420.87,105L401.304,10L381.739,89.167L362.174,105L342.609,105L323.043,105L303.478,105L283.913,105L264.348,57.5L244.783,105L225.217,41.667L205.652,105L186.087,73.333L166.522,105L146.957,105L127.391,105L107.826,105L88.261,105L68.696,105L49.13,105L29.565,89.167L10,105Z" fill="rgba(88, 166, 255, .1)"/>
                             <g>
                                 <circle transform="translate(10,10)" cx="10" cy="105" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="29.565217391304348" cy="81.25" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="29.565217391304348" cy="89.16666666666667" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="49.130434782608695" cy="105" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="68.69565217391305" cy="105" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="88.26086956521739" cy="105" r="2" fill="#106cbc"/>
@@ -2314,25 +2315,25 @@
                                 <circle transform="translate(10,10)" cx="127.3913043478261" cy="105" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="146.95652173913044" cy="105" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="166.52173913043478" cy="105" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="186.08695652173913" cy="81.25" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="186.08695652173913" cy="73.33333333333334" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="205.65217391304347" cy="105" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="225.2173913043478" cy="10" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="225.2173913043478" cy="41.66666666666667" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="244.7826086956522" cy="105" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="264.3478260869565" cy="33.75" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="264.3478260869565" cy="57.5" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="283.9130434782609" cy="105" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="303.4782608695652" cy="105" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="323.04347826086956" cy="105" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="342.60869565217394" cy="105" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="362.17391304347825" cy="105" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="381.7391304347826" cy="105" r="2" fill="#106cbc"/>
-                                <circle transform="translate(10,10)" cx="401.30434782608694" cy="33.75" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="381.7391304347826" cy="89.16666666666667" r="2" fill="#106cbc"/>
+                                <circle transform="translate(10,10)" cx="401.30434782608694" cy="10" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="420.8695652173913" cy="105" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="440.4347826086956" cy="105" r="2" fill="#106cbc"/>
                                 <circle transform="translate(10,10)" cx="460" cy="105" r="2" fill="#106cbc"/>
                             </g>
                             <g fill="currentColor" text-anchor="middle" font-family="sans-serif" font-size="10" stroke="rgba(88, 166, 255, .05)" stroke-linejoin="round" stroke-width="4" paint-order="stroke fill">
                                 <text transform="translate(10,6)" x="10" y="105" fill="rgba(127, 127, 127, .8)"/>
-                                <text transform="translate(10,6)" x="29.565217391304348" y="81.25" fill="rgba(127, 127, 127, .8)">1</text>
+                                <text transform="translate(10,6)" x="29.565217391304348" y="89.16666666666667" fill="rgba(127, 127, 127, .8)">1</text>
                                 <text transform="translate(10,6)" x="49.130434782608695" y="105" fill="rgba(127, 127, 127, .8)"/>
                                 <text transform="translate(10,6)" x="68.69565217391305" y="105" fill="rgba(127, 127, 127, .8)"/>
                                 <text transform="translate(10,6)" x="88.26086956521739" y="105" fill="rgba(127, 127, 127, .8)"/>
@@ -2340,18 +2341,18 @@
                                 <text transform="translate(10,6)" x="127.3913043478261" y="105" fill="rgba(127, 127, 127, .8)"/>
                                 <text transform="translate(10,6)" x="146.95652173913044" y="105" fill="rgba(127, 127, 127, .8)"/>
                                 <text transform="translate(10,6)" x="166.52173913043478" y="105" fill="rgba(127, 127, 127, .8)"/>
-                                <text transform="translate(10,6)" x="186.08695652173913" y="81.25" fill="rgba(127, 127, 127, .8)">1</text>
+                                <text transform="translate(10,6)" x="186.08695652173913" y="73.33333333333334" fill="rgba(127, 127, 127, .8)">2</text>
                                 <text transform="translate(10,6)" x="205.65217391304347" y="105" fill="rgba(127, 127, 127, .8)"/>
-                                <text transform="translate(10,6)" x="225.2173913043478" y="10" fill="rgba(127, 127, 127, .8)">4</text>
+                                <text transform="translate(10,6)" x="225.2173913043478" y="41.66666666666667" fill="rgba(127, 127, 127, .8)">4</text>
                                 <text transform="translate(10,6)" x="244.7826086956522" y="105" fill="rgba(127, 127, 127, .8)"/>
-                                <text transform="translate(10,6)" x="264.3478260869565" y="33.75" fill="rgba(127, 127, 127, .8)">3</text>
+                                <text transform="translate(10,6)" x="264.3478260869565" y="57.5" fill="rgba(127, 127, 127, .8)">3</text>
                                 <text transform="translate(10,6)" x="283.9130434782609" y="105" fill="rgba(127, 127, 127, .8)"/>
                                 <text transform="translate(10,6)" x="303.4782608695652" y="105" fill="rgba(127, 127, 127, .8)"/>
                                 <text transform="translate(10,6)" x="323.04347826086956" y="105" fill="rgba(127, 127, 127, .8)"/>
                                 <text transform="translate(10,6)" x="342.60869565217394" y="105" fill="rgba(127, 127, 127, .8)"/>
                                 <text transform="translate(10,6)" x="362.17391304347825" y="105" fill="rgba(127, 127, 127, .8)"/>
-                                <text transform="translate(10,6)" x="381.7391304347826" y="105" fill="rgba(127, 127, 127, .8)"/>
-                                <text transform="translate(10,6)" x="401.30434782608694" y="33.75" fill="rgba(127, 127, 127, .8)">3</text>
+                                <text transform="translate(10,6)" x="381.7391304347826" y="89.16666666666667" fill="rgba(127, 127, 127, .8)">1</text>
+                                <text transform="translate(10,6)" x="401.30434782608694" y="10" fill="rgba(127, 127, 127, .8)">6</text>
                                 <text transform="translate(10,6)" x="420.8695652173913" y="105" fill="rgba(127, 127, 127, .8)"/>
                                 <text transform="translate(10,6)" x="440.4347826086956" y="105" fill="rgba(127, 127, 127, .8)"/>
                                 <text transform="translate(10,6)" x="460" y="105" fill="rgba(127, 127, 127, .8)"/>
@@ -2396,45 +2397,41 @@
                                     </g>
                                 </g>
                                 <g transform="translate(10,10)" fill="none" font-size="10" font-family="sans-serif" text-anchor="start">
-                                    <g class="tick" opacity="1" transform="translate(0,10.5)">
+                                    <g class="tick" opacity="1" transform="translate(0,24.071428571428577)">
+                                        <line stroke="currentColor" x2="196" stroke-opacity="0.5" stroke-dasharray="2,2"/>
+                                        <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">6</text>
+                                    </g>
+                                    <g class="tick" opacity="1" transform="translate(0,51.214285714285715)">
                                         <line stroke="currentColor" x2="196" stroke-opacity="0.5" stroke-dasharray="2,2"/>
                                         <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">4</text>
                                     </g>
-                                    <g class="tick" opacity="1" transform="translate(0,34.25)">
-                                        <line stroke="currentColor" x2="196" stroke-opacity="0.5" stroke-dasharray="2,2"/>
-                                        <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">3</text>
-                                    </g>
-                                    <g class="tick" opacity="1" transform="translate(0,58)">
+                                    <g class="tick" opacity="1" transform="translate(0,78.35714285714286)">
                                         <line stroke="currentColor" x2="196" stroke-opacity="0.5" stroke-dasharray="2,2"/>
                                         <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">2</text>
-                                    </g>
-                                    <g class="tick" opacity="1" transform="translate(0,81.75)">
-                                        <line stroke="currentColor" x2="196" stroke-opacity="0.5" stroke-dasharray="2,2"/>
-                                        <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">1</text>
                                     </g>
                                     <g class="tick" opacity="1" transform="translate(0,105.5)">
                                         <line stroke="currentColor" x2="196" stroke-opacity="0.5" stroke-dasharray="2,2"/>
                                         <text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</text>
                                     </g>
                                 </g>
-                                <path transform="translate(10,10)" d="M10,57.5L41,105L72,33.75L103,81.25L134,10L165,57.5L196,105" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
-                                <path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,105L165,57.5L134,10L103,81.25L72,33.75L41,105L10,57.5Z" fill="rgba(88, 166, 255, .1)"/>
+                                <path transform="translate(10,10)" d="M10,77.857L41,105L72,64.286L103,91.429L134,50.714L165,10L196,105" fill="transparent" stroke="#87ceeb" stroke-width="2"/>
+                                <path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,105L165,10L134,50.714L103,91.429L72,64.286L41,105L10,77.857Z" fill="rgba(88, 166, 255, .1)"/>
                                 <g>
-                                    <circle transform="translate(10,10)" cx="10" cy="57.5" r="2" fill="#106cbc"/>
+                                    <circle transform="translate(10,10)" cx="10" cy="77.85714285714286" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="41" cy="105" r="2" fill="#106cbc"/>
-                                    <circle transform="translate(10,10)" cx="72" cy="33.75" r="2" fill="#106cbc"/>
-                                    <circle transform="translate(10,10)" cx="103" cy="81.25" r="2" fill="#106cbc"/>
-                                    <circle transform="translate(10,10)" cx="134" cy="10" r="2" fill="#106cbc"/>
-                                    <circle transform="translate(10,10)" cx="165" cy="57.5" r="2" fill="#106cbc"/>
+                                    <circle transform="translate(10,10)" cx="72" cy="64.28571428571429" r="2" fill="#106cbc"/>
+                                    <circle transform="translate(10,10)" cx="103" cy="91.42857142857143" r="2" fill="#106cbc"/>
+                                    <circle transform="translate(10,10)" cx="134" cy="50.714285714285715" r="2" fill="#106cbc"/>
+                                    <circle transform="translate(10,10)" cx="165" cy="10" r="2" fill="#106cbc"/>
                                     <circle transform="translate(10,10)" cx="196" cy="105" r="2" fill="#106cbc"/>
                                 </g>
                                 <g fill="currentColor" text-anchor="middle" font-family="sans-serif" font-size="10" stroke="rgba(88, 166, 255, .05)" stroke-linejoin="round" stroke-width="4" paint-order="stroke fill">
-                                    <text transform="translate(10,6)" x="10" y="57.5" fill="rgba(127, 127, 127, .8)">2</text>
+                                    <text transform="translate(10,6)" x="10" y="77.85714285714286" fill="rgba(127, 127, 127, .8)">2</text>
                                     <text transform="translate(10,6)" x="41" y="105" fill="rgba(127, 127, 127, .8)"/>
-                                    <text transform="translate(10,6)" x="72" y="33.75" fill="rgba(127, 127, 127, .8)">3</text>
-                                    <text transform="translate(10,6)" x="103" y="81.25" fill="rgba(127, 127, 127, .8)">1</text>
-                                    <text transform="translate(10,6)" x="134" y="10" fill="rgba(127, 127, 127, .8)">4</text>
-                                    <text transform="translate(10,6)" x="165" y="57.5" fill="rgba(127, 127, 127, .8)">2</text>
+                                    <text transform="translate(10,6)" x="72" y="64.28571428571429" fill="rgba(127, 127, 127, .8)">3</text>
+                                    <text transform="translate(10,6)" x="103" y="91.42857142857143" fill="rgba(127, 127, 127, .8)">1</text>
+                                    <text transform="translate(10,6)" x="134" y="50.714285714285715" fill="rgba(127, 127, 127, .8)">4</text>
+                                    <text transform="translate(10,6)" x="165" y="10" fill="rgba(127, 127, 127, .8)">7</text>
                                     <text transform="translate(10,6)" x="196" y="105" fill="rgba(127, 127, 127, .8)"/>
                                 </g>
                             </svg>
@@ -2447,13 +2444,13 @@
                                 <g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
                                     <path fill="#A97BFF" d="M0,-80A80,80,0,1,1,0,80A80,80,0,1,1,0,-80Z">
                                         <title>Kotlin
-97.29</title>
+72.09</title>
                                     </path>
                                 </g>
                                 <g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
                                     <text transform="translate(2.4492935982947065e-15,40)">
                                         <tspan x="0" y="0em" font-weight="bold">Kotlin</tspan>
-                                        <tspan x="0" y="1.1em">97.29</tspan>
+                                        <tspan x="0" y="1.1em">72.09</tspan>
                                     </text>
                                 </g>
                             </svg>
@@ -2477,45 +2474,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 7 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">knighthat/RiMusic</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">kbuild</span></div>
                                     <div class="commit">
-                                        <div class="sha">#98c3563</div>
-                                        <div class="message">Bump uk.co.caprica:vlcj from 4.8.2 to 4.8.3</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#84f6908</div>
-                                        <div class="message">Bump io.github.khubaibkhan4:mediaplayer-kmp from 2.0.2 to 2.0.4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3b0e88d</div>
-                                        <div class="message">Bump com.pierfrancescosoffritti.androidyoutubeplayer:core from 12.1.0 to 12.1.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1de90e8</div>
-                                        <div class="message">Bump androidx.compose.material3:material3-android from 1.4.0-alpha05 to 1.4.0-alpha06</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cf4b6f1</div>
-                                        <div class="message">Bump androidx.activity:activity-compose from 1.9.3 to 1.10.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#79161d0</div>
-                                        <div class="message">Bump org.jetbrains.kotlinx:kotlinx-coroutines from 1.9.0 to 1.10.1
-
-Update includes:
-- kotlinx-coroutines-core
-- kotlinx-coroutines-guava
-
-Dependabot couldn't find the original pull request head commit, b515938fca211c77defc7d2895c2218a448ae943.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0b6f742</div>
-                                        <div class="message">removed haze dependency</div>
+                                        <div class="sha">#d525663</div>
+                                        <div class="message">fixed missing imports</div>
                                     </div>
                                 </div>
                             </section>
@@ -2527,71 +2494,156 @@ Dependabot couldn't find the original pull request head commit, b515938fca211c77
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 30 commits in
                                         <span class="repo">knighthat/RiMusic</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">kbuild</span></div>
                                     <div class="commit">
-                                        <div class="sha">#530d0e3</div>
-                                        <div class="message">Bump ktor from 3.0.2 to 3.0.3
+                                        <div class="sha">#f20ee1a</div>
+                                        <div class="message">In app contributors list updated 01-24-2025</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a31dd0b</div>
+                                        <div class="message">New translations strings.xml (Turkish)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e9560fd</div>
+                                        <div class="message">Merge branch 'fast4x:master' into delete-disliked-songs-from-radio</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b10a847</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/delete-disliked-songs-from-radio' into delete-disliked-songs-from-radio</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4c348aa</div>
+                                        <div class="message">ability to also download the thumbnail when the songs are downloaded for offline playback</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0ef2428</div>
+                                        <div class="message">Fixed limit 100 songs in resync playlist #5351</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#be4f278</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/master'
 
-Bumps `ktor` from 3.0.2 to 3.0.3.
+# Conflicts:
+#	README.md
+#	composeApp/src/androidMain/res/values-ru/strings.xml
+#	composeApp/src/androidMain/res/values-uk/strings.xml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c53b59f</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/master'
 
-Updates `io.ktor:ktor-client-core` from 3.0.2 to 3.0.3
-- [Release notes](https://github.com/ktorio/ktor/releases)
-- [Changelog](https://github.com/ktorio/ktor/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/ktorio/ktor/compare/3.0.2...3.0.3)
+# Conflicts:
+#	composeApp/src/androidMain/res/raw/contributors.json</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8cf4f43</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/master'
 
-Updates `io.ktor:ktor-client-okhttp` from 3.0.2 to 3.0.3
-- [Release notes](https://github.com/ktorio/ktor/releases)
-- [Changelog](https://github.com/ktorio/ktor/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/ktorio/ktor/compare/3.0.2...3.0.3)
+# Conflicts:
+#	composeApp/src/androidMain/res/values-fr/strings.xml
+#	composeApp/src/androidMain/res/values-it/strings.xml
+#	composeApp/src/androidMain/res/values-ja/strings.xml
+#	composeApp/src/androidMain/res/values-tr/strings.xml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5439598</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/master'</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0a7bcf8</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/master'
 
-Updates `io.ktor:ktor-client-content-negotiation` from 3.0.2 to 3.0.3
-- [Release notes](https://github.com/ktorio/ktor/releases)
-- [Changelog](https://github.com/ktorio/ktor/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/ktorio/ktor/compare/3.0.2...3.0.3)
+# Conflicts:
+#	composeApp/src/androidMain/res/values-af/strings.xml
+#	composeApp/src/androidMain/res/values-ar/strings.xml
+#	composeApp/src/androidMain/res/values-az/strings.xml
+#	composeApp/src/androidMain/res/values-ba/strings.xml
+#	composeApp/src/androidMain/res/values-bn/strings.xml
+#	composeApp/src/androidMain/res/values-ca/strings.xml
+#	composeApp/src/androidMain/res/values-cs/strings.xml
+#	composeApp/src/androidMain/res/values-da/strings.xml
+#	composeApp/src/androidMain/res/values-de/strings.xml
+#	composeApp/src/androidMain/res/values-en/strings.xml
+#	composeApp/src/androidMain/res/values-eo/strings.xml
+#	composeApp/src/androidMain/res/values-es/strings.xml
+#	composeApp/src/androidMain/res/values-et/strings.xml
+#	composeApp/src/androidMain/res/values-fi/strings.xml
+#	composeApp/src/androidMain/res/values-fil/strings.xml
+#	composeApp/src/androidMain/res/values-fr/strings.xml
+#	composeApp/src/androidMain/res/values-ga/strings.xml
+#	composeApp/src/androidMain/res/values-gl/strings.xml
+#	composeApp/src/androidMain/res/values-he/strings.xml
+#	composeApp/src/androidMain/res/values-hi/strings.xml
+#	composeApp/src/androidMain/res/values-hu/strings.xml
+#	composeApp/src/androidMain/res/values-ia/strings.xml
+#	composeApp/src/androidMain/res/values-in/strings.xml
+#	composeApp/src/androidMain/res/values-it/strings.xml
+#	composeApp/src/androidMain/res/values-ja/strings.xml
+#	composeApp/src/androidMain/res/values-ko/strings.xml
+#	composeApp/src/androidMain/res/values-ml/strings.xml
+#	composeApp/src/androidMain/res/values-nl/strings.xml
+#	composeApp/src/androidMain/res/values-no/strings.xml
+#	composeApp/src/androidMain/res/values-or/strings.xml
+#	composeApp/src/androidMain/res/values-pl/strings.xml
+#	composeApp/src/androidMain/res/values-pt-rBR/strings.xml
+#	composeApp/src/androidMain/res/values-pt/strings.xml
+#	composeApp/src/androidMain/res/values-ro/strings.xml
+#	composeApp/src/androidMain/res/values-ru/strings.xml
+#	composeApp/src/androidMain/res/values-si/strings.xml
+#	composeApp/src/androidMain/res/values-sr-rCS/strings.xml
+#	composeApp/src/androidMain/res/values-sr/strings.xml
+#	composeApp/src/androidMain/res/values-sv/strings.xml
+#	composeApp/src/androidMain/res/values-ta/strings.xml
+#	composeApp/src/androidMain/res/values-te/strings.xml
+#	composeApp/src/androidMain/res/values-tr/strings.xml
+#	composeApp/src/androidMain/res/values-uk/strings.xml
+#	composeApp/src/androidMain/res/values-zh-rCN/strings.xml
+#	composeApp/src/androidMain/res/values-zh-rTW/strings.xml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#313de51</div>
+                                        <div class="message">Add S0nter to contributors
 
-Updates `io.ktor:ktor-client-encoding` from 3.0.2 to 3.0.3
-- [Release notes](https://github.com/ktorio/ktor/releases)
-- [Changelog](https://github.com/ktorio/ktor/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/ktorio/ktor/compare/3.0.2...3.0.3)
+This commit adds S0nter to the list of contributors in the `contributors.json` file.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#085ca93</div>
+                                        <div class="message">Languages updated</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9dfa4ee</div>
+                                        <div class="message">Added new dev</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#217fbea</div>
+                                        <div class="message">Added new dev</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9f75a43</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/master'</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2083b38</div>
+                                        <div class="message">Fixed artists name in song</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f0dcc80</div>
+                                        <div class="message">Improved streaming</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#51cd8ac</div>
+                                        <div class="message">Revert "General improvements"
 
-Updates `io.ktor:ktor-client-serialization` from 3.0.2 to 3.0.3
-- [Release notes](https://github.com/ktorio/ktor/releases)
-- [Changelog](https://github.com/ktorio/ktor/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/ktorio/ktor/compare/3.0.2...3.0.3)
-
-Updates `io.ktor:ktor-serialization-kotlinx-json` from 3.0.2 to 3.0.3
-- [Release notes](https://github.com/ktorio/ktor/releases)
-- [Changelog](https://github.com/ktorio/ktor/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/ktorio/ktor/compare/3.0.2...3.0.3)
-
----
-updated-dependencies:
-- dependency-name: io.ktor:ktor-client-core
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-- dependency-name: io.ktor:ktor-client-okhttp
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-- dependency-name: io.ktor:ktor-client-content-negotiation
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-- dependency-name: io.ktor:ktor-client-encoding
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-- dependency-name: io.ktor:ktor-client-serialization
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-- dependency-name: io.ktor:ktor-serialization-kotlinx-json
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+This reverts commit 210c519eadacd436c8c8970903341f836546d1b5.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#210c519</div>
+                                        <div class="message">General improvements</div>
                                     </div>
                                 </div>
                             </section>
@@ -2603,47 +2655,252 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 29 commits in
+                                        <span class="repo">knighthat/RiMusic</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">upstream</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f20ee1a</div>
+                                        <div class="message">In app contributors list updated 01-24-2025</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a31dd0b</div>
+                                        <div class="message">New translations strings.xml (Turkish)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e9560fd</div>
+                                        <div class="message">Merge branch 'fast4x:master' into delete-disliked-songs-from-radio</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b10a847</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/delete-disliked-songs-from-radio' into delete-disliked-songs-from-radio</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4c348aa</div>
+                                        <div class="message">ability to also download the thumbnail when the songs are downloaded for offline playback</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0ef2428</div>
+                                        <div class="message">Fixed limit 100 songs in resync playlist #5351</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#be4f278</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/master'
+
+# Conflicts:
+#	README.md
+#	composeApp/src/androidMain/res/values-ru/strings.xml
+#	composeApp/src/androidMain/res/values-uk/strings.xml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c53b59f</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/master'
+
+# Conflicts:
+#	composeApp/src/androidMain/res/raw/contributors.json</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8cf4f43</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/master'
+
+# Conflicts:
+#	composeApp/src/androidMain/res/values-fr/strings.xml
+#	composeApp/src/androidMain/res/values-it/strings.xml
+#	composeApp/src/androidMain/res/values-ja/strings.xml
+#	composeApp/src/androidMain/res/values-tr/strings.xml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5439598</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/master'</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0a7bcf8</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/master'
+
+# Conflicts:
+#	composeApp/src/androidMain/res/values-af/strings.xml
+#	composeApp/src/androidMain/res/values-ar/strings.xml
+#	composeApp/src/androidMain/res/values-az/strings.xml
+#	composeApp/src/androidMain/res/values-ba/strings.xml
+#	composeApp/src/androidMain/res/values-bn/strings.xml
+#	composeApp/src/androidMain/res/values-ca/strings.xml
+#	composeApp/src/androidMain/res/values-cs/strings.xml
+#	composeApp/src/androidMain/res/values-da/strings.xml
+#	composeApp/src/androidMain/res/values-de/strings.xml
+#	composeApp/src/androidMain/res/values-en/strings.xml
+#	composeApp/src/androidMain/res/values-eo/strings.xml
+#	composeApp/src/androidMain/res/values-es/strings.xml
+#	composeApp/src/androidMain/res/values-et/strings.xml
+#	composeApp/src/androidMain/res/values-fi/strings.xml
+#	composeApp/src/androidMain/res/values-fil/strings.xml
+#	composeApp/src/androidMain/res/values-fr/strings.xml
+#	composeApp/src/androidMain/res/values-ga/strings.xml
+#	composeApp/src/androidMain/res/values-gl/strings.xml
+#	composeApp/src/androidMain/res/values-he/strings.xml
+#	composeApp/src/androidMain/res/values-hi/strings.xml
+#	composeApp/src/androidMain/res/values-hu/strings.xml
+#	composeApp/src/androidMain/res/values-ia/strings.xml
+#	composeApp/src/androidMain/res/values-in/strings.xml
+#	composeApp/src/androidMain/res/values-it/strings.xml
+#	composeApp/src/androidMain/res/values-ja/strings.xml
+#	composeApp/src/androidMain/res/values-ko/strings.xml
+#	composeApp/src/androidMain/res/values-ml/strings.xml
+#	composeApp/src/androidMain/res/values-nl/strings.xml
+#	composeApp/src/androidMain/res/values-no/strings.xml
+#	composeApp/src/androidMain/res/values-or/strings.xml
+#	composeApp/src/androidMain/res/values-pl/strings.xml
+#	composeApp/src/androidMain/res/values-pt-rBR/strings.xml
+#	composeApp/src/androidMain/res/values-pt/strings.xml
+#	composeApp/src/androidMain/res/values-ro/strings.xml
+#	composeApp/src/androidMain/res/values-ru/strings.xml
+#	composeApp/src/androidMain/res/values-si/strings.xml
+#	composeApp/src/androidMain/res/values-sr-rCS/strings.xml
+#	composeApp/src/androidMain/res/values-sr/strings.xml
+#	composeApp/src/androidMain/res/values-sv/strings.xml
+#	composeApp/src/androidMain/res/values-ta/strings.xml
+#	composeApp/src/androidMain/res/values-te/strings.xml
+#	composeApp/src/androidMain/res/values-tr/strings.xml
+#	composeApp/src/androidMain/res/values-uk/strings.xml
+#	composeApp/src/androidMain/res/values-zh-rCN/strings.xml
+#	composeApp/src/androidMain/res/values-zh-rTW/strings.xml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#313de51</div>
+                                        <div class="message">Add S0nter to contributors
+
+This commit adds S0nter to the list of contributors in the `contributors.json` file.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#085ca93</div>
+                                        <div class="message">Languages updated</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9dfa4ee</div>
+                                        <div class="message">Added new dev</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#217fbea</div>
+                                        <div class="message">Added new dev</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9f75a43</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/master'</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2083b38</div>
+                                        <div class="message">Fixed artists name in song</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f0dcc80</div>
+                                        <div class="message">Improved streaming</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#51cd8ac</div>
+                                        <div class="message">Revert "General improvements"
+
+This reverts commit 210c519eadacd436c8c8970903341f836546d1b5.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#210c519</div>
+                                        <div class="message">General improvements</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 297 commits in
                                         <span class="repo">knighthat/RiMusic</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">kbuild</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ae18351</div>
-                                        <div class="message">Bump hilt from 2.53.1 to 2.55
-
-Bumps `hilt` from 2.53.1 to 2.55.
-
-Updates `com.google.dagger:hilt-android` from 2.53.1 to 2.55
-- [Release notes](https://github.com/google/dagger/releases)
-- [Changelog](https://github.com/google/dagger/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/google/dagger/compare/dagger-2.53.1...dagger-2.55)
-
-Updates `com.google.dagger:hilt-android-compiler` from 2.53.1 to 2.55
-- [Release notes](https://github.com/google/dagger/releases)
-- [Changelog](https://github.com/google/dagger/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/google/dagger/compare/dagger-2.53.1...dagger-2.55)
-
-Updates `com.google.dagger.hilt.android` from 2.53.1 to 2.55
-- [Release notes](https://github.com/google/dagger/releases)
-- [Changelog](https://github.com/google/dagger/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/google/dagger/compare/dagger-2.53.1...dagger-2.55)
-
----
-updated-dependencies:
-- dependency-name: com.google.dagger:hilt-android
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-- dependency-name: com.google.dagger:hilt-android-compiler
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-- dependency-name: com.google.dagger.hilt.android
-  dependency-type: direct:production
-  update-type: version-update:semver-minor
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                        <div class="sha">#9144782</div>
+                                        <div class="message">New translations strings.xml (French)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#23b1baf</div>
+                                        <div class="message">New translations strings.xml (French)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b2c7795</div>
+                                        <div class="message">New translations strings.xml (Czech)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f29a45b</div>
+                                        <div class="message">New translations strings.xml (Azerbaijani)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f003150</div>
+                                        <div class="message">New translations strings.xml (Spanish)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6615d0f</div>
+                                        <div class="message">New translations strings.xml (Spanish)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fd60ac5</div>
+                                        <div class="message">New translations strings.xml (Turkish)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1bfe987</div>
+                                        <div class="message">New translations strings.xml (Portuguese, Brazilian)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1264e88</div>
+                                        <div class="message">New translations strings.xml (Galician)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#43cd3c8</div>
+                                        <div class="message">New translations strings.xml (Portuguese, Brazilian)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f128930</div>
+                                        <div class="message">New translations strings.xml (Polish)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8209f4e</div>
+                                        <div class="message">New translations strings.xml (Polish)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ca33858</div>
+                                        <div class="message">New translations strings.xml (Ukrainian)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#04d5a67</div>
+                                        <div class="message">New translations strings.xml (French)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5f81c59</div>
+                                        <div class="message">New translations strings.xml (Russian)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1c9e23c</div>
+                                        <div class="message">New translations strings.xml (German)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#786ecc9</div>
+                                        <div class="message">New translations strings.xml (German)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8ef351e</div>
+                                        <div class="message">New translations strings.xml (French)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d09cfaa</div>
+                                        <div class="message">New translations strings.xml (German)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#95e0040</div>
+                                        <div class="message">New translations strings.xml (Portuguese, Brazilian)</div>
                                     </div>
                                 </div>
                             </section>
@@ -2652,32 +2909,95 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">dependabot/gradle/org.jetbrains.kotlinx-kotlinx-coroutines-guava-1.10.1</span>
-                                        in
+                                        Pushed 294 commits in
                                         <span class="repo">knighthat/RiMusic</span>
                                     </div>
                                 </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#4045 "unknown error/media cannot be played" bug</span>
-                                    </div>
-                                </div>
                                 <div class="details">
-                                    <div>opened by KeknanXD in <span class="repo">fast4x/RiMusic</span></div>
-                                    <div class="comment">looks like YT is pushing out some changes, I'm gonna look into this now</div>
+                                    <div>on branch <span class="code">upstream</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9144782</div>
+                                        <div class="message">New translations strings.xml (French)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#23b1baf</div>
+                                        <div class="message">New translations strings.xml (French)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b2c7795</div>
+                                        <div class="message">New translations strings.xml (Czech)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f29a45b</div>
+                                        <div class="message">New translations strings.xml (Azerbaijani)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f003150</div>
+                                        <div class="message">New translations strings.xml (Spanish)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6615d0f</div>
+                                        <div class="message">New translations strings.xml (Spanish)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fd60ac5</div>
+                                        <div class="message">New translations strings.xml (Turkish)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1bfe987</div>
+                                        <div class="message">New translations strings.xml (Portuguese, Brazilian)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1264e88</div>
+                                        <div class="message">New translations strings.xml (Galician)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#43cd3c8</div>
+                                        <div class="message">New translations strings.xml (Portuguese, Brazilian)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f128930</div>
+                                        <div class="message">New translations strings.xml (Polish)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8209f4e</div>
+                                        <div class="message">New translations strings.xml (Polish)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ca33858</div>
+                                        <div class="message">New translations strings.xml (Ukrainian)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#04d5a67</div>
+                                        <div class="message">New translations strings.xml (French)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5f81c59</div>
+                                        <div class="message">New translations strings.xml (Russian)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1c9e23c</div>
+                                        <div class="message">New translations strings.xml (German)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#786ecc9</div>
+                                        <div class="message">New translations strings.xml (German)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8ef351e</div>
+                                        <div class="message">New translations strings.xml (French)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d09cfaa</div>
+                                        <div class="message">New translations strings.xml (German)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#95e0040</div>
+                                        <div class="message">New translations strings.xml (Portuguese, Brazilian)</div>
+                                    </div>
                                 </div>
                             </section>
                         </div>
