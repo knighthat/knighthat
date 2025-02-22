@@ -2,7 +2,7 @@
     <ns0:defs>
         <ns0:style />
     </ns0:defs>
-    <ns0:style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chart{padding:0 8px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .bold{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</ns0:style>
+    <ns0:style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chart{padding:0 8px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .bold,.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</ns0:style>
     <ns0:style />
     <ns0:foreignObject x="0" y="0" width="100%" height="100%">
         <html:div class="items-wrapper">
@@ -33,16 +33,16 @@
                                     <ns0:rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
                                     <ns0:rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
                                     <ns0:rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
-                                    <ns0:rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
-                                    <ns0:rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2" />
-                                    <ns0:rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2" />
-                                    <ns0:rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2" />
-                                    <ns0:rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
-                                    <ns0:rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2" />
-                                    <ns0:rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2" />
+                                    <ns0:rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2" />
+                                    <ns0:rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2" />
+                                    <ns0:rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2" />
+                                    <ns0:rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
+                                    <ns0:rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2" />
+                                    <ns0:rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2" />
+                                    <ns0:rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2" />
                                     <ns0:rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2" />
-                                    <ns0:rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
-                                    <ns0:rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
+                                    <ns0:rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2" />
+                                    <ns0:rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2" />
                                     <ns0:rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
                                 </ns0:g>
                             </ns0:svg>
@@ -102,7 +102,7 @@
                                     <ns0:svg viewBox="0 0 16 16" width="16" height="16">
                                         <ns0:path fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z" />
                                     </ns0:svg>
-                                    1.48 GB used
+                                    1.51 GB used
                                 </html:div>
                             </html:section>
                             <html:section>
@@ -160,6 +160,12 @@
                         </html:h3>
                         <html:div class="field">
                             <ns0:svg viewBox="0 0 16 16" width="16" height="16">
+                                <ns0:path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z" />
+                            </ns0:svg>
+                            Current streak 6 days
+                        </html:div>
+                        <html:div class="field">
+                            <ns0:svg viewBox="0 0 16 16" width="16" height="16">
                                 <ns0:path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z" />
                             </ns0:svg>
                             Best streak 20 days
@@ -180,7 +186,7 @@
                             <ns0:svg viewBox="0 0 16 16" width="16" height="16">
                                 <ns0:path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z" />
                             </ns0:svg>
-                            Average per day at ~4.02
+                            Average per day at ~4.04
                         </html:div>
                     </html:section>
                 </html:div>
@@ -2140,15 +2146,20 @@
                                 <ns0:path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4705882352941178 0,1.4705882352941178 z" />
                                 <ns0:path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4705882352941178 1.7,2.4705882352941178 z" />
                             </ns0:g>
-                            <ns0:g transform="translate(-5.1, 9)">
-                                <ns0:path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z" />
-                                <ns0:path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z" />
-                                <ns0:path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z" />
+                            <ns0:g transform="translate(-5.1, 8.411764705882353)">
+                                <ns0:path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z" />
+                                <ns0:path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.588235294117647 0,1.5882352941176472 z" />
+                                <ns0:path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5882352941176472 1.7,2.588235294117647 z" />
                             </ns0:g>
-                            <ns0:g transform="translate(-6.8, 10)">
-                                <ns0:path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z" />
-                                <ns0:path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z" />
-                                <ns0:path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z" />
+                            <ns0:g transform="translate(-6.8, 9.764705882352942)">
+                                <ns0:path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z" />
+                                <ns0:path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.235294117647059 0,1.2352941176470589 z" />
+                                <ns0:path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2352941176470589 1.7,2.235294117647059 z" />
+                            </ns0:g>
+                            <ns0:g transform="translate(-8.5, 10.882352941176471)">
+                                <ns0:path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z" />
+                                <ns0:path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1176470588235294 0,1.1176470588235294 z" />
+                                <ns0:path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1176470588235294 1.7,2.1176470588235294 z" />
                             </ns0:g>
                         </ns0:g>
                     </ns0:g>
@@ -2160,7 +2171,7 @@
                         <ns0:path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z" />
                     </ns0:svg>
                     Recent coding habits
-                    <html:small class="h-details">(computed from last 5 commits)</html:small>
+                    <html:small class="h-details">(computed from last 6 commits)</html:small>
                 </html:h2>
                 <html:div class="row">
                     <html:ul class="facts">
@@ -2276,27 +2287,23 @@
                             <ns0:g transform="translate(10,10)" fill="none" font-size="10" font-family="sans-serif" text-anchor="start">
                                 <ns0:g class="tick" opacity="1" transform="translate(0,10.5)">
                                     <ns0:line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2" />
-                                    <ns0:text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">2.0</ns0:text>
+                                    <ns0:text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">3</ns0:text>
                                 </ns0:g>
-                                <ns0:g class="tick" opacity="1" transform="translate(0,34.25)">
+                                <ns0:g class="tick" opacity="1" transform="translate(0,42.16666666666667)">
                                     <ns0:line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2" />
-                                    <ns0:text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">1.5</ns0:text>
+                                    <ns0:text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">2</ns0:text>
                                 </ns0:g>
-                                <ns0:g class="tick" opacity="1" transform="translate(0,58)">
+                                <ns0:g class="tick" opacity="1" transform="translate(0,73.83333333333334)">
                                     <ns0:line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2" />
-                                    <ns0:text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">1.0</ns0:text>
-                                </ns0:g>
-                                <ns0:g class="tick" opacity="1" transform="translate(0,81.75)">
-                                    <ns0:line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2" />
-                                    <ns0:text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0.5</ns0:text>
+                                    <ns0:text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">1</ns0:text>
                                 </ns0:g>
                                 <ns0:g class="tick" opacity="1" transform="translate(0,105.5)">
                                     <ns0:line stroke="currentColor" x2="460" stroke-opacity="0.5" stroke-dasharray="2,2" />
-                                    <ns0:text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0.0</ns0:text>
+                                    <ns0:text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</ns0:text>
                                 </ns0:g>
                             </ns0:g>
-                            <ns0:path transform="translate(10,10)" d="M10,10L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,57.5L303.478,10L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105" fill="transparent" stroke="#87ceeb" stroke-width="2" />
-                            <ns0:path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,105L440.435,105L420.87,105L401.304,105L381.739,105L362.174,105L342.609,105L323.043,105L303.478,10L283.913,57.5L264.348,105L244.783,105L225.217,105L205.652,105L186.087,105L166.522,105L146.957,105L127.391,105L107.826,105L88.261,105L68.696,105L49.13,105L29.565,105L10,10Z" fill="rgba(88, 166, 255, .1)" />
+                            <ns0:path transform="translate(10,10)" d="M10,10L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,73.333L303.478,41.667L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105" fill="transparent" stroke="#87ceeb" stroke-width="2" />
+                            <ns0:path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,105L440.435,105L420.87,105L401.304,105L381.739,105L362.174,105L342.609,105L323.043,105L303.478,41.667L283.913,73.333L264.348,105L244.783,105L225.217,105L205.652,105L186.087,105L166.522,105L146.957,105L127.391,105L107.826,105L88.261,105L68.696,105L49.13,105L29.565,105L10,10Z" fill="rgba(88, 166, 255, .1)" />
                             <ns0:g>
                                 <ns0:circle transform="translate(10,10)" cx="10" cy="10" r="2" fill="#106cbc" />
                                 <ns0:circle transform="translate(10,10)" cx="29.565217391304348" cy="105" r="2" fill="#106cbc" />
@@ -2312,8 +2319,8 @@
                                 <ns0:circle transform="translate(10,10)" cx="225.2173913043478" cy="105" r="2" fill="#106cbc" />
                                 <ns0:circle transform="translate(10,10)" cx="244.7826086956522" cy="105" r="2" fill="#106cbc" />
                                 <ns0:circle transform="translate(10,10)" cx="264.3478260869565" cy="105" r="2" fill="#106cbc" />
-                                <ns0:circle transform="translate(10,10)" cx="283.9130434782609" cy="57.5" r="2" fill="#106cbc" />
-                                <ns0:circle transform="translate(10,10)" cx="303.4782608695652" cy="10" r="2" fill="#106cbc" />
+                                <ns0:circle transform="translate(10,10)" cx="283.9130434782609" cy="73.33333333333334" r="2" fill="#106cbc" />
+                                <ns0:circle transform="translate(10,10)" cx="303.4782608695652" cy="41.66666666666667" r="2" fill="#106cbc" />
                                 <ns0:circle transform="translate(10,10)" cx="323.04347826086956" cy="105" r="2" fill="#106cbc" />
                                 <ns0:circle transform="translate(10,10)" cx="342.60869565217394" cy="105" r="2" fill="#106cbc" />
                                 <ns0:circle transform="translate(10,10)" cx="362.17391304347825" cy="105" r="2" fill="#106cbc" />
@@ -2324,7 +2331,7 @@
                                 <ns0:circle transform="translate(10,10)" cx="460" cy="105" r="2" fill="#106cbc" />
                             </ns0:g>
                             <ns0:g fill="currentColor" text-anchor="middle" font-family="sans-serif" font-size="10" stroke="rgba(88, 166, 255, .05)" stroke-linejoin="round" stroke-width="4" paint-order="stroke fill">
-                                <ns0:text transform="translate(10,6)" x="10" y="10" fill="rgba(127, 127, 127, .8)">2</ns0:text>
+                                <ns0:text transform="translate(10,6)" x="10" y="10" fill="rgba(127, 127, 127, .8)">3</ns0:text>
                                 <ns0:text transform="translate(10,6)" x="29.565217391304348" y="105" fill="rgba(127, 127, 127, .8)" />
                                 <ns0:text transform="translate(10,6)" x="49.130434782608695" y="105" fill="rgba(127, 127, 127, .8)" />
                                 <ns0:text transform="translate(10,6)" x="68.69565217391305" y="105" fill="rgba(127, 127, 127, .8)" />
@@ -2338,8 +2345,8 @@
                                 <ns0:text transform="translate(10,6)" x="225.2173913043478" y="105" fill="rgba(127, 127, 127, .8)" />
                                 <ns0:text transform="translate(10,6)" x="244.7826086956522" y="105" fill="rgba(127, 127, 127, .8)" />
                                 <ns0:text transform="translate(10,6)" x="264.3478260869565" y="105" fill="rgba(127, 127, 127, .8)" />
-                                <ns0:text transform="translate(10,6)" x="283.9130434782609" y="57.5" fill="rgba(127, 127, 127, .8)">1</ns0:text>
-                                <ns0:text transform="translate(10,6)" x="303.4782608695652" y="10" fill="rgba(127, 127, 127, .8)">2</ns0:text>
+                                <ns0:text transform="translate(10,6)" x="283.9130434782609" y="73.33333333333334" fill="rgba(127, 127, 127, .8)">1</ns0:text>
+                                <ns0:text transform="translate(10,6)" x="303.4782608695652" y="41.66666666666667" fill="rgba(127, 127, 127, .8)">2</ns0:text>
                                 <ns0:text transform="translate(10,6)" x="323.04347826086956" y="105" fill="rgba(127, 127, 127, .8)" />
                                 <ns0:text transform="translate(10,6)" x="342.60869565217394" y="105" fill="rgba(127, 127, 127, .8)" />
                                 <ns0:text transform="translate(10,6)" x="362.17391304347825" y="105" fill="rgba(127, 127, 127, .8)" />
@@ -2410,15 +2417,15 @@
                                         <ns0:text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0.0</ns0:text>
                                     </ns0:g>
                                 </ns0:g>
-                                <ns0:path transform="translate(10,10)" d="M10,105L41,57.5L72,10L103,105L134,10L165,105L196,105" fill="transparent" stroke="#87ceeb" stroke-width="2" />
-                                <ns0:path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,105L165,105L134,10L103,105L72,10L41,57.5L10,105Z" fill="rgba(88, 166, 255, .1)" />
+                                <ns0:path transform="translate(10,10)" d="M10,105L41,57.5L72,10L103,105L134,10L165,57.5L196,105" fill="transparent" stroke="#87ceeb" stroke-width="2" />
+                                <ns0:path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,105L165,57.5L134,10L103,105L72,10L41,57.5L10,105Z" fill="rgba(88, 166, 255, .1)" />
                                 <ns0:g>
                                     <ns0:circle transform="translate(10,10)" cx="10" cy="105" r="2" fill="#106cbc" />
                                     <ns0:circle transform="translate(10,10)" cx="41" cy="57.5" r="2" fill="#106cbc" />
                                     <ns0:circle transform="translate(10,10)" cx="72" cy="10" r="2" fill="#106cbc" />
                                     <ns0:circle transform="translate(10,10)" cx="103" cy="105" r="2" fill="#106cbc" />
                                     <ns0:circle transform="translate(10,10)" cx="134" cy="10" r="2" fill="#106cbc" />
-                                    <ns0:circle transform="translate(10,10)" cx="165" cy="105" r="2" fill="#106cbc" />
+                                    <ns0:circle transform="translate(10,10)" cx="165" cy="57.5" r="2" fill="#106cbc" />
                                     <ns0:circle transform="translate(10,10)" cx="196" cy="105" r="2" fill="#106cbc" />
                                 </ns0:g>
                                 <ns0:g fill="currentColor" text-anchor="middle" font-family="sans-serif" font-size="10" stroke="rgba(88, 166, 255, .05)" stroke-linejoin="round" stroke-width="4" paint-order="stroke fill">
@@ -2427,7 +2434,7 @@
                                     <ns0:text transform="translate(10,6)" x="72" y="10" fill="rgba(127, 127, 127, .8)">2</ns0:text>
                                     <ns0:text transform="translate(10,6)" x="103" y="105" fill="rgba(127, 127, 127, .8)" />
                                     <ns0:text transform="translate(10,6)" x="134" y="10" fill="rgba(127, 127, 127, .8)">2</ns0:text>
-                                    <ns0:text transform="translate(10,6)" x="165" y="105" fill="rgba(127, 127, 127, .8)" />
+                                    <ns0:text transform="translate(10,6)" x="165" y="57.5" fill="rgba(127, 127, 127, .8)">1</ns0:text>
                                     <ns0:text transform="translate(10,6)" x="196" y="105" fill="rgba(127, 127, 127, .8)" />
                                 </ns0:g>
                             </ns0:svg>
@@ -2440,13 +2447,13 @@
                                 <ns0:g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
                                     <ns0:path fill="#A97BFF" d="M0,-80A80,80,0,1,1,0,80A80,80,0,1,1,0,-80Z">
                                         <ns0:title>Kotlin
-67.61</ns0:title>
+46.81</ns0:title>
                                     </ns0:path>
                                 </ns0:g>
                                 <ns0:g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <ns0:text transform="translate(2.4492935982947065e-15,40)">
+                                    <ns0:text transform="translate(-1.53142747957078e-14,40)">
                                         <ns0:tspan x="0" y="0em" font-weight="bold">Kotlin</ns0:tspan>
-                                        <ns0:tspan x="0" y="1.1em">67.61</ns0:tspan>
+                                        <ns0:tspan x="0" y="1.1em">46.81</ns0:tspan>
                                     </ns0:text>
                                 </ns0:g>
                             </ns0:svg>
@@ -2468,14 +2475,14 @@
                         <ns0:rect x="0" y="0" width="460" height="8" fill="white" rx="5" />
                     </ns0:mask>
                     <ns0:rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da" />
-                    <ns0:rect mask="url(#languages-bar)" x="0" y="0" width="363.8516288277321" height="8" fill="#A97BFF" />
-                    <ns0:rect mask="url(#languages-bar)" x="363.8516288277321" y="0" width="76.51800971625184" height="8" fill="#b07219" />
-                    <ns0:rect mask="url(#languages-bar)" x="440.3696385439839" y="0" width="8.570977967489608" height="8" fill="#3572A5" />
-                    <ns0:rect mask="url(#languages-bar)" x="448.94061651147354" y="0" width="4.402944725316015" height="8" fill="#3178c6" />
-                    <ns0:rect mask="url(#languages-bar)" x="453.3435612367896" y="0" width="1.9079568698614942" height="8" fill="#c6538c" />
-                    <ns0:rect mask="url(#languages-bar)" x="455.251518106651" y="0" width="1.40890267653904" height="8" fill="#f1e05a" />
-                    <ns0:rect mask="url(#languages-bar)" x="456.6604207831901" y="0" width="1.2967198802809077" height="8" fill="#f34b7d" />
-                    <ns0:rect mask="url(#languages-bar)" x="457.95714066347097" y="0" width="2.0428593365290015" height="8" fill="#ededed" />
+                    <ns0:rect mask="url(#languages-bar)" x="0" y="0" width="365.4779690026361" height="8" fill="#A97BFF" />
+                    <ns0:rect mask="url(#languages-bar)" x="365.4779690026361" y="0" width="74.9795885874603" height="8" fill="#b07219" />
+                    <ns0:rect mask="url(#languages-bar)" x="440.45755759009637" y="0" width="8.398655482253922" height="8" fill="#3572A5" />
+                    <ns0:rect mask="url(#languages-bar)" x="448.85621307235033" y="0" width="4.314421994269487" height="8" fill="#3178c6" />
+                    <ns0:rect mask="url(#languages-bar)" x="453.1706350666198" y="0" width="1.8695967351389295" height="8" fill="#c6538c" />
+                    <ns0:rect mask="url(#languages-bar)" x="455.04023180175875" y="0" width="1.3805761994908756" height="8" fill="#f1e05a" />
+                    <ns0:rect mask="url(#languages-bar)" x="456.4208080012496" y="0" width="1.2706488772667703" height="8" fill="#f34b7d" />
+                    <ns0:rect mask="url(#languages-bar)" x="457.69145687851636" y="0" width="2.308543121483637" height="8" fill="#ededed" />
                 </ns0:svg>
                 <html:div class="row fill-width">
                     <html:section>
@@ -2487,8 +2494,8 @@
                                 Kotlin
                             </html:div>
                             <html:small>
-                                <html:div>5.14 MB</html:div>
-                                <html:div>79.1%</html:div>
+                                <html:div>5.27 MB</html:div>
+                                <html:div>79.45%</html:div>
                             </html:small>
                         </html:div>
                         <html:div class="field language details">
@@ -2500,7 +2507,7 @@
                             </html:div>
                             <html:small>
                                 <html:div>121 kB</html:div>
-                                <html:div>1.86%</html:div>
+                                <html:div>1.83%</html:div>
                             </html:small>
                         </html:div>
                         <html:div class="field language details">
@@ -2538,7 +2545,7 @@
                             </html:div>
                             <html:small>
                                 <html:div>1.08 MB</html:div>
-                                <html:div>16.63%</html:div>
+                                <html:div>16.3%</html:div>
                             </html:small>
                         </html:div>
                         <html:div class="field language details">
@@ -2550,7 +2557,7 @@
                             </html:div>
                             <html:small>
                                 <html:div>62.2 kB</html:div>
-                                <html:div>0.96%</html:div>
+                                <html:div>0.94%</html:div>
                             </html:small>
                         </html:div>
                         <html:div class="field language details">
@@ -2562,7 +2569,7 @@
                             </html:div>
                             <html:small>
                                 <html:div>19.9 kB</html:div>
-                                <html:div>0.31%</html:div>
+                                <html:div>0.3%</html:div>
                             </html:small>
                         </html:div>
                         <html:div class="field language details">
@@ -2573,8 +2580,8 @@
                                 Other
                             </html:div>
                             <html:small>
-                                <html:div>28.8 kB</html:div>
-                                <html:div>0.44%</html:div>
+                                <html:div>33.2 kB</html:div>
+                                <html:div>0.5%</html:div>
                             </html:small>
                         </html:div>
                     </html:section>
@@ -2590,6 +2597,149 @@
                 </html:h2>
                 <html:div class="row">
                     <html:section>
+                        <html:div class="row fill-width">
+                            <html:section class="activity">
+                                <html:div class="field">
+                                    <ns0:svg viewBox="0 0 16 16" width="16" height="16">
+                                        <ns0:path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z" />
+                                    </ns0:svg>
+                                    <html:div class="content">
+                                        Pushed 85 commits in
+                                        <html:span class="repo">knighthat/RiMusic</html:span>
+                                    </html:div>
+                                </html:div>
+                                <html:div class="details">
+                                    <html:div>on branch <html:span class="code">kbuild</html:span></html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#0788ab9</html:div>
+                                        <html:div class="message">Merge remote-tracking branch 'origin/Fixing-YT-related-things' into Fixing-YT-related-things</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#68e4bf1</html:div>
+                                        <html:div class="message">added indicator when the album list is opened</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#72fc5f9</html:div>
+                                        <html:div class="message">fixed crash when filtering out disliked songs</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#164f3bf</html:div>
+                                        <html:div class="message">New translations strings.xml (Ukrainian)</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#e7a0de9</html:div>
+                                        <html:div class="message">New translations strings.xml (Russian)</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#fb2e850</html:div>
+                                        <html:div class="message">added like button to the artist songs</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#c1f240d</html:div>
+                                        <html:div class="message">1) in items page, change the type to mediaItem and it fetches the list from online only once instead of multiple times
+
+2) added swipe, long click actions for artist overview page</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#38a6ef8</html:div>
+                                        <html:div class="message">adding buttons inside the artist songs list and fixing the playAtIndex</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#d1b7174</html:div>
+                                        <html:div class="message">Merge branch 'fast4x:master' into Fixing-YT-related-things</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#b2bf499</html:div>
+                                        <html:div class="message">1) added youtube indicators in the artist page for album, playlists and artists.
+
+2) hidden unlink icon when browseId is either null or blank</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#793163f</html:div>
+                                        <html:div class="message">Refactor: Use `runBlocking` for data fetching in album and artist screens
+
+- Replaced `withContext` with `runBlocking` for fetching album and artist data in `AlbumScreen` and `ArtistScreenModern`.
+- This change ensures that data fetching operations are executed synchronously within their respective coroutine scopes.</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#1e5d671</html:div>
+                                        <html:div class="message">Merge remote-tracking branch 'origin/master'
+
+# Conflicts:
+#	composeApp/src/androidMain/res/values-az/strings.xml
+#	composeApp/src/androidMain/res/values-ca/strings.xml
+#	composeApp/src/androidMain/res/values-es/strings.xml
+#	composeApp/src/androidMain/res/values-fi/strings.xml
+#	composeApp/src/androidMain/res/values-fr/strings.xml
+#	composeApp/src/androidMain/res/values-gl/strings.xml
+#	composeApp/src/androidMain/res/values-ru/strings.xml
+#	composeApp/src/androidMain/res/values-tr/strings.xml
+#	composeApp/src/androidMain/res/values-uk/strings.xml</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#d7d8597</html:div>
+                                        <html:div class="message">Updated languages</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#fbc2611</html:div>
+                                        <html:div class="message">Update web user-agent to Chrome 132 and iOS user-agent to version 20.03.02 with iOS version 18.2.1.</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#c1a825d</html:div>
+                                        <html:div class="message">Merge remote-tracking branch 'origin/master'</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#f5c07c6</html:div>
+                                        <html:div class="message">feat: add bass boost slider in PlaybackParamsDialog
+
+- Updated the `SliderControl` to support an `isEnabled` state.
+- Updated the `Slider` component to support the `isEnabled` state, making the slider disabled if false.
+- Updated styling of `SliderControl` to dim text if disabled.</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#a0f1dd3</html:div>
+                                        <html:div class="message">Update NewPipeExtractor and remove unused dependencies
+
+- Updated `NewPipeExtractor` to version `v0.24.5`.</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#215feac</html:div>
+                                        <html:div class="message">feat: add DataSyncId support for YouTube login
+
+- Adds support for `DataSyncId` in YouTube login.
+- Stores and retrieves `DataSyncId` in preferences.
+- Includes `DataSyncId` when saving user preferences.</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#a165941</html:div>
+                                        <html:div class="message">Refactor: Improve data source caching and login handling
+
+This commit introduces future several improvements to data source caching and login handling within the application:
+
+    -   Introduced
+-   **Login Handling:**
+    -   Modified the `setHeaders` method to manage headers and cookies more effectively.
+    -   Added logic to handle both logged-in and non-logged-in scenarios in `playerAdvanced` and `player` functions.
+    -   Refactored `player` to use `playerWithPotoken` for logged-in users and `noLogInPlayer` for non-logged-in users.
+    -   Added `X-Goog-Authuser` and `X-Goog-Visitor-Id` when logged in.
+-   **Other Changes:**
+    -   Removed unnecessary debug print in `DataSpecProcess.kt`
+    -   Added `X-Origin` header in `setHeaders`.
+    - Removed key from request, now is not required
+    - Moved clientType to its xClientName to handle different clients versions correctly
+    - Renamed `x-origin` to `X-Origin` to be correct
+    - Moved `X-Youtube-Bootstrap-Logged-In` in the right place
+    - Updated `Context` model with optional `User` object</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#7745cf5</html:div>
+                                        <html:div class="message">Refined Innertube logging for visitor data retrieval
+
+Updated logging messages within the `getVisitorData` function in Innertube to include the context "Innertube getVisitorData" for clearer identification of the source of log entries. This change enhances the readability and debuggability of the logging.</html:div>
+                                    </html:div>
+                                </html:div>
+                            </html:section>
+                        </html:div>
                         <html:div class="row fill-width">
                             <html:section class="activity">
                                 <html:div class="field">
@@ -2768,21 +2918,6 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</html:div>
                       tag
                                         <html:span class="code">weekly-kbuild</html:span>
                                         in
-                                        <html:span class="repo">knighthat/RiMusic</html:span>
-                                    </html:div>
-                                </html:div>
-                            </html:section>
-                        </html:div>
-                        <html:div class="row fill-width">
-                            <html:section class="activity">
-                                <html:div class="field">
-                                    <ns0:svg viewBox="0 0 16 16" width="16" height="16">
-                                        <ns0:path fill-rule="evenodd" d="M8.878.392a1.75 1.75 0 00-1.756 0l-5.25 3.045A1.75 1.75 0 001 4.951v6.098c0 .624.332 1.2.872 1.514l5.25 3.045a1.75 1.75 0 001.756 0l5.25-3.045c.54-.313.872-.89.872-1.514V4.951c0-.624-.332-1.2-.872-1.514L8.878.392zM7.875 1.69a.25.25 0 01.25 0l4.63 2.685L8 7.133 3.245 4.375l4.63-2.685zM2.5 5.677v5.372c0 .09.047.171.125.216l4.625 2.683V8.432L2.5 5.677zm6.25 8.271l4.625-2.683a.25.25 0 00.125-.216V5.677L8.75 8.432v5.516z" />
-                                    </ns0:svg>
-                                    <html:div class="content">
-                                        Released
-                                        <html:span class="bold">RiMusic Weekly Build | KBuild | 20250213</html:span>
-                                        of
                                         <html:span class="repo">knighthat/RiMusic</html:span>
                                     </html:div>
                                 </html:div>
