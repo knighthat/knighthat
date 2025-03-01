@@ -30,17 +30,17 @@
                         <html:div class="field calendar">
                             <ns0:svg viewBox="0 0 210 11" width="210" height="16">
                                 <ns0:g>
-                                    <ns0:rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
-                                    <ns0:rect class="day" x="15" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2" />
-                                    <ns0:rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2" />
-                                    <ns0:rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2" />
-                                    <ns0:rect class="day" x="60" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2" />
+                                    <ns0:rect class="day" x="0" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2" />
+                                    <ns0:rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2" />
+                                    <ns0:rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2" />
+                                    <ns0:rect class="day" x="45" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2" />
+                                    <ns0:rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2" />
                                     <ns0:rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2" />
-                                    <ns0:rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2" />
-                                    <ns0:rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2" />
+                                    <ns0:rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2" />
+                                    <ns0:rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2" />
                                     <ns0:rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2" />
                                     <ns0:rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2" />
-                                    <ns0:rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2" />
+                                    <ns0:rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
                                     <ns0:rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
                                     <ns0:rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
                                     <ns0:rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
@@ -76,7 +76,7 @@
                             <ns0:svg viewBox="0 0 16 16" width="16" height="16">
                                 <ns0:path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z" />
                             </ns0:svg>
-                            36 Repositories
+                            33 Repositories
                         </html:h2>
                         <html:div class="row">
                             <html:section>
@@ -128,13 +128,13 @@
                                     <ns0:svg viewBox="0 0 16 16" width="16" height="16">
                                         <ns0:path fill-rule="evenodd" d="M1.679 7.932c.412-.621 1.242-1.75 2.366-2.717C5.175 4.242 6.527 3.5 8 3.5c1.473 0 2.824.742 3.955 1.715 1.124.967 1.954 2.096 2.366 2.717a.119.119 0 010 .136c-.412.621-1.242 1.75-2.366 2.717C10.825 11.758 9.473 12.5 8 12.5c-1.473 0-2.824-.742-3.955-1.715C2.92 9.818 2.09 8.69 1.679 8.068a.119.119 0 010-.136zM8 2c-1.981 0-3.67.992-4.933 2.078C1.797 5.169.88 6.423.43 7.1a1.619 1.619 0 000 1.798c.45.678 1.367 1.932 2.637 3.024C4.329 13.008 6.019 14 8 14c1.981 0 3.67-.992 4.933-2.078 1.27-1.091 2.187-2.345 2.637-3.023a1.619 1.619 0 000-1.798c-.45-.678-1.367-1.932-2.637-3.023C11.671 2.992 9.981 2 8 2zm0 8a2 2 0 100-4 2 2 0 000 4z" />
                                     </ns0:svg>
-                                    24 Watchers
+                                    23 Watchers
                                 </html:div>
                                 <html:div class="field ">
                                     <ns0:svg viewBox="0 0 16 16" width="16" height="16">
                                         <ns0:path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z" />
                                     </ns0:svg>
-                                    151 views in last two weeks
+                                    176 views in last two weeks
                                 </html:div>
                             </html:section>
                         </html:div>
@@ -180,7 +180,7 @@
                             <ns0:svg viewBox="0 0 16 16" width="16" height="16">
                                 <ns0:path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z" />
                             </ns0:svg>
-                            Average per day at ~2.99
+                            Average per day at ~2.98
                         </html:div>
                     </html:section>
                 </html:div>
@@ -2150,6 +2150,11 @@
                                 <ns0:path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z" />
                                 <ns0:path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z" />
                             </ns0:g>
+                            <ns0:g transform="translate(-8.5, 11)">
+                                <ns0:path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z" />
+                                <ns0:path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z" />
+                                <ns0:path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z" />
+                            </ns0:g>
                         </ns0:g>
                     </ns0:g>
                 </ns0:svg>
@@ -2460,14 +2465,14 @@
                         <ns0:rect x="0" y="0" width="460" height="8" fill="white" rx="5" />
                     </ns0:mask>
                     <ns0:rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da" />
-                    <ns0:rect mask="url(#languages-bar)" x="0" y="0" width="364.8540499867129" height="8" fill="#A97BFF" />
-                    <ns0:rect mask="url(#languages-bar)" x="364.8540499867129" y="0" width="75.47451226432376" height="8" fill="#b07219" />
-                    <ns0:rect mask="url(#languages-bar)" x="440.3285622510366" y="0" width="8.454093149094918" height="8" fill="#3572A5" />
-                    <ns0:rect mask="url(#languages-bar)" x="448.78265540013155" y="0" width="4.342900539393185" height="8" fill="#3178c6" />
-                    <ns0:rect mask="url(#languages-bar)" x="453.1255559395247" y="0" width="1.8819375295849752" height="8" fill="#c6538c" />
-                    <ns0:rect mask="url(#languages-bar)" x="455.0074934691097" y="0" width="1.3896890775649555" height="8" fill="#f1e05a" />
-                    <ns0:rect mask="url(#languages-bar)" x="456.3971825466746" y="0" width="1.279036149405584" height="8" fill="#f34b7d" />
-                    <ns0:rect mask="url(#languages-bar)" x="457.67621869608024" y="0" width="2.323781303919779" height="8" fill="#ededed" />
+                    <ns0:rect mask="url(#languages-bar)" x="0" y="0" width="370.7950924022804" height="8" fill="#A97BFF" />
+                    <ns0:rect mask="url(#languages-bar)" x="370.7950924022804" y="0" width="69.21315314665016" height="8" fill="#b07219" />
+                    <ns0:rect mask="url(#languages-bar)" x="440.0082455489305" y="0" width="8.591754019203831" height="8" fill="#3572A5" />
+                    <ns0:rect mask="url(#languages-bar)" x="448.59999956813436" y="0" width="4.413617463906058" height="8" fill="#3178c6" />
+                    <ns0:rect mask="url(#languages-bar)" x="453.01361703204043" y="0" width="1.9125817575635866" height="8" fill="#c6538c" />
+                    <ns0:rect mask="url(#languages-bar)" x="454.92619878960403" y="0" width="1.4123178568112462" height="8" fill="#f1e05a" />
+                    <ns0:rect mask="url(#languages-bar)" x="456.33851664641526" y="0" width="1.2998631294403116" height="8" fill="#f34b7d" />
+                    <ns0:rect mask="url(#languages-bar)" x="457.6383797758556" y="0" width="2.3616202241444357" height="8" fill="#ededed" />
                 </ns0:svg>
                 <html:div class="row fill-width">
                     <html:section>
@@ -2480,7 +2485,7 @@
                             </html:div>
                             <html:small>
                                 <html:div>5.23 MB</html:div>
-                                <html:div>79.32%</html:div>
+                                <html:div>80.61%</html:div>
                             </html:small>
                         </html:div>
                         <html:div class="field language details">
@@ -2492,7 +2497,7 @@
                             </html:div>
                             <html:small>
                                 <html:div>121 kB</html:div>
-                                <html:div>1.84%</html:div>
+                                <html:div>1.87%</html:div>
                             </html:small>
                         </html:div>
                         <html:div class="field language details">
@@ -2504,7 +2509,7 @@
                             </html:div>
                             <html:small>
                                 <html:div>26.9 kB</html:div>
-                                <html:div>0.41%</html:div>
+                                <html:div>0.42%</html:div>
                             </html:small>
                         </html:div>
                         <html:div class="field language details">
@@ -2529,8 +2534,8 @@
                                 Java
                             </html:div>
                             <html:small>
-                                <html:div>1.08 MB</html:div>
-                                <html:div>16.41%</html:div>
+                                <html:div>975 kB</html:div>
+                                <html:div>15.05%</html:div>
                             </html:small>
                         </html:div>
                         <html:div class="field language details">
@@ -2542,7 +2547,7 @@
                             </html:div>
                             <html:small>
                                 <html:div>62.2 kB</html:div>
-                                <html:div>0.94%</html:div>
+                                <html:div>0.96%</html:div>
                             </html:small>
                         </html:div>
                         <html:div class="field language details">
@@ -2554,7 +2559,7 @@
                             </html:div>
                             <html:small>
                                 <html:div>19.9 kB</html:div>
-                                <html:div>0.3%</html:div>
+                                <html:div>0.31%</html:div>
                             </html:small>
                         </html:div>
                         <html:div class="field language details">
