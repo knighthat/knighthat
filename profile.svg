@@ -40,8 +40,8 @@
                                     <ns0:rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2" />
                                     <ns0:rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2" />
                                     <ns0:rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2" />
-                                    <ns0:rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2" />
-                                    <ns0:rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2" />
+                                    <ns0:rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2" />
+                                    <ns0:rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2" />
                                     <ns0:rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2" />
                                     <ns0:rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
                                 </ns0:g>
@@ -116,7 +116,7 @@
                                     <ns0:svg viewBox="0 0 16 16" width="16" height="16">
                                         <ns0:path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z" />
                                     </ns0:svg>
-                                    467 Stargazers
+                                    469 Stargazers
                                 </html:div>
                                 <html:div class="field">
                                     <ns0:svg viewBox="0 0 16 16" width="16" height="16">
@@ -134,7 +134,7 @@
                                     <ns0:svg viewBox="0 0 16 16" width="16" height="16">
                                         <ns0:path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z" />
                                     </ns0:svg>
-                                    11.2k views in last two weeks
+                                    11.4k views in last two weeks
                                 </html:div>
                             </html:section>
                         </html:div>
@@ -162,7 +162,7 @@
                             <ns0:svg viewBox="0 0 16 16" width="16" height="16">
                                 <ns0:path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z" />
                             </ns0:svg>
-                            Current streak 20 days
+                            Current streak 21 days
                         </html:div>
                         <html:div class="field">
                             <ns0:svg viewBox="0 0 16 16" width="16" height="16">
@@ -2132,9 +2132,14 @@
                         </ns0:g>
                         <ns0:g transform="translate(88.39999999999999, 52)">
                             <ns0:g transform="translate(0, 5.914285714285715)">
+                                <ns0:path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z" />
+                                <ns0:path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.085714285714286 0,1.0857142857142856 z" />
+                                <ns0:path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0857142857142856 1.7,2.085714285714286 z" />
+                            </ns0:g>
+                            <ns0:g transform="translate(-1.7, 6.828571428571428)">
                                 <ns0:path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z" />
-                                <ns0:path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.085714285714286 0,1.0857142857142856 z" />
-                                <ns0:path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0857142857142856 1.7,2.085714285714286 z" />
+                                <ns0:path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1714285714285713 0,1.1714285714285715 z" />
+                                <ns0:path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1714285714285715 1.7,2.1714285714285713 z" />
                             </ns0:g>
                         </ns0:g>
                     </ns0:g>
@@ -2146,7 +2151,7 @@
                         <ns0:path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z" />
                     </ns0:svg>
                     Recent coding habits
-                    <html:small class="h-details">(computed from last 85 commits)</html:small>
+                    <html:small class="h-details">(computed from last 83 commits)</html:small>
                 </html:h2>
                 <html:div class="row">
                     <html:ul class="facts">
@@ -2273,8 +2278,8 @@
                                     <ns0:text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</ns0:text>
                                 </ns0:g>
                             </ns0:g>
-                            <ns0:path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,103.39L323.043,10L342.609,105L362.174,101.78L381.739,105L401.304,76.017L420.87,96.949L440.435,105L460,105" fill="transparent" stroke="#87ceeb" stroke-width="2" />
-                            <ns0:path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,105L440.435,105L420.87,96.949L401.304,76.017L381.739,105L362.174,101.78L342.609,105L323.043,10L303.478,103.39L283.913,105L264.348,105L244.783,105L225.217,105L205.652,105L186.087,105L166.522,105L146.957,105L127.391,105L107.826,105L88.261,105L68.696,105L49.13,105L29.565,105L10,105Z" fill="rgba(88, 166, 255, .1)" />
+                            <ns0:path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,103.39L323.043,10L342.609,105L362.174,101.78L381.739,105L401.304,74.407L420.87,101.78L440.435,105L460,105" fill="transparent" stroke="#87ceeb" stroke-width="2" />
+                            <ns0:path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,105L440.435,105L420.87,101.78L401.304,74.407L381.739,105L362.174,101.78L342.609,105L323.043,10L303.478,103.39L283.913,105L264.348,105L244.783,105L225.217,105L205.652,105L186.087,105L166.522,105L146.957,105L127.391,105L107.826,105L88.261,105L68.696,105L49.13,105L29.565,105L10,105Z" fill="rgba(88, 166, 255, .1)" />
                             <ns0:g>
                                 <ns0:circle transform="translate(10,10)" cx="10" cy="105" r="2" fill="#106cbc" />
                                 <ns0:circle transform="translate(10,10)" cx="29.565217391304348" cy="105" r="2" fill="#106cbc" />
@@ -2296,8 +2301,8 @@
                                 <ns0:circle transform="translate(10,10)" cx="342.60869565217394" cy="105" r="2" fill="#106cbc" />
                                 <ns0:circle transform="translate(10,10)" cx="362.17391304347825" cy="101.77966101694915" r="2" fill="#106cbc" />
                                 <ns0:circle transform="translate(10,10)" cx="381.7391304347826" cy="105" r="2" fill="#106cbc" />
-                                <ns0:circle transform="translate(10,10)" cx="401.30434782608694" cy="76.01694915254237" r="2" fill="#106cbc" />
-                                <ns0:circle transform="translate(10,10)" cx="420.8695652173913" cy="96.94915254237289" r="2" fill="#106cbc" />
+                                <ns0:circle transform="translate(10,10)" cx="401.30434782608694" cy="74.40677966101696" r="2" fill="#106cbc" />
+                                <ns0:circle transform="translate(10,10)" cx="420.8695652173913" cy="101.77966101694915" r="2" fill="#106cbc" />
                                 <ns0:circle transform="translate(10,10)" cx="440.4347826086956" cy="105" r="2" fill="#106cbc" />
                                 <ns0:circle transform="translate(10,10)" cx="460" cy="105" r="2" fill="#106cbc" />
                             </ns0:g>
@@ -2322,8 +2327,8 @@
                                 <ns0:text transform="translate(10,6)" x="342.60869565217394" y="105" fill="rgba(127, 127, 127, .8)" />
                                 <ns0:text transform="translate(10,6)" x="362.17391304347825" y="101.77966101694915" fill="rgba(127, 127, 127, .8)">2</ns0:text>
                                 <ns0:text transform="translate(10,6)" x="381.7391304347826" y="105" fill="rgba(127, 127, 127, .8)" />
-                                <ns0:text transform="translate(10,6)" x="401.30434782608694" y="76.01694915254237" fill="rgba(127, 127, 127, .8)">18</ns0:text>
-                                <ns0:text transform="translate(10,6)" x="420.8695652173913" y="96.94915254237289" fill="rgba(127, 127, 127, .8)">5</ns0:text>
+                                <ns0:text transform="translate(10,6)" x="401.30434782608694" y="74.40677966101696" fill="rgba(127, 127, 127, .8)">19</ns0:text>
+                                <ns0:text transform="translate(10,6)" x="420.8695652173913" y="101.77966101694915" fill="rgba(127, 127, 127, .8)">2</ns0:text>
                                 <ns0:text transform="translate(10,6)" x="440.4347826086956" y="105" fill="rgba(127, 127, 127, .8)" />
                                 <ns0:text transform="translate(10,6)" x="460" y="105" fill="rgba(127, 127, 127, .8)" />
                             </ns0:g>
@@ -2380,10 +2385,10 @@
                                         <ns0:text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</ns0:text>
                                     </ns0:g>
                                 </ns0:g>
-                                <ns0:path transform="translate(10,10)" d="M10,77.627L41,101.78L72,105L103,101.78L134,100.169L165,101.78L196,10" fill="transparent" stroke="#87ceeb" stroke-width="2" />
-                                <ns0:path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,10L165,101.78L134,100.169L103,101.78L72,105L41,101.78L10,77.627Z" fill="rgba(88, 166, 255, .1)" />
+                                <ns0:path transform="translate(10,10)" d="M10,80.847L41,101.78L72,105L103,101.78L134,100.169L165,101.78L196,10" fill="transparent" stroke="#87ceeb" stroke-width="2" />
+                                <ns0:path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,10L165,101.78L134,100.169L103,101.78L72,105L41,101.78L10,80.847Z" fill="rgba(88, 166, 255, .1)" />
                                 <ns0:g>
-                                    <ns0:circle transform="translate(10,10)" cx="10" cy="77.62711864406779" r="2" fill="#106cbc" />
+                                    <ns0:circle transform="translate(10,10)" cx="10" cy="80.84745762711864" r="2" fill="#106cbc" />
                                     <ns0:circle transform="translate(10,10)" cx="41" cy="101.77966101694915" r="2" fill="#106cbc" />
                                     <ns0:circle transform="translate(10,10)" cx="72" cy="105" r="2" fill="#106cbc" />
                                     <ns0:circle transform="translate(10,10)" cx="103" cy="101.77966101694915" r="2" fill="#106cbc" />
@@ -2392,7 +2397,7 @@
                                     <ns0:circle transform="translate(10,10)" cx="196" cy="10" r="2" fill="#106cbc" />
                                 </ns0:g>
                                 <ns0:g fill="currentColor" text-anchor="middle" font-family="sans-serif" font-size="10" stroke="rgba(88, 166, 255, .05)" stroke-linejoin="round" stroke-width="4" paint-order="stroke fill">
-                                    <ns0:text transform="translate(10,6)" x="10" y="77.62711864406779" fill="rgba(127, 127, 127, .8)">17</ns0:text>
+                                    <ns0:text transform="translate(10,6)" x="10" y="80.84745762711864" fill="rgba(127, 127, 127, .8)">15</ns0:text>
                                     <ns0:text transform="translate(10,6)" x="41" y="101.77966101694915" fill="rgba(127, 127, 127, .8)">2</ns0:text>
                                     <ns0:text transform="translate(10,6)" x="72" y="105" fill="rgba(127, 127, 127, .8)" />
                                     <ns0:text transform="translate(10,6)" x="103" y="101.77966101694915" fill="rgba(127, 127, 127, .8)">2</ns0:text>
@@ -2414,7 +2419,7 @@
                                     </ns0:path>
                                     <ns0:path fill="#A97BFF" d="M1.5,-79.986A80,80,0,1,1,-0.5,-79.998L0,0Z">
                                         <ns0:title>Kotlin
-54.23</ns0:title>
+54.24</ns0:title>
                                     </ns0:path>
                                 </ns0:g>
                                 <ns0:g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
@@ -2423,7 +2428,7 @@
                                     </ns0:text>
                                     <ns0:text transform="translate(-0.24999837239901335,39.99921875254313)">
                                         <ns0:tspan x="0" y="0em" font-weight="bold">Kotlin</ns0:tspan>
-                                        <ns0:tspan x="0" y="1.1em">54.23</ns0:tspan>
+                                        <ns0:tspan x="0" y="1.1em">54.24</ns0:tspan>
                                     </ns0:text>
                                 </ns0:g>
                             </ns0:svg>
@@ -2571,16 +2576,33 @@
                             <html:section class="activity">
                                 <html:div class="field">
                                     <ns0:svg viewBox="0 0 16 16" width="16" height="16">
-                                        <ns0:path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z" />
-                                        <ns0:path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z" />
+                                        <ns0:path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z" />
                                     </ns0:svg>
                                     <html:div class="content">
-                                        Closed
-                                        <html:span class="issue">#392 Configuraci&#243;n</html:span>
+                                        Commented on
+                                        <html:span class="issue">#390 Advanced notification type causes crash when playing songs</html:span>
                                     </html:div>
                                 </html:div>
                                 <html:div class="details">
-                                    <html:div>opened by Miguel86098 in <html:span class="repo">knighthat/Kreate</html:span></html:div>
+                                    <html:div>opened by ShadowFungi in <html:span class="repo">knighthat/Kreate</html:span></html:div>
+                                    <html:div class="comment">good idea, thanks for letting me know. I'll def add this as a troubleshooting step in the future</html:div>
+                                </html:div>
+                            </html:section>
+                        </html:div>
+                        <html:div class="row fill-width">
+                            <html:section class="activity">
+                                <html:div class="field">
+                                    <ns0:svg viewBox="0 0 16 16" width="16" height="16">
+                                        <ns0:path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z" />
+                                    </ns0:svg>
+                                    <html:div class="content">
+                                        Commented on
+                                        <html:span class="issue">#408 Cannot add playlist from YT with over 100 songs</html:span>
+                                    </html:div>
+                                </html:div>
+                                <html:div class="details">
+                                    <html:div>opened by Anduril97 in <html:span class="repo">knighthat/Kreate</html:span></html:div>
+                                    <html:div class="comment">if you want to get all 200 songs, you need to scroll to bottom of playlist to get the rest. Import playlist with over 100 songs is broken, but it'll fixed in the near future</html:div>
                                 </html:div>
                             </html:section>
                         </html:div>
@@ -2597,24 +2619,13 @@
                                 </html:div>
                                 <html:div class="details">
                                     <html:div>opened by ShadowFungi in <html:span class="repo">knighthat/Kreate</html:span></html:div>
-                                    <html:div class="comment">is it just happened after you update to v1.4.2 or before that?</html:div>
-                                </html:div>
-                            </html:section>
-                        </html:div>
-                        <html:div class="row fill-width">
-                            <html:section class="activity">
-                                <html:div class="field">
-                                    <ns0:svg viewBox="0 0 16 16" width="16" height="16">
-                                        <ns0:path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z" />
-                                    </ns0:svg>
-                                    <html:div class="content">
-                                        Commented on
-                                        <html:span class="issue">#392 Configuraci&#243;n</html:span>
+                                    <html:div class="comment">
+                                        Please continue updating your version in the future, you can switch between
+                                        <html:code>minified</html:code>
+                                        and
+                                        <html:code>full</html:code>
+                                        seamlessly (without losing data). At any point, if the problem fixes itself, please let me know (if you can). Thanks for using Kreate
                                     </html:div>
-                                </html:div>
-                                <html:div class="details">
-                                    <html:div>opened by Miguel86098 in <html:span class="repo">knighthat/Kreate</html:span></html:div>
-                                    <html:div class="comment">There's an option in Player Appearance (or equivalent in your chosen language) called text outline, you can enable it to improve readability</html:div>
                                 </html:div>
                             </html:section>
                         </html:div>
@@ -2627,11 +2638,11 @@
                                     </ns0:svg>
                                     <html:div class="content">
                                         Closed
-                                        <html:span class="issue">#400 Name captures the problem</html:span>
+                                        <html:span class="issue">#390 Advanced notification type causes crash when playing songs</html:span>
                                     </html:div>
                                 </html:div>
                                 <html:div class="details">
-                                    <html:div>opened by aliveshadow in <html:span class="repo">knighthat/Kreate</html:span></html:div>
+                                    <html:div>opened by ShadowFungi in <html:span class="repo">knighthat/Kreate</html:span></html:div>
                                 </html:div>
                             </html:section>
                         </html:div>
@@ -2643,13 +2654,19 @@
                                     </ns0:svg>
                                     <html:div class="content">
                                         Commented on
-                                        <html:span class="issue">#401 [Feature]:Mejorar las b&#250;squedas de subtitulo de canciones</html:span>
+                                        <html:span class="issue">#390 Advanced notification type causes crash when playing songs</html:span>
                                     </html:div>
                                 </html:div>
                                 <html:div class="details">
-                                    <html:div>opened by Miguel86098 in <html:span class="repo">knighthat/Kreate</html:span></html:div>
-                                    <html:div class="comment">Thank you!
-Looks like the translation isn't far off. And my answer still stand, I'll continue to add more sources for lyrics (if I can find the time to)</html:div>
+                                    <html:div>opened by ShadowFungi in <html:span class="repo">knighthat/Kreate</html:span></html:div>
+                                    <html:div class="comment">
+                                        please use full version for now (this is one of the the reasons why I release full version along with minified). 
+In case you're wondering what's the difference between
+                                        <html:code>full</html:code>
+                                        and
+                                        <html:code>minified</html:code>
+                                        . Here's the explanation (TL;DR no differences, except in size)
+                                    </html:div>
                                 </html:div>
                             </html:section>
                         </html:div>
