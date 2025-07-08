@@ -23,26 +23,26 @@
                             <ns0:svg viewBox="0 0 16 16" width="16" height="16">
                                 <ns0:path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z" />
                             </ns0:svg>
-                            Followed by 55 users
+                            Followed by 56 users
                         </html:div>
                     </html:section>
                     <html:section>
                         <html:div class="field calendar">
                             <ns0:svg viewBox="0 0 210 11" width="210" height="16">
                                 <ns0:g>
-                                    <ns0:rect class="day" x="0" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2" />
+                                    <ns0:rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2" />
                                     <ns0:rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2" />
-                                    <ns0:rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2" />
-                                    <ns0:rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2" />
-                                    <ns0:rect class="day" x="60" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2" />
-                                    <ns0:rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2" />
+                                    <ns0:rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2" />
+                                    <ns0:rect class="day" x="45" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2" />
+                                    <ns0:rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2" />
+                                    <ns0:rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2" />
                                     <ns0:rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2" />
-                                    <ns0:rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2" />
-                                    <ns0:rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2" />
-                                    <ns0:rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
-                                    <ns0:rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
-                                    <ns0:rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2" />
-                                    <ns0:rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
+                                    <ns0:rect class="day" x="105" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2" />
+                                    <ns0:rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
+                                    <ns0:rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2" />
+                                    <ns0:rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2" />
+                                    <ns0:rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2" />
+                                    <ns0:rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2" />
                                     <ns0:rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2" />
                                 </ns0:g>
                             </ns0:svg>
@@ -102,7 +102,7 @@
                                     <ns0:svg viewBox="0 0 16 16" width="16" height="16">
                                         <ns0:path fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z" />
                                     </ns0:svg>
-                                    683 MB used
+                                    684 MB used
                                 </html:div>
                             </html:section>
                             <html:section>
@@ -116,7 +116,7 @@
                                     <ns0:svg viewBox="0 0 16 16" width="16" height="16">
                                         <ns0:path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z" />
                                     </ns0:svg>
-                                    528 Stargazers
+                                    534 Stargazers
                                 </html:div>
                                 <html:div class="field">
                                     <ns0:svg viewBox="0 0 16 16" width="16" height="16">
@@ -134,7 +134,7 @@
                                     <ns0:svg viewBox="0 0 16 16" width="16" height="16">
                                         <ns0:path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z" />
                                     </ns0:svg>
-                                    12.5k views in last two weeks
+                                    12.8k views in last two weeks
                                 </html:div>
                             </html:section>
                         </html:div>
@@ -160,6 +160,12 @@
                         </html:h3>
                         <html:div class="field">
                             <ns0:svg viewBox="0 0 16 16" width="16" height="16">
+                                <ns0:path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z" />
+                            </ns0:svg>
+                            Current streak 4 days
+                        </html:div>
+                        <html:div class="field">
+                            <ns0:svg viewBox="0 0 16 16" width="16" height="16">
                                 <ns0:path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z" />
                             </ns0:svg>
                             Best streak 52 days
@@ -180,7 +186,7 @@
                             <ns0:svg viewBox="0 0 16 16" width="16" height="16">
                                 <ns0:path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z" />
                             </ns0:svg>
-                            Average per day at ~4.63
+                            Average per day at ~4.70
                         </html:div>
                     </html:section>
                 </html:div>
@@ -2103,32 +2109,37 @@
                                 <ns0:path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.75 0,1.75 z" />
                                 <ns0:path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.75 1.7,2.75 z" />
                             </ns0:g>
-                            <ns0:g transform="translate(-5.1, 8.75)">
-                                <ns0:path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z" />
-                                <ns0:path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.25 0,1.25 z" />
-                                <ns0:path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.25 1.7,2.25 z" />
+                            <ns0:g transform="translate(-5.1, 8.166666666666668)">
+                                <ns0:path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z" />
+                                <ns0:path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.8333333333333335 0,1.8333333333333335 z" />
+                                <ns0:path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8333333333333335 1.7,2.8333333333333335 z" />
                             </ns0:g>
                             <ns0:g transform="translate(-6.8, 10)">
                                 <ns0:path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z" />
                                 <ns0:path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z" />
                                 <ns0:path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z" />
                             </ns0:g>
-                            <ns0:g transform="translate(-8.5, 11)">
-                                <ns0:path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z" />
-                                <ns0:path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z" />
-                                <ns0:path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z" />
+                            <ns0:g transform="translate(-8.5, 10.416666666666668)">
+                                <ns0:path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z" />
+                                <ns0:path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.5833333333333335 0,1.5833333333333335 z" />
+                                <ns0:path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5833333333333335 1.7,2.5833333333333335 z" />
                             </ns0:g>
-                            <ns0:g transform="translate(-10.2, 11.916666666666668)">
-                                <ns0:path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z" />
-                                <ns0:path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.0833333333333335 0,1.0833333333333333 z" />
-                                <ns0:path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.0833333333333333 1.7,2.0833333333333335 z" />
+                            <ns0:g transform="translate(-10.2, 11.25)">
+                                <ns0:path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z" />
+                                <ns0:path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.75 0,1.75 z" />
+                                <ns0:path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.75 1.7,2.75 z" />
                             </ns0:g>
                         </ns0:g>
                         <ns0:g transform="translate(88.39999999999999, 52)">
-                            <ns0:g transform="translate(0, 6)">
-                                <ns0:path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z" />
-                                <ns0:path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z" />
-                                <ns0:path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z" />
+                            <ns0:g transform="translate(0, 5.416666666666667)">
+                                <ns0:path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z" />
+                                <ns0:path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.5833333333333335 0,1.5833333333333335 z" />
+                                <ns0:path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5833333333333335 1.7,2.5833333333333335 z" />
+                            </ns0:g>
+                            <ns0:g transform="translate(-1.7, 6.833333333333333)">
+                                <ns0:path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z" />
+                                <ns0:path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1666666666666665 0,1.1666666666666667 z" />
+                                <ns0:path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1666666666666667 1.7,2.1666666666666665 z" />
                             </ns0:g>
                         </ns0:g>
                     </ns0:g>
@@ -2145,7 +2156,7 @@
                 <html:div class="row">
                     <html:ul class="facts">
                         <html:li>Uses spaces for indentation</html:li>
-                        <html:li>Has approximately 70.9 characters per line of code written</html:li>
+                        <html:li>Has approximately 67.4 characters per line of code written</html:li>
                         <html:li>Mostly pushes code around 16:00</html:li>
                         <html:li>Mostly active on Sunday</html:li>
                     </html:ul>
@@ -2275,10 +2286,10 @@
                                     <ns0:text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</ns0:text>
                                 </ns0:g>
                             </ns0:g>
-                            <ns0:path transform="translate(10,10)" d="M10,103.944L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,94.444L323.043,10L342.609,105L362.174,103.944L381.739,96.556L401.304,33.222L420.87,102.889L440.435,103.944L460,105" fill="transparent" stroke="#87ceeb" stroke-width="2" />
-                            <ns0:path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,105L440.435,103.944L420.87,102.889L401.304,33.222L381.739,96.556L362.174,103.944L342.609,105L323.043,10L303.478,94.444L283.913,105L264.348,105L244.783,105L225.217,105L205.652,105L186.087,105L166.522,105L146.957,105L127.391,105L107.826,105L88.261,105L68.696,105L49.13,105L29.565,105L10,103.944Z" fill="rgba(88, 166, 255, .1)" />
+                            <ns0:path transform="translate(10,10)" d="M10,102.889L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,97.611L323.043,10L342.609,105L362.174,103.944L381.739,96.556L401.304,33.222L420.87,102.889L440.435,101.833L460,105" fill="transparent" stroke="#87ceeb" stroke-width="2" />
+                            <ns0:path transform="translate(10,10)" d="M10,105L29.565,105L49.13,105L68.696,105L88.261,105L107.826,105L127.391,105L146.957,105L166.522,105L186.087,105L205.652,105L225.217,105L244.783,105L264.348,105L283.913,105L303.478,105L323.043,105L342.609,105L362.174,105L381.739,105L401.304,105L420.87,105L440.435,105L460,105L460,105L440.435,101.833L420.87,102.889L401.304,33.222L381.739,96.556L362.174,103.944L342.609,105L323.043,10L303.478,97.611L283.913,105L264.348,105L244.783,105L225.217,105L205.652,105L186.087,105L166.522,105L146.957,105L127.391,105L107.826,105L88.261,105L68.696,105L49.13,105L29.565,105L10,102.889Z" fill="rgba(88, 166, 255, .1)" />
                             <ns0:g>
-                                <ns0:circle transform="translate(10,10)" cx="10" cy="103.94444444444446" r="2" fill="#106cbc" />
+                                <ns0:circle transform="translate(10,10)" cx="10" cy="102.88888888888889" r="2" fill="#106cbc" />
                                 <ns0:circle transform="translate(10,10)" cx="29.565217391304348" cy="105" r="2" fill="#106cbc" />
                                 <ns0:circle transform="translate(10,10)" cx="49.130434782608695" cy="105" r="2" fill="#106cbc" />
                                 <ns0:circle transform="translate(10,10)" cx="68.69565217391305" cy="105" r="2" fill="#106cbc" />
@@ -2293,18 +2304,18 @@
                                 <ns0:circle transform="translate(10,10)" cx="244.7826086956522" cy="105" r="2" fill="#106cbc" />
                                 <ns0:circle transform="translate(10,10)" cx="264.3478260869565" cy="105" r="2" fill="#106cbc" />
                                 <ns0:circle transform="translate(10,10)" cx="283.9130434782609" cy="105" r="2" fill="#106cbc" />
-                                <ns0:circle transform="translate(10,10)" cx="303.4782608695652" cy="94.44444444444444" r="2" fill="#106cbc" />
+                                <ns0:circle transform="translate(10,10)" cx="303.4782608695652" cy="97.61111111111111" r="2" fill="#106cbc" />
                                 <ns0:circle transform="translate(10,10)" cx="323.04347826086956" cy="10" r="2" fill="#106cbc" />
                                 <ns0:circle transform="translate(10,10)" cx="342.60869565217394" cy="105" r="2" fill="#106cbc" />
                                 <ns0:circle transform="translate(10,10)" cx="362.17391304347825" cy="103.94444444444446" r="2" fill="#106cbc" />
                                 <ns0:circle transform="translate(10,10)" cx="381.7391304347826" cy="96.55555555555556" r="2" fill="#106cbc" />
                                 <ns0:circle transform="translate(10,10)" cx="401.30434782608694" cy="33.22222222222222" r="2" fill="#106cbc" />
                                 <ns0:circle transform="translate(10,10)" cx="420.8695652173913" cy="102.88888888888889" r="2" fill="#106cbc" />
-                                <ns0:circle transform="translate(10,10)" cx="440.4347826086956" cy="103.94444444444446" r="2" fill="#106cbc" />
+                                <ns0:circle transform="translate(10,10)" cx="440.4347826086956" cy="101.83333333333333" r="2" fill="#106cbc" />
                                 <ns0:circle transform="translate(10,10)" cx="460" cy="105" r="2" fill="#106cbc" />
                             </ns0:g>
                             <ns0:g fill="currentColor" text-anchor="middle" font-family="sans-serif" font-size="10" stroke="rgba(88, 166, 255, .05)" stroke-linejoin="round" stroke-width="4" paint-order="stroke fill">
-                                <ns0:text transform="translate(10,6)" x="10" y="103.94444444444446" fill="rgba(127, 127, 127, .8)">1</ns0:text>
+                                <ns0:text transform="translate(10,6)" x="10" y="102.88888888888889" fill="rgba(127, 127, 127, .8)">2</ns0:text>
                                 <ns0:text transform="translate(10,6)" x="29.565217391304348" y="105" fill="rgba(127, 127, 127, .8)" />
                                 <ns0:text transform="translate(10,6)" x="49.130434782608695" y="105" fill="rgba(127, 127, 127, .8)" />
                                 <ns0:text transform="translate(10,6)" x="68.69565217391305" y="105" fill="rgba(127, 127, 127, .8)" />
@@ -2319,14 +2330,14 @@
                                 <ns0:text transform="translate(10,6)" x="244.7826086956522" y="105" fill="rgba(127, 127, 127, .8)" />
                                 <ns0:text transform="translate(10,6)" x="264.3478260869565" y="105" fill="rgba(127, 127, 127, .8)" />
                                 <ns0:text transform="translate(10,6)" x="283.9130434782609" y="105" fill="rgba(127, 127, 127, .8)" />
-                                <ns0:text transform="translate(10,6)" x="303.4782608695652" y="94.44444444444444" fill="rgba(127, 127, 127, .8)">10</ns0:text>
+                                <ns0:text transform="translate(10,6)" x="303.4782608695652" y="97.61111111111111" fill="rgba(127, 127, 127, .8)">7</ns0:text>
                                 <ns0:text transform="translate(10,6)" x="323.04347826086956" y="10" fill="rgba(127, 127, 127, .8)">90</ns0:text>
                                 <ns0:text transform="translate(10,6)" x="342.60869565217394" y="105" fill="rgba(127, 127, 127, .8)" />
                                 <ns0:text transform="translate(10,6)" x="362.17391304347825" y="103.94444444444446" fill="rgba(127, 127, 127, .8)">1</ns0:text>
                                 <ns0:text transform="translate(10,6)" x="381.7391304347826" y="96.55555555555556" fill="rgba(127, 127, 127, .8)">8</ns0:text>
                                 <ns0:text transform="translate(10,6)" x="401.30434782608694" y="33.22222222222222" fill="rgba(127, 127, 127, .8)">68</ns0:text>
                                 <ns0:text transform="translate(10,6)" x="420.8695652173913" y="102.88888888888889" fill="rgba(127, 127, 127, .8)">2</ns0:text>
-                                <ns0:text transform="translate(10,6)" x="440.4347826086956" y="103.94444444444446" fill="rgba(127, 127, 127, .8)">1</ns0:text>
+                                <ns0:text transform="translate(10,6)" x="440.4347826086956" y="101.83333333333333" fill="rgba(127, 127, 127, .8)">3</ns0:text>
                                 <ns0:text transform="translate(10,6)" x="460" y="105" fill="rgba(127, 127, 127, .8)" />
                             </ns0:g>
                         </ns0:svg>
@@ -2369,11 +2380,11 @@
                                     </ns0:g>
                                 </ns0:g>
                                 <ns0:g transform="translate(10,10)" fill="none" font-size="10" font-family="sans-serif" text-anchor="start">
-                                    <ns0:g class="tick" opacity="1" transform="translate(0,30.69685039370078)">
+                                    <ns0:g class="tick" opacity="1" transform="translate(0,30.103174603174608)">
                                         <ns0:line stroke="currentColor" x2="196" stroke-opacity="0.5" stroke-dasharray="2,2" />
                                         <ns0:text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">100</ns0:text>
                                     </ns0:g>
-                                    <ns0:g class="tick" opacity="1" transform="translate(0,68.0984251968504)">
+                                    <ns0:g class="tick" opacity="1" transform="translate(0,67.8015873015873)">
                                         <ns0:line stroke="currentColor" x2="196" stroke-opacity="0.5" stroke-dasharray="2,2" />
                                         <ns0:text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">50</ns0:text>
                                     </ns0:g>
@@ -2382,23 +2393,23 @@
                                         <ns0:text fill="rgba(127, 127, 127, .8)" x="0" dy="-4">0</ns0:text>
                                     </ns0:g>
                                 </ns0:g>
-                                <ns0:path transform="translate(10,10)" d="M10,10L41,102.756L72,68.346L103,104.252L134,104.252L165,105L196,105" fill="transparent" stroke="#87ceeb" stroke-width="2" />
-                                <ns0:path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,105L165,105L134,104.252L103,104.252L72,68.346L41,102.756L10,10Z" fill="rgba(88, 166, 255, .1)" />
+                                <ns0:path transform="translate(10,10)" d="M10,10L41,101.984L72,68.056L103,104.246L134,104.246L165,105L196,105" fill="transparent" stroke="#87ceeb" stroke-width="2" />
+                                <ns0:path transform="translate(10,10)" d="M10,105L41,105L72,105L103,105L134,105L165,105L196,105L196,105L165,105L134,104.246L103,104.246L72,68.056L41,101.984L10,10Z" fill="rgba(88, 166, 255, .1)" />
                                 <ns0:g>
                                     <ns0:circle transform="translate(10,10)" cx="10" cy="10" r="2" fill="#106cbc" />
-                                    <ns0:circle transform="translate(10,10)" cx="41" cy="102.75590551181104" r="2" fill="#106cbc" />
-                                    <ns0:circle transform="translate(10,10)" cx="72" cy="68.34645669291339" r="2" fill="#106cbc" />
-                                    <ns0:circle transform="translate(10,10)" cx="103" cy="104.25196850393701" r="2" fill="#106cbc" />
-                                    <ns0:circle transform="translate(10,10)" cx="134" cy="104.25196850393701" r="2" fill="#106cbc" />
+                                    <ns0:circle transform="translate(10,10)" cx="41" cy="101.98412698412699" r="2" fill="#106cbc" />
+                                    <ns0:circle transform="translate(10,10)" cx="72" cy="68.05555555555556" r="2" fill="#106cbc" />
+                                    <ns0:circle transform="translate(10,10)" cx="103" cy="104.24603174603175" r="2" fill="#106cbc" />
+                                    <ns0:circle transform="translate(10,10)" cx="134" cy="104.24603174603175" r="2" fill="#106cbc" />
                                     <ns0:circle transform="translate(10,10)" cx="165" cy="105" r="2" fill="#106cbc" />
                                     <ns0:circle transform="translate(10,10)" cx="196" cy="105" r="2" fill="#106cbc" />
                                 </ns0:g>
                                 <ns0:g fill="currentColor" text-anchor="middle" font-family="sans-serif" font-size="10" stroke="rgba(88, 166, 255, .05)" stroke-linejoin="round" stroke-width="4" paint-order="stroke fill">
-                                    <ns0:text transform="translate(10,6)" x="10" y="10" fill="rgba(127, 127, 127, .8)">127</ns0:text>
-                                    <ns0:text transform="translate(10,6)" x="41" y="102.75590551181104" fill="rgba(127, 127, 127, .8)">3</ns0:text>
-                                    <ns0:text transform="translate(10,6)" x="72" y="68.34645669291339" fill="rgba(127, 127, 127, .8)">49</ns0:text>
-                                    <ns0:text transform="translate(10,6)" x="103" y="104.25196850393701" fill="rgba(127, 127, 127, .8)">1</ns0:text>
-                                    <ns0:text transform="translate(10,6)" x="134" y="104.25196850393701" fill="rgba(127, 127, 127, .8)">1</ns0:text>
+                                    <ns0:text transform="translate(10,6)" x="10" y="10" fill="rgba(127, 127, 127, .8)">126</ns0:text>
+                                    <ns0:text transform="translate(10,6)" x="41" y="101.98412698412699" fill="rgba(127, 127, 127, .8)">4</ns0:text>
+                                    <ns0:text transform="translate(10,6)" x="72" y="68.05555555555556" fill="rgba(127, 127, 127, .8)">49</ns0:text>
+                                    <ns0:text transform="translate(10,6)" x="103" y="104.24603174603175" fill="rgba(127, 127, 127, .8)">1</ns0:text>
+                                    <ns0:text transform="translate(10,6)" x="134" y="104.24603174603175" fill="rgba(127, 127, 127, .8)">1</ns0:text>
                                     <ns0:text transform="translate(10,6)" x="165" y="105" fill="rgba(127, 127, 127, .8)" />
                                     <ns0:text transform="translate(10,6)" x="196" y="105" fill="rgba(127, 127, 127, .8)" />
                                 </ns0:g>
@@ -2410,22 +2421,30 @@
                         <html:div class="margin-bottom">
                             <ns0:svg width="216" height="160">
                                 <ns0:g transform="translate(108,80)" stroke="white" stroke-width="1" stroke-linejoin="round">
-                                    <ns0:path fill="#3572A5" d="M0.5,-79.998A80,80,0,1,1,-8.754,79.52L0,0Z">
-                                        <ns0:title>Python
-0.14</ns0:title>
+                                    <ns0:path fill="#b07219" d="M0.5,-79.998A80,80,0,0,1,75.439,-26.627L0,0Z">
+                                        <ns0:title>Java
+0.41</ns0:title>
                                     </ns0:path>
-                                    <ns0:path fill="#A97BFF" d="M-9.747,79.404A80,80,0,0,1,-0.5,-79.998L0,0Z">
+                                    <ns0:path fill="#A97BFF" d="M75.766,-25.682A80,80,0,1,1,-31.686,-73.457L0,0Z">
                                         <ns0:title>Kotlin
+1.55</ns0:title>
+                                    </ns0:path>
+                                    <ns0:path fill="#3572A5" d="M-30.765,-73.848A80,80,0,0,1,-0.5,-79.998L0,0Z">
+                                        <ns0:title>Python
 0.13</ns0:title>
                                     </ns0:path>
                                 </ns0:g>
                                 <ns0:g transform="translate(108,80)" font-family="sans-serif" font-size="12" text-anchor="middle" fill="white" stroke="rbga(0,0,0,.9)" paint-order="stroke fill">
-                                    <ns0:text transform="translate(39.93286363903097,2.316549500131245)">
-                                        <ns0:tspan x="0" y="0em" font-weight="bold">Python</ns0:tspan>
-                                        <ns0:tspan x="0" y="1.1em">0.14</ns0:tspan>
+                                    <ns0:text transform="translate(23.20444352828895,-32.581494756110395)">
+                                        <ns0:tspan x="0" y="0em" font-weight="bold">Java</ns0:tspan>
+                                        <ns0:tspan x="0" y="1.1em">0.41</ns0:tspan>
                                     </ns0:text>
-                                    <ns0:text transform="translate(-39.93286363903097,-2.31654950013124)">
+                                    <ns0:text transform="translate(-16.250909303348994,36.55007451174792)">
                                         <ns0:tspan x="0" y="0em" font-weight="bold">Kotlin</ns0:tspan>
+                                        <ns0:tspan x="0" y="1.1em">1.55</ns0:tspan>
+                                    </ns0:text>
+                                    <ns0:text transform="translate(-7.966130592837937,-39.19873420632165)">
+                                        <ns0:tspan x="0" y="0em" font-weight="bold">Python</ns0:tspan>
                                         <ns0:tspan x="0" y="1.1em">0.13</ns0:tspan>
                                     </ns0:text>
                                 </ns0:g>
@@ -2448,14 +2467,14 @@
                         <ns0:rect x="0" y="0" width="460" height="8" fill="white" rx="5" />
                     </ns0:mask>
                     <ns0:rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da" />
-                    <ns0:rect mask="url(#languages-bar)" x="0" y="0" width="364.89964730129236" height="8" fill="#A97BFF" />
-                    <ns0:rect mask="url(#languages-bar)" x="364.89964730129236" y="0" width="77.43074668284217" height="8" fill="#b07219" />
-                    <ns0:rect mask="url(#languages-bar)" x="442.3303939841345" y="0" width="10.523194878890541" height="8" fill="#3572A5" />
-                    <ns0:rect mask="url(#languages-bar)" x="452.8535888630251" y="0" width="1.745655635698537" height="8" fill="#663399" />
-                    <ns0:rect mask="url(#languages-bar)" x="454.59924449872364" y="0" width="1.7312507756240076" height="8" fill="#f1e05a" />
-                    <ns0:rect mask="url(#languages-bar)" x="456.33049527434764" y="0" width="1.629082971762067" height="8" fill="#f34b7d" />
-                    <ns0:rect mask="url(#languages-bar)" x="457.9595782461097" y="0" width="1.2163214874042527" height="8" fill="#e34c26" />
-                    <ns0:rect mask="url(#languages-bar)" x="459.175899733514" y="0" width="0.8241002664860454" height="8" fill="#ededed" />
+                    <ns0:rect mask="url(#languages-bar)" x="0" y="0" width="365.0261168601692" height="8" fill="#A97BFF" />
+                    <ns0:rect mask="url(#languages-bar)" x="365.0261168601692" y="0" width="77.60267253603968" height="8" fill="#b07219" />
+                    <ns0:rect mask="url(#languages-bar)" x="442.62878939620884" y="0" width="10.345484460819769" height="8" fill="#3572A5" />
+                    <ns0:rect mask="url(#languages-bar)" x="452.9742738570286" y="0" width="1.7161758820307715" height="8" fill="#663399" />
+                    <ns0:rect mask="url(#languages-bar)" x="454.6904497390594" y="0" width="1.7020142839822292" height="8" fill="#f1e05a" />
+                    <ns0:rect mask="url(#languages-bar)" x="456.39246402304155" y="0" width="1.6015718385638635" height="8" fill="#f34b7d" />
+                    <ns0:rect mask="url(#languages-bar)" x="457.9940358616055" y="0" width="1.1957808623827895" height="8" fill="#e34c26" />
+                    <ns0:rect mask="url(#languages-bar)" x="459.18981672398826" y="0" width="0.8101832760116744" height="8" fill="#ededed" />
                 </ns0:svg>
                 <html:div class="row fill-width">
                     <html:section>
@@ -2467,8 +2486,8 @@
                                 Kotlin
                             </html:div>
                             <html:small>
-                                <html:div>4.10 MB</html:div>
-                                <html:div>79.33%</html:div>
+                                <html:div>4.18 MB</html:div>
+                                <html:div>79.35%</html:div>
                             </html:small>
                         </html:div>
                         <html:div class="field language details">
@@ -2480,7 +2499,7 @@
                             </html:div>
                             <html:small>
                                 <html:div>118 kB</html:div>
-                                <html:div>2.29%</html:div>
+                                <html:div>2.25%</html:div>
                             </html:small>
                         </html:div>
                         <html:div class="field language details">
@@ -2492,7 +2511,7 @@
                             </html:div>
                             <html:small>
                                 <html:div>19.4 kB</html:div>
-                                <html:div>0.38%</html:div>
+                                <html:div>0.37%</html:div>
                             </html:small>
                         </html:div>
                         <html:div class="field language details">
@@ -2517,8 +2536,8 @@
                                 Java
                             </html:div>
                             <html:small>
-                                <html:div>870 kB</html:div>
-                                <html:div>16.83%</html:div>
+                                <html:div>887 kB</html:div>
+                                <html:div>16.87%</html:div>
                             </html:small>
                         </html:div>
                         <html:div class="field language details">
@@ -2530,7 +2549,7 @@
                             </html:div>
                             <html:small>
                                 <html:div>19.6 kB</html:div>
-                                <html:div>0.38%</html:div>
+                                <html:div>0.37%</html:div>
                             </html:small>
                         </html:div>
                         <html:div class="field language details">
@@ -2578,6 +2597,142 @@
                                     </ns0:svg>
                                     <html:div class="content">
                                         Pushed 1 commit in
+                                        <html:span class="repo">knighthat/innertube-kotlin</html:span>
+                                    </html:div>
+                                </html:div>
+                                <html:div class="details">
+                                    <html:div>on branch <html:span class="code">dev</html:span></html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#12197ce</html:div>
+                                        <html:div class="message">remove dependency-submission</html:div>
+                                    </html:div>
+                                </html:div>
+                            </html:section>
+                        </html:div>
+                        <html:div class="row fill-width">
+                            <html:section class="activity">
+                                <html:div class="field">
+                                    <ns0:svg viewBox="0 0 16 16" width="16" height="16">
+                                        <ns0:path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z" />
+                                    </ns0:svg>
+                                    <html:div class="content">
+                                        Pushed 1 commit in
+                                        <html:span class="repo">knighthat/innertube-kotlin</html:span>
+                                    </html:div>
+                                </html:div>
+                                <html:div class="details">
+                                    <html:div>on branch <html:span class="code">dev</html:span></html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#ee2e982</html:div>
+                                        <html:div class="message">Create test-on-push.yml</html:div>
+                                    </html:div>
+                                </html:div>
+                            </html:section>
+                        </html:div>
+                        <html:div class="row fill-width">
+                            <html:section class="activity">
+                                <html:div class="field">
+                                    <ns0:svg viewBox="0 0 16 16" width="16" height="16">
+                                        <ns0:path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z" />
+                                    </ns0:svg>
+                                    <html:div class="content">
+                                        Pushed 29 commits in
+                                        <html:span class="repo">knighthat/innertube-kotlin</html:span>
+                                    </html:div>
+                                </html:div>
+                                <html:div class="details">
+                                    <html:div>on branch <html:span class="code">dev</html:span></html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#6069b5e</html:div>
+                                        <html:div class="message">implement parsers &amp; port tests of InnertubePlaylistImpl</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#5190598</html:div>
+                                        <html:div class="message">implement parsers &amp; port tests of InnertubeArtistImpl</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#8fc4a0e</html:div>
+                                        <html:div class="message">implement parsers &amp; port tests of InnertubeAlbumImpl</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#29862fa</html:div>
+                                        <html:div class="message">implement parsers &amp; port tests of ContinuedPlaylistImpl</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#6178ac4</html:div>
+                                        <html:div class="message">add subtitleText converter</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#03cb41e</html:div>
+                                        <html:div class="message">change from var to val</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#af14d45</html:div>
+                                        <html:div class="message">convert Section to interface</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#6bfbfc8</html:div>
+                                        <html:div class="message">fix reference</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#1421f4e</html:div>
+                                        <html:div class="message">add subscription button to BrowseResponse for artist</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#e3657df</html:div>
+                                        <html:div class="message">replace Endpoint.Browse with Runs.Run of artists</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#38aa47a</html:div>
+                                        <html:div class="message">implementations of models</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#a249a47</html:div>
+                                        <html:div class="message">introduce interface for innertube's components</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#4df215e</html:div>
+                                        <html:div class="message">add missing icon interface</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#99c9d49</html:div>
+                                        <html:div class="message">implement tests for requests body builders</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#6c4776b</html:div>
+                                        <html:div class="message">port request bodies to Kotlin</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#1f1de97</html:div>
+                                        <html:div class="message">port localization and context</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#8aa6ef7</html:div>
+                                        <html:div class="message">add org.junit.jupiter:junit-jupiter-params</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#78fd6a1</html:div>
+                                        <html:div class="message">update nullability</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#1680516</html:div>
+                                        <html:div class="message">fixup! port implementations of response components</html:div>
+                                    </html:div>
+                                    <html:div class="commit">
+                                        <html:div class="sha">#497ca30</html:div>
+                                        <html:div class="message">basic files</html:div>
+                                    </html:div>
+                                </html:div>
+                            </html:section>
+                        </html:div>
+                        <html:div class="row fill-width">
+                            <html:section class="activity">
+                                <html:div class="field">
+                                    <ns0:svg viewBox="0 0 16 16" width="16" height="16">
+                                        <ns0:path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z" />
+                                    </ns0:svg>
+                                    <html:div class="content">
+                                        Pushed 1 commit in
                                         <html:span class="repo">knighthat/Kreate</html:span>
                                     </html:div>
                                 </html:div>
@@ -2604,63 +2759,6 @@
                                 <html:div class="details">
                                     <html:div>opened by Ewynelima in <html:span class="repo">knighthat/Kreate</html:span></html:div>
                                     <html:div class="comment">If you download multiple songs at once, they may fail. You can use cache feature, just let the song play from start to finish to cache it.</html:div>
-                                </html:div>
-                            </html:section>
-                        </html:div>
-                        <html:div class="row fill-width">
-                            <html:section class="activity">
-                                <html:div class="field">
-                                    <ns0:svg viewBox="0 0 16 16" width="16" height="16">
-                                        <ns0:path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z" />
-                                    </ns0:svg>
-                                    <html:div class="content">
-                                        Commented on
-                                        <html:span class="issue">#449 "Es-&gt;nia" instead of "Estonia"</html:span>
-                                    </html:div>
-                                </html:div>
-                                <html:div class="details">
-                                    <html:div>opened by emanuele6 in <html:span class="repo">knighthat/Kreate</html:span></html:div>
-                                    <html:div class="comment">Thanks for the report. I'm planning to ditch this implementation, because Android already has feature to convert country code to name (possibly in currently selected language too).</html:div>
-                                </html:div>
-                            </html:section>
-                        </html:div>
-                        <html:div class="row fill-width">
-                            <html:section class="activity">
-                                <html:div class="field">
-                                    <ns0:svg viewBox="0 0 16 16" width="16" height="16">
-                                        <ns0:path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z" />
-                                    </ns0:svg>
-                                    <html:div class="content">
-                                        Pushed 1 commit in
-                                        <html:span class="repo">knighthat/Kreate</html:span>
-                                    </html:div>
-                                </html:div>
-                                <html:div class="details">
-                                    <html:div>on branch <html:span class="code">l10n_main</html:span></html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#7801f09</html:div>
-                                        <html:div class="message">New translations strings.xml (Portuguese)</html:div>
-                                    </html:div>
-                                </html:div>
-                            </html:section>
-                        </html:div>
-                        <html:div class="row fill-width">
-                            <html:section class="activity">
-                                <html:div class="field">
-                                    <ns0:svg viewBox="0 0 16 16" width="16" height="16">
-                                        <ns0:path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z" />
-                                    </ns0:svg>
-                                    <html:div class="content">
-                                        Pushed 1 commit in
-                                        <html:span class="repo">knighthat/Kreate</html:span>
-                                    </html:div>
-                                </html:div>
-                                <html:div class="details">
-                                    <html:div>on branch <html:span class="code">l10n_main</html:span></html:div>
-                                    <html:div class="commit">
-                                        <html:div class="sha">#12410fb</html:div>
-                                        <html:div class="message">New translations strings.xml (German)</html:div>
-                                    </html:div>
                                 </html:div>
                             </html:section>
                         </html:div>
