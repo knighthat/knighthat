@@ -42,7 +42,7 @@ jobs:
           config_order: "base.header, introduction, base.repositories, isocalendar, habits, activity, languages,"
 
       - name: "Checkout Python Code"
-        uses: actions/checkout@v3
+        uses: actions/checkout@v6
         with:
           ref: 'main'
 
