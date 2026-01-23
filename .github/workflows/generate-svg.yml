@@ -47,9 +47,9 @@ jobs:
           ref: 'main'
 
       - name: "Launch Python"
-        uses: actions/setup-python@v4.7.0
+        uses: actions/setup-python@v6
         with:
-          python-version: 3.11
+          python-version: 3.13
 
       - name: "Prettify Raw SVG"
         run: |
