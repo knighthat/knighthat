@@ -65,4 +65,4 @@ items_wrapper.append(calendar)
 items_wrapper.append(activity)
 
 
-svgfile.write('prettified.svg')
+svgfile.write('profile.svg')

@@ -72,7 +72,6 @@ jobs:
       - name: "Prettify Raw SVG"
         run: |
           python main.py draft.svg
-          mv prettified.svg profile.svg
 
       - name: "Push Final SVG"
         run: |
